@@ -78,12 +78,23 @@ GEO-Resources/
 
 ## 🔄 自动更新
 
-本项目配置了自动更新任务：
+本项目配置了自动更新任务，参考 AgentInterview 模式：
+
 - **时间**: 每天凌晨 2:20
-- **内容**: 
-  - 检索 GitHub 最新 GEO 相关项目
-  - 搜索微信公众号最新文章
-  - 更新资源汇总文档
+- **流程**:
+  1. 检索 GitHub 最新 GEO 项目（6 个关键词）
+  2. 搜索微信公众号文章（9 个关键词，每个 10 篇）
+  3. 整理分析内容（分类、提取核心观点）
+  4. 更新资源文档（github-projects.md、wechat-articles.md、tools.md）
+  5. 创建知识卡片和日报
+  6. Git 提交推送
+  7. 发送钉钉通知
+- **输出**:
+  - `resources/` - 资源文档更新
+  - `memory/github-search-*.json` - GitHub 原始数据
+  - `memory/wechat-search-*.json` - 微信原始数据
+  - `memory/geo-knowledge-*.md` - 知识卡片
+  - `memory/geo-daily-report-*.md` - 日报
 
 ## 📊 更新日志
 
