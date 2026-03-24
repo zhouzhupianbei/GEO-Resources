@@ -66,35 +66,29 @@ GEO-Resources/
 │   ├── wechat-articles.md    # 微信文章精选
 │   ├── tools.md              # GEO 工具推荐
 │   └── case-studies.md       # 案例研究
-├── memory/                    # 自动更新记录
-│   ├── github-updates-*.md
-│   └── wechat-updates-*.md
-├── scripts/                   # 自动化脚本
-│   ├── update-github.py
-│   ├── update-wechat.py
-│   └── auto-sync.sh
+├── memory/                    # 学习笔记
+│   ├── github-search-*.md    # GitHub 检索笔记
+│   ├── wechat-search-*.md    # 微信文章笔记
+│   ├── geo-knowledge-*.md    # 知识卡片
+│   └── daily-report-*.md     # 整理日志
+├── scripts/                   # 本地工具（未公开）
 └── README.md
 ```
 
-## 🔄 自动更新
+## 🔄 持续更新
 
-本项目配置了自动更新任务，参考 AgentInterview 模式：
+本项目持续整理 GEO 领域最新资料：
 
-- **时间**: 每天凌晨 2:20
-- **流程**:
-  1. 检索 GitHub 最新 GEO 项目（6 个关键词）
-  2. 搜索微信公众号文章（9 个关键词，每个 10 篇）
-  3. 整理分析内容（分类、提取核心观点）
-  4. 更新资源文档（github-projects.md、wechat-articles.md、tools.md）
-  5. 创建知识卡片和日报
-  6. Git 提交推送
-  7. 发送钉钉通知
-- **输出**:
-  - `resources/` - 资源文档更新
-  - `memory/github-search-*.json` - GitHub 原始数据
-  - `memory/wechat-search-*.json` - 微信原始数据
-  - `memory/geo-knowledge-*.md` - 知识卡片
-  - `memory/geo-daily-report-*.md` - 日报
+- **更新频率**: 每日更新
+- **内容来源**:
+  - GitHub 优质开源项目
+  - 微信公众号技术文章
+  - 行业实践案例
+- **更新内容**:
+  - `resources/` - 资源文档（项目、文章、工具）
+  - `memory/` - 学习笔记和知识卡片
+
+> 💡 发现优质资源？欢迎提交 Issue 推荐！
 
 ## 📊 更新日志
 
