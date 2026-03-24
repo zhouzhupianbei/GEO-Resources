@@ -93,6 +93,8 @@ GEO-Resources/
 
 欢迎提交 Issue 和 Pull Request！
 
+**仓库地址**: https://github.com/zhouzhupianbei/GEO-Resources
+
 ## 📄 许可证
 
 MIT License
