@@ -1,55 +1,108 @@
-# GitHub 项目资源
+# GitHub 项目精选
 
-> 自动收集的 GEO 相关优质 GitHub 项目
+这里收录的 GitHub 项目，不是简单按关键词罗列，而是围绕 GEO 的实际工作场景进行筛选和整理。
 
-最后更新：2026-03-24 11:47
-
----
-
-## 🔥 热门项目 (按 Stars 排序)
-
-| 项目 | 描述 | Stars | 语言 | 更新 |
-|------|------|-------|------|------|
-| [miurla/morphic](https://github.com/miurla/morphic) | An AI-powered search engine with a generative UI | ⭐8696 | TypeScript | 2026-03-24 |
-| [zubair-trabzada/geo-seo-claude](https://github.com/zubair-trabzada/geo-seo-claude) | GEO-first SEO skill for Claude Code. Comprehensive... | ⭐3711 | Python | 2026-03-24 |
-| [bgauryy/octocode-mcp](https://github.com/bgauryy/octocode-mcp) | MCP server for semantic code research and context ... | ⭐762 | TypeScript | 2026-03-24 |
-| [jaywalnut310/glow-tts](https://github.com/jaywalnut310/glow-tts) | A Generative Flow for Text-to-Speech via Monotonic... | ⭐705 | Python | 2026-03-23 |
-| [Azure-Samples/aisearch-openai-rag-audio](https://github.com/Azure-Samples/aisearch-openai-rag-audio) | A simple example implementation of the VoiceRAG pa... | ⭐549 | Python | 2026-03-17 |
-| [VITA-Group/AutoGAN](https://github.com/VITA-Group/AutoGAN) | [ICCV 2019] "AutoGAN: Neural Architecture Search f... | ⭐469 | Python | 2026-03-20 |
-| [aws-samples/bedrock-engineer](https://github.com/aws-samples/bedrock-engineer) | Universal AI Agent using Amazon Bedrock, capable o... | ⭐467 | TypeScript | 2026-03-20 |
-| [wangzyon/NVIDIA_SGEMM_PRACTICE](https://github.com/wangzyon/NVIDIA_SGEMM_PRACTICE) | Step-by-step optimization of CUDA SGEMM | ⭐448 | Cuda | 2026-03-21 |
-| [onvoyage-ai/gtm-engineer-skills](https://github.com/onvoyage-ai/gtm-engineer-skills) | Claude Code skill for improving website AEO (AI En... | ⭐442 | HTML | 2026-03-24 |
-| [yzhaiustc/Optimizing-SGEMM-on-NVIDIA-Turing-GPUs](https://github.com/yzhaiustc/Optimizing-SGEMM-on-NVIDIA-Turing-GPUs) | Optimizing SGEMM kernel functions on NVIDIA GPUs t... | ⭐409 | Cuda | 2026-03-24 |
-| [shibing624/dialogbot](https://github.com/shibing624/dialogbot) | dialogbot, provide search-based dialogue, task-bas... | ⭐330 | Python | 2026-03-15 |
-| [AgriciDaniel/claude-blog](https://github.com/AgriciDaniel/claude-blog) | Claude Code skill ecosystem for blog content creat... | ⭐300 | Python | 2026-03-24 |
-| [solderneer/obsidian-ai-tools](https://github.com/solderneer/obsidian-ai-tools) | Adding powerful semantic search, generative answer... | ⭐276 | TypeScript | 2026-03-17 |
-| [molyswu/hand_detection](https://github.com/molyswu/hand_detection) | using Neural Networks (SSD) on Tensorflow.  This r... | ⭐274 | Python | 2026-03-11 |
-| [NotaInutilis/Super-SEO-Spam-Suppressor](https://github.com/NotaInutilis/Super-SEO-Spam-Suppressor) | An anticapitalist blocklist targeting websites abu... | ⭐268 | Python | 2026-03-23 |
-| [amplifying-ai/awesome-generative-engine-optimization](https://github.com/amplifying-ai/awesome-generative-engine-optimization) | A curated guide to Generative Engine Optimization ... | ⭐255 | None | 2026-03-23 |
-| [geo-team-red/geo-optimizer](https://github.com/geo-team-red/geo-optimizer) | A pluggable framework for GEO (Generative Engine O... | ⭐253 | Go | 2026-03-24 |
-| [luka2chat/awesome-geo](https://github.com/luka2chat/awesome-geo) | 🚀 A curated list of awesome resources for Generati... | ⭐243 | None | 2026-03-23 |
-| [8b-is/smart-tree](https://github.com/8b-is/smart-tree) | Smart Tree: not just a tree, a philosophy. A conte... | ⭐229 | Rust | 2026-03-19 |
-| [DerwenAI/strwythura](https://github.com/DerwenAI/strwythura) | Strwythura: construct an entity-resolved knowledge... | ⭐215 | Python | 2026-03-16 |
-
-
-## 📊 统计信息
-
-- 总项目数：40
-- 平均 Stars: 540
-- 主要语言：Python(15), TypeScript(9), None(8)
+筛选重点主要看四件事：
+- 有没有真实使用价值
+- 是否体现了 AI 搜索 / 生成式检索 / 内容理解相关思路
+- 是否对内容生产、结构优化、知识组织有帮助
+- 是否值得作为中文资料整理的参考样本
 
 ---
 
-## 📝 收录标准
+## 阅读建议
 
-- ⭐ Stars > 50
-- 📅 最近 6 个月有更新
-- 📖 有完善的文档
-- 🛠️ 可实际使用
+如果你第一次看这份清单，建议不要从 Stars 最高的项目开始，而是先按“你现在要解决的问题”来看：
 
-## 🔄 更新说明
+- 想理解 GEO 的方法论：先看 **资料索引类**
+- 想找可借鉴的产品形态：先看 **搜索与问答类**
+- 想补内容结构化能力：先看 **知识组织类**
+- 想做工具链：先看 **工作流与工程类**
 
-每日凌晨自动检索更新，如需手动刷新请运行：
-```bash
-python3 scripts/update-github.py
-```
+---
+
+## 一、资料索引类
+
+这类项目更适合建立认知，帮助你快速了解 GEO / AEO / AI Search 相关概念和案例。
+
+| 项目 | 中文说明 | 适合谁看 | 链接 |
+|------|----------|----------|------|
+| awesome-generative-engine-optimization | GEO 资料导航型项目，适合快速扫全局 | 初学者、内容负责人 | https://github.com/amplifying-ai/awesome-generative-engine-optimization |
+| awesome-geo | 聚合型资料仓库，可作为选题和资料补充入口 | 研究者、写作者 | https://github.com/luka2chat/awesome-geo |
+| geo-seo-claude | 面向 Claude Code 的 GEO/SEO 方法集合，偏工具化 | 实操型团队 | https://github.com/zubair-trabzada/geo-seo-claude |
+
+---
+
+## 二、搜索与问答类
+
+这类项目更能帮助理解“AI 是如何组织答案、展示结果、组合内容”的。
+
+| 项目 | 中文说明 | 可借鉴点 | 链接 |
+|------|----------|----------|------|
+| morphic | 生成式搜索产品形态示例，界面和回答组织值得参考 | 回答结构、信息聚合 | https://github.com/miurla/morphic |
+| aisearch-openai-rag-audio | AI 搜索与 RAG 结合的样例项目 | 检索链路、问答体验 | https://github.com/Azure-Samples/aisearch-openai-rag-audio |
+| dialogbot | 搜索式对话与任务型问答项目 | 搜索 + 问答的结合方式 | https://github.com/shibing624/dialogbot |
+
+---
+
+## 三、知识组织与结构化类
+
+GEO 的一个核心点，不只是“写”，更是“结构化表达”。这类项目有助于补齐这一层能力。
+
+| 项目 | 中文说明 | 可借鉴点 | 链接 |
+|------|----------|----------|------|
+| octocode-mcp | 语义研究与上下文组织能力较强 | 语义检索、上下文拼装 | https://github.com/bgauryy/octocode-mcp |
+| strwythura | 偏知识图谱与结构构建 | 实体关系、知识结构 | https://github.com/DerwenAI/strwythura |
+| smart-tree | 更偏信息组织与结构哲学 | 内容分层、信息树设计 | https://github.com/8b-is/smart-tree |
+| obsidian-ai-tools | AI 搜索与知识库工具化思路 | 知识库增强、语义检索 | https://github.com/solderneer/obsidian-ai-tools |
+
+---
+
+## 四、工作流与工程类
+
+这类项目本身未必直接叫 GEO，但它们代表了“如何把 AI 工作流嵌入内容生产和知识管理”的现实路径。
+
+| 项目 | 中文说明 | 可借鉴点 | 链接 |
+|------|----------|----------|------|
+| bedrock-engineer | AI Agent 与工程工作流结合 | 工作流编排、任务拆解 | https://github.com/aws-samples/bedrock-engineer |
+| gtm-engineer-skills | 面向网站 AEO 优化的技能集 | 网站优化、内容适配 | https://github.com/onvoyage-ai/gtm-engineer-skills |
+| claude-blog | 内容生产工作流型项目 | 内容生成、结构复用 | https://github.com/AgriciDaniel/claude-blog |
+
+---
+
+## 五、整理结论
+
+从目前看到的项目来看，GEO 相关开源方向主要集中在四条线上：
+
+1. **资料索引化**：先把 GEO 的概念、案例、方法论聚起来
+2. **搜索产品化**：把“检索 + 生成 + 引用”做成更自然的产品体验
+3. **内容结构化**：把内容从文章，变成可理解、可调用、可引用的知识单元
+4. **流程工程化**：让内容生产、优化、分发进入稳定工作流
+
+真正有价值的不是“又抓到几个仓库”，而是看清楚这些仓库背后的方向：
+- AI 搜索会越来越像“答案工程”
+- 内容优化会越来越像“结构工程”
+- 品牌竞争会越来越像“认知占位”
+
+---
+
+## 后续补充方向
+
+后续这份文档会继续补三类内容：
+- 每个项目更详细的中文点评
+- 项目之间的能力对照表
+- 哪些项目更适合企业借鉴，哪些更适合个人练手
+
+如果你只想先看重点，建议优先从以下项目开始：
+- morphic
+- geo-seo-claude
+- awesome-generative-engine-optimization
+- gtm-engineer-skills
+
+---
+
+## 备注
+
+本文档重在“整理与判断”，不是单纯的项目列表。
+
+如果后续有新增项目，也会优先按“能否帮助中文读者理解 GEO”来决定是否纳入。 
