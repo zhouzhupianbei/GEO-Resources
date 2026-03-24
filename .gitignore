@@ -42,6 +42,10 @@ Thumbs.db
 memory/*.md
 !memory/.gitkeep
 
+# Scripts (auto-generated, not tracked)
+scripts/
+!scripts/.gitkeep
+
 # Temporary
 tmp/
 temp/
