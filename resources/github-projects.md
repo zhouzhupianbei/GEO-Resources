@@ -151,3 +151,54 @@ GEO 的一个核心点,不只是"写",更是"结构化表达"。这类项目有�
 本文档重在"整理与判断",不是单纯的项目列表。
 
 如果后续有新增项目,也会优先按"能否帮助中文读者理解 GEO"来决定是否纳入。
+
+## 2026-04-07 更新
+
+### pyg-team/pytorch_geometric
+- **Stars**: 23,654
+- **描述**: Graph Neural Network Library for PyTorch
+- **链接**: [https://github.com/pyg-team/pytorch_geometric](https://github.com/pyg-team/pytorch_geometric)
+- **标签**: deep-learning, geometric-deep-learning, graph-convolutional-networks, graph-neural-networks, pytorch
+
+### blevesearch/bleve
+- **Stars**: 11,036
+- **描述**: A modern text/numeric/geo-spatial/vector indexing library for go
+- **链接**: [https://github.com/blevesearch/bleve](https://github.com/blevesearch/bleve)
+- **标签**: 无
+
+### coreyhaines31/marketingskills
+- **Stars**: 19,218
+- **描述**: Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
+- **链接**: [https://github.com/coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
+- **标签**: claude, codex, marketing
+
+### aimeos/aimeos
+- **Stars**: 5,321
+- **描述**: Integrated online shop based on Laravel 12 and the Aimeos e-commerce framework for ultra-fast online shops, scalable marketplaces, complex B2B applications and #gigacommerce
+- **链接**: [https://github.com/aimeos/aimeos](https://github.com/aimeos/aimeos)
+- **标签**: aimeos, b2b, cart, e-commerce, e-commerce-platform
+
+### miurla/morphic
+- **Stars**: 8,741
+- **描述**: An AI-powered search engine with a generative UI
+- **链接**: [https://github.com/miurla/morphic](https://github.com/miurla/morphic)
+- **标签**: deepseek-r1, generative-ai, generative-ui, nextjs, ollama
+
+### aws-samples/bedrock-engineer
+- **Stars**: 471
+- **描述**: Universal AI Agent using Amazon Bedrock, capable of customize to create/edit files, execute commands, search the web, use knowledge base, use multi-agents, generative images and more.
+- **链接**: [https://github.com/aws-samples/bedrock-engineer](https://github.com/aws-samples/bedrock-engineer)
+- **标签**: agent, ai, aws, bedrock, claude
+
+### google/magika
+- **Stars**: 10,198
+- **描述**: Fast and accurate AI powered file content types detection 
+- **链接**: [https://github.com/google/magika](https://github.com/google/magika)
+- **标签**: ai, deep-learning, filetype, keras-classification-models, keras-models
+
+### gorse-io/gorse
+- **Stars**: 9,595
+- **描述**: AI powered open source recommender system engine supports classical/LLM rankers and multimodal content via embedding
+- **链接**: [https://github.com/gorse-io/gorse](https://github.com/gorse-io/gorse)
+- **标签**: collaborative-filtering, go, knn, machine-learning, recommender-system
+
