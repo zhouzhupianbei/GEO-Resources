@@ -344,3 +344,66 @@ GEO 的一个核心点,不只是"写",更是"结构化表达"。这类项目有�
 - **链接**: [https://github.com/gorse-io/gorse](https://github.com/gorse-io/gorse)
 - **标签**: collaborative-filtering, go, knn, machine-learning, recommender-system
 
+
+## 2026-05-10 更新
+
+### chatchat-space/Langchain-Chatchat
+- **Stars**: 37,983
+- **描述**: Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Llama) RAG and Agent app with langchain 
+- **链接**: [https://github.com/chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat)
+- **标签**: chatbot, chatchat, chatglm, chatgpt, embedding
+
+### labring/FastGPT
+- **Stars**: 27,963
+- **描述**: FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.
+- **链接**: [https://github.com/labring/FastGPT](https://github.com/labring/FastGPT)
+- **标签**: agent, claude, deepseek, llm, mcp
+
+### Lum1104/Understand-Anything
+- **Stars**: 13,747
+- **描述**: Graphs that teach > graphs that impress. Turn any code, or knowledge base (Karpathy LLM wiki), into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
+- **链接**: [https://github.com/Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)
+- **标签**: antigravity-skills, business-knowledge, claude-code, claude-skills, codex
+
+### OpenSPG/KAG
+- **Stars**: 8,723
+- **描述**: KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs.  It is used to build logical reasoning and factual Q&A solutions for professional domain knowledge bases. It can effectively overcome the shortcomings of the traditional RAG vector similarity calculation model.
+- **链接**: [https://github.com/OpenSPG/KAG](https://github.com/OpenSPG/KAG)
+- **标签**: knowledge-graph, large-language-model, logical-reasoning, multi-hop-question-answering, trustfulness
+
+### nashsu/llm_wiki
+- **Stars**: 6,588
+- **描述**: LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。
+- **链接**: [https://github.com/nashsu/llm_wiki](https://github.com/nashsu/llm_wiki)
+- **标签**: 无
+
+### DataTalksClub/llm-zoomcamp
+- **Stars**: 5,019
+- **描述**: LLM Zoomcamp - a free online course about real-life applications of LLMs. In 10 weeks you will learn how to build an AI system that answers questions about your knowledge base.
+- **链接**: [https://github.com/DataTalksClub/llm-zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp)
+- **标签**: 无
+
+### AgriciDaniel/claude-obsidian
+- **Stars**: 4,627
+- **描述**: Claude + Obsidian knowledge companion. Persistent, compounding wiki vault based on Karpathy's LLM Wiki pattern. /wiki /save /autoresearch
+- **链接**: [https://github.com/AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian)
+- **标签**: ai, claude-code, claude-code-skill, knowledge-management, obsidian
+
+### SamurAIGPT/llm-wiki-agent
+- **Stars**: 2,543
+- **描述**: A personal knowledge base that builds and maintains itself. Drop in sources — Claude (or Codex/Gemini) reads them, extracts knowledge, and maintains a persistent interlinked wiki. Works with Claude Code, Codex, OpenCode, Gemini CLI. No API key needed.
+- **链接**: [https://github.com/SamurAIGPT/llm-wiki-agent](https://github.com/SamurAIGPT/llm-wiki-agent)
+- **标签**: claude-code, codex, gemini, knowledge-base, knowledge-graph
+
+### ericosiu/ai-marketing-skills
+- **Stars**: 2,294
+- **描述**: Open-source AI marketing skills — growth experiments, sales pipeline, content ops, outbound, SEO, and finance automation
+- **链接**: [https://github.com/ericosiu/ai-marketing-skills](https://github.com/ericosiu/ai-marketing-skills)
+- **标签**: 无
+
+### hymie122/RAG-Survey
+- **Stars**: 1,789
+- **描述**: Collecting awesome papers of RAG for AIGC.  We propose a taxonomy of RAG foundations, enhancements, and applications in paper "Retrieval-Augmented Generation for AI-Generated Content: A Survey".
+- **链接**: [https://github.com/hymie122/RAG-Survey](https://github.com/hymie122/RAG-Survey)
+- **标签**: aigc, diffusion-models, llm, multimodality, rag
+
