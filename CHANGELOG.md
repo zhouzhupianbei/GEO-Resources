@@ -4,7 +4,41 @@
 
 ---
 
+## 2026-06
+
+### 2026-06-22
+- 📚 补充 GitHub 项目 11 个：聚焦 llms.txt 工程化基础设施(llms-txt-hub、nuxt-llms、mkdocs-llmstxt、dotenvx/llmstxt 等)与 AI 可见度自动诊断/修复闭环(elmohq/elmo、PixelOrange7/orangeo-ai-visibility-skill、Houseofmvps/claude-rank)
+- 📚 补充微信文章 10 篇：聚焦「GEO 投毒被央视曝光」「行业洗牌前夜判断框架」「企业知识图谱资产」三大新信号
+
+### 2026-06-16
+- 📚 补充 GitHub 项目 10 个：聚焦 AI 可见度监测独立赛道、GEO/AEO 技能集全栈化、CMS 侧 AEO 落地(ansvisor/ansvisor、anyin-ai/aperture、danishashko/geo-aeo-tracker、AEO-God-Mode/aeo-god-mode 等)
+- 📚 补充微信文章 22 篇：聚焦「GEO 商业化落地」与「AI 搜索产品形态」两大轴
+
+### 2026-06-13
+- 📚 补充 GitHub 项目 8 个：聚焦 GEO 服务端质量监控、内容生成与学术研究资源
+- 📚 补充微信文章 10 篇：聚焦 GEO 实操案例与方法论
+
+### 2026-06-07
+- 📚 补充 GitHub 项目 10 个:聚焦 llms.txt 生态(llmstxt-hub、llmstxt-generator、llmstxt-site)
+- 📚 补充微信文章 8 篇:聚焦 llms.txt 工程化与 AEO 落地
+
+### 2026-06-04
+- 📚 补充 GitHub 项目 8 个:聚焦 GEO 工具链与 SEO 协同
+- 📚 补充微信文章 10 篇:聚焦 GEO 商业化与企业应用
+
+### 2026-06-01
+- 📚 补充 GitHub 项目 5 个:聚焦 AEO 技能集与 SEO 工具
+- 📚 补充微信文章 6 篇:聚焦基础概念与案例
+
 ## 2026-05
+
+### 2026-05-19
+- 📚 补充 GitHub 项目 7 个:聚焦 GEO 评估与监测工具
+- 📚 补充微信文章 8 篇:聚焦 AEO 与 llms.txt 主题
+
+### 2026-05-13
+- 📚 补充 GitHub 项目 5 个:聚焦 GEO 自动化与监测
+- 📚 补充微信文章 6 篇:聚焦实操方法
 
 ### 2026-05-10
 - 📚 补充 GitHub 项目：getcito（首个开源 AIO/AEO/GEO 工具）、eGEOagents（面向 Agent 的 GEO 技能集）
