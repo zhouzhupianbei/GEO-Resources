@@ -710,4 +710,72 @@
 
 **第六,AI SEO 商业侧进入「路径分野」阶段**——汉梵数科AI《三大 AI SEO 服务商横评:技术、创意与生态》、汉梵《三大 AI SEO 服务商的路径分野》两篇,虽然带「服务商对比」标签但确实提供了「技术 vs 创意 vs 生态」三种路径的区分,适合正在选型或自建团队的品牌方作为决策材料。注意区分:服务商的「自卖自夸」与「第三方对比」是两种内容,采信时要看账号背景。
 
+## 2026-06-25 更新
 
+本期新增 10 篇文章,核心信号是 **GEO 行业进入「合规与洗牌」并行阶段**:腾讯安全发布 AI 投毒安全报告、央视 315 曝光 GEO 服务商乱象、9 月新规倒计时——三个事件在 6 月下旬同时发生,标志 GEO 从「野蛮生长」进入「强监管 + 大洗牌」;同时,G2 平台 AEO 产品 10 个月从 7 款爆到 150 款的数据,显示海外 B2B SaaS 战场也已白热化。
+
+### 安全研究类
+
+| 文章标题 | 公众号 | 一句话点评 | 推荐阅读理由 |
+|----------|--------|------------|--------------|
+| “ AI 助手的背叛”|利用 大模型 会话分享的 SEO 投毒攻击分析报告 | 腾讯安全威胁情报中心 | 通过结合 搜索 引擎的精准分发能力,这种“官方域名+ AI 回复+ SEO 投毒”的组合拳,本质上是对现代技术从业者生产... | 发布日期 2026-03-04 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7okPaIl9L7Fn6_vwRt4gkptiEg4DOyXKVqXa8Fplpd9lkqZkd1sSARLHU6Me-z9_PZZE-4PVjIPZNB0ptCENJBcuMKQV4e7LJkE0NUV1K09GY0pdtoiT8aE6znD4MII5LO1HOiOPe-m8ZTKDj4PyNaJ03ye8pCTBamb14wPiUDfahz8Sufu4JCvDe_5ENRkGt6PcCgbe6BSBMPAEEPdyGISYTqT4eyLmA..&type=2&query=AI SEO %E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%90%9C%E7%B4%A2&token=CBD8D32AD9891195B3B5E6B7A47D8D32B3A80FAF6A3C22A7
+
+### 行业洗牌类
+
+| 文章标题 | 公众号 | 一句话点评 | 推荐阅读理由 |
+|----------|--------|------------|--------------|
+| 9月新规倒计时! GEO 行业 洗牌 加速,3类服务商合作直接踩雷| GEO 合规周报第七期 | 炎麟云创GEO | GEO 行业 洗牌 加速,3类服务商合作直接踩雷2026 GEO 合规周报转发本文至 行业 群,截图私信后台,即可领取《... | 发布日期 2026-06-23 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7okPaIl9L7Fg-Wx_K9nA-NtiEg4DOyXKVqXa8Fplpd9KBjW3fw-TdedxwJUsZDb27eQGEMqgIBKOEytQ_BuRzY5FZVipC-1jtY5QwIHilbrto2TK4IWvjtpYxN37pOSAkmuQ2xSkSlS4KyAByVN1D1VYBIWoSTzEZeXs7MmhhwD6R2BdVI0KyT5fvq6YP3vOqGIeIT9cFL1KItsim84aCNFH6In5Ei3zg..&type=2&query=GEO %E8%A1%8C%E4%B8%9A %E6%B4%97%E7%89%8C&token=CBD93EA99DCD56D2F5F0A3F2ED3378C5F64BC7126A3C22B8
+| GEO 服务商乱象与 洗牌 :央视315曝光后的 行业 震荡 | 吉号通 | 洗牌 之后: GEO 行业 的新秩序乱象的曝光和整顿,虽然短期内给 GEO 行业 带来了压力,但从中长期看,这实际上是一... | 发布日期 2026-06-24 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7okPaIl9L7Fg-Wx_K9nA-NtiEg4DOyXKVqXa8Fplpd9RZ0ZUAGuodeJKp50V6-R74wJSkcGs1u4vaR-MP-QBgkmq6hKbd4TwlQKCEM4PUQE-LmL3_oMu27990tNfqP9noNIirsstbg8q5iiFbWWQbNEysSi-2BovRh_452RUABKZjfn4lMFHoomIZEvpuRJLllBr1IvM-AwYjZvvBls-3Kfxjh3za6jWA..&type=2&query=GEO %E8%A1%8C%E4%B8%9A %E6%B4%97%E7%89%8C&token=CBD93EA99DCD56D2F5F0A3F2ED3378C5F64BC7126A3C22B8
+
+### 合规与监管类
+
+| 文章标题 | 公众号 | 一句话点评 | 推荐阅读理由 |
+|----------|--------|------------|--------------|
+| GEO虚假夸大要吃罚单? AI 搜索 排名 优化 这三条红线不要碰! | 海全营销笔记 | 都想在 AI 搜索 里排个好名次.这种心情我特别理解.但焦虑之下,... 你辛辛苦苦做的其他 优化 ,可能就因为这一个杜... | 发布日期 2026-06-24 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7okPaIl9L7Fny0iv3C1qLBtiEg4DOyXKVqXa8Fplpd9Nzr81EJsOjT4ZaC9W6DvCJo6yhrws2YggdjQEqWwRPgifPoB8ZqX0tEndJ7pIz4OIeH4NNP_6wzntAjs8r2j2SzC6d56Odzhaengc7XAHImFS12GdeKGuJP6cWh9JVqwfs5mT6Dr3rWJEg73xQaMdNlI7OA8dKYBADA3Z5p8clZj3x9Nw6p-Fg..&type=2&query=AI %E6%90%9C%E7%B4%A2 %E4%BC%98%E5%8C%96&token=CBD90F5597C75EDBFCFAA9F8E59E835DFDDF20D06A3C22B1
+
+### 行业观察类
+
+| 文章标题 | 公众号 | 一句话点评 | 推荐阅读理由 |
+|----------|--------|------------|--------------|
+| G2 平台上的＂ 答案引擎优化 ＂( AEO )软件品类,在短短十个月内从 7 款产品飙升到 150 多款,涨幅超过 2000% | 教育风箱 | G2 平台上的＂ 答案引擎优化 ＂( AEO )软件品类,在短短十个月内从 7 款产品飙升到 150 多款,涨幅超过 2... | 发布日期 2026-02-03 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7okPaIl9L7FKJhlyJJE1Y9tiEg4DOyXKVqXa8Fplpd9KMIZH-L5ZLDCcWqaWt8nVC0iu02jeJKomLo7VDNSgIxfTIkkOi9MQDS4oc8zRSp0g6ZJzXJ-qFOg1HJjAvMRinFBSqQ8eUMKQgusVbhPQKgzP64ioCkKLlm8_R6fkRGvPYF0o6idoXOO0nYOxcC9DcJtt9Ub2TKoXyytS2lkoNmAFV_3u-a3OQ..&type=2&query=AEO %E7%AD%94%E6%A1%88%E5%BC%95%E6%93%8E%E4%BC%98%E5%8C%96&token=CBD8FB025B0B93082F367A2B370279C83076E45C6A3C22AE
+
+### 行业反思类
+
+| 文章标题 | 公众号 | 一句话点评 | 推荐阅读理由 |
+|----------|--------|------------|--------------|
+| GEO “ 投毒 ”背后的深层次问题:AI行业的信任危机与数据操控 | 专享数联 | GEO “ 投毒 ”背后的深层次问题:AI行业的信任危机与数据操控让数据要素有效流通 让数据资产持续增值2023年3月1... | 发布日期 2026-03-17 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7okPaIl9L7FWQXm_unpsRltiEg4DOyXKVqXa8Fplpd9ceQC2c1xCWYpiPfAd6J-Z6JFOA6QZ-eyCNRhV4lfPjsiIabDJiNOfYO_vvzIr8EIaWMEMiy3ZuKFx1kvX25x0I47zHJ5EsyoeeyXO_qHOg5rzUej2UUOCgqNNVMbeUlNkQ6XJw6qsR0pCu6TmIdt_E2lSoEiC69GcRJw7l3SQpjYl_Q5RRZQjg..&type=2&query=GEO %E6%8A%95%E6%AF%92&token=CBD9271B5000981D3B3D6F3F22AFBD533B77ED6B6A3C22B4
+
+### 方法论类
+
+| 文章标题 | 公众号 | 一句话点评 | 推荐阅读理由 |
+|----------|--------|------------|--------------|
+| GEO 生成式引擎优化 与传统SEO的核心区别是什么? | 觅界GEO | GEO 生成式引擎优化 完整定义依据 2023 年普林斯顿官方 GEO 学术论文与我们AI 内容落地实操, GEO 即 ... | 发布日期 2026-06-18 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7okPaIl9L7F8bJ1q1Z8mr5tiEg4DOyXKVqXa8Fplpd9ej5ypFOWhA2MWA-X6U5rqaz-MkgR20j3gjxm0XRlrQHONVTdxtPpE7Odkci9yg9-3SNoZJlx-UiKo3ykDQ62wwWFN1sX-D5MVevjcz35MO6FZ25Aie3pZlSc8JO4wAYxZ2ilg8meHdpKJQ6fXNhV_sl4Ff7cNni7VLrHyFhWIbgY-UZGbO56rA..&type=2&query=GEO %E7%94%9F%E6%88%90%E5%BC%8F%E5%BC%95%E6%93%8E%E4%BC%98%E5%8C%96&token=CBD8BF96D5851D99BDBBE8B9AA23EB95BE63F0DA6A3C22A4
+| 告别 SEO,拥抱 AEO:如何让 ChatGPT 和 Claude “读懂”你的品牌? | 缤书 | 缤书 | / llms.txt 标准 ,成为了 AEO 的核心利器.1. 为什么需要这些文件?AI 爬虫虽然强大,但解析复杂的 H... | 发布日期 2026-03-03 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7okPaIl9L7F3OAFL20YJ6NtiEg4DOyXKVqXa8Fplpd96rdxXcbBKqyNzWdY5wZkJYccbWY6lmdzZFtixaX_LE6W1e_rbSNFZEVbU8ZIP7VoIIeMCrK8DvM7VyMwQrD6mJIVR5jurX6AvlVz8pIzLXB3Iml-VpmvY1pLApPCrevRxxnvlRpl5BrwU_2FUq_BtaNIeNnLDZ7s-XmmSm4YmefwdVqCwyPdzA..&type=2&query=llms.txt %E6%A0%87%E5%87%86&token=CBD8E6CA2474EC694F481A4B574E1D9E4FE5EBB06A3C22AB
+
+### llms.txt 标准类
+
+| 文章标题 | 公众号 | 一句话点评 | 推荐阅读理由 |
+|----------|--------|------------|--------------|
+| 谷歌开始采纳 llms.txt 作为GEO 标准 了? | SEO小平 | llms.txt 文件.但是现在为何谷歌检查工具有把这个作为优化 标准 呢.SEO小平分析如下.一、谷歌一边说没用,一边... | 发布日期 2026-06-21 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7okPaIl9L7F3OAFL20YJ6NtiEg4DOyXKVqXa8Fplpd9op6Y9ko9efnERNzHVvhhRY5YrYnQ184b_qkWXM7YgUiExG3S_o0wIKm8omhWO01qCHKN48P89u0FabZ8RXvkpwTGFSZUprMIZh_aUzdIGN_Xx2bfC8eLx8ZYWAXwGW5v5Z10NgOFfydf9g2Fkhd5bpI98iDh729iFiXlLYgaEjryPfCoem7FzA..&type=2&query=llms.txt %E6%A0%87%E5%87%86&token=CBD8E6CA2474EC694F481A4B574E1D9E4FE5EBB06A3C22AB
+
+### 行业应用类
+
+| 文章标题 | 公众号 | 一句话点评 | 推荐阅读理由 |
+|----------|--------|------------|--------------|
+| 2026年NAS设备GEO优化内容及存储方案指南 | 敬天观云 | 跨境场景中,部署 llms.txt 标准 文件可提升英文首条占位率18%至22%.评估GEO效果需关注12项 指标 :首... | 发布日期 2026-03-13 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7okPaIl9L7F3OAFL20YJ6NtiEg4DOyXKVqXa8Fplpd9TcIm0vtShd_a5ML5gPxPCTO0tTUQty7alH-5nj2mwoL1mCDGPEzPednbavwd6uU_3YDcFZ38j4AsE4O6p04-GAusnPx3sO5K5le8en19Q-gJcjgUy3PdqD_bGhTmokPBH0N-pLnNaDyhT0PzxPm56Q9PQXB2SZYNm2eelUgSK-HvzHZXxeLdyg..&type=2&query=llms.txt %E6%A0%87%E5%87%86&token=CBD8E6CA2474EC694F481A4B574E1D9E4FE5EBB06A3C22AB
+
+**简评**:本期收录 10 篇文章,核心信号是 **GEO 行业在 6 月底同时触发「监管落地 + 行业洗牌 + 信任危机」三重事件**,这与上一期「央视曝光 GEO 投毒」的信号一脉相承,但本期密度更高、影响更深。
+
+**第一,腾讯安全发布 AI 投毒报告是本期最具技术分量的事件**——腾讯安全威胁情报中心《"AI 助手的背叛"|利用大模型会话分享的 SEO 投毒攻击分析报告》从安全研究视角拆解「AI 会话分享场景下的投毒攻击」,这是国内一线安全团队首次系统化披露 GEO 投毒的技术原理与攻击链。对 GEO 服务商和品牌方来说,这意味着:(a) GEO 服务的可审计性成为新要求;(b) 「被 AI 引用次数」指标可能存在被污染风险;(c) 安全团队开始把 GEO 纳入风险评估清单。
+
+**第二,「9 月新规倒计时」与「央视 315 曝光」构成监管信号的两条主线**——炎麟云创GEO《9 月新规倒计时!GEO 行业洗牌加速,3 类服务商合作直接踩雷》指向 9 月将落地的 GEO 行业合规要求(具体细则尚未官方公布,但已有多家服务商预警);吉号通《GEO 服务商乱象与洗牌:央视 315 曝光后的行业震荡》延续上一期「央视曝光 GEO 投毒」的叙事,描述曝光后行业头部 / 尾部服务商的分化。两条主线叠加,说明 6 月底 GEO 行业的「监管时间表」已经形成共识。
+
+**第三,GEO「夸大宣传罚单」风险首次被写进标题**——海全营销笔记《GEO 虚假夸大要吃罚单?AI 搜索排名优化这三条红线不要碰!》直指 GEO 服务商在「保证排名」「首条推荐」等承诺上的合规风险,这是国内第一篇把「新广告法 / 反不正当竞争」与 GEO 服务绑定的文章。给品牌方和 GEO 团队的提醒:合同条款必须明确「效果指标的口径与可验证方式」,避免成为罚单连带责任方。
+
+**第四,G2 平台 AEO 产品 10 个月从 7 款爆到 150 款是海外战场的关键数据**——教育风箱《G2 平台上的"答案引擎优化"(AEO)软件品类,在短短十个月内从 7 款产品飙升到 150 多款》援引 G2 平台公开数据,显示海外 AEO SaaS 已经出现「产品数量井喷 + 同质化严重」的特征。这与国内 GEO 服务商「监管收紧 + 大洗牌」形成对照——海外还在「自由生长」,国内已进入「强监管 + 出清」阶段,两个市场处于完全不同的发展阶段。
+
+**第五,GEO「投毒」叙事从「现象」升级为「行业信任危机」**——专享数联《GEO"投毒"背后的深层次问题:AI 行业的信任危机与数据操控》不再只讲「投毒技术」,而是把问题拉高到「AI 行业数据真实性」的层面。这与上一期「央视曝光」+ 本期「腾讯安全报告」共同形成「投毒 = 行业级信任问题」的认知升级。对正在选 GEO 服务的品牌方:优先考虑「可审计 + 透明归因 + 无投毒承诺」的服务商,而不是「保排名」的服务商。
+
+**第六,llms.txt 在中文圈的认知度正在提升**——SEO小平《谷歌开始采纳 llms.txt 作为 GEO 标准了?》跟踪谷歌对 llms.txt 标准的最新态度(这是英文圈正在讨论的话题)。结合上一期「llms.txt 工程化栈」项目潮,可以判断:llms.txt 已经从「早期布道阶段」进入「标准之争阶段」——谷歌是否正式纳入 SEO/GEO 标准,会影响整个生态的走向。
+
+**第七,垂直行业 GEO 落地案例继续丰富**——敬天观云《2026 年 NAS 设备 GEO 优化内容及存储方案指南》把 GEO 落到 NAS 这种具体硬件品类的内容策略上,显示 GEO 已经从「通用方法论」向「垂直行业最佳实践」渗透,这是行业成熟的标志。给做 GEO 工具的团队的提示:垂直行业模板(如 NAS、教育、医疗、法律)的可复用性,可能是未来 1-2 年的差异化竞争点。

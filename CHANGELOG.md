@@ -6,6 +6,11 @@
 
 ## 2026-06
 
+### 2026-06-25
+- 📚 补充 GitHub 项目 11 个:聚焦 AEO 监测追踪(aelo-radar、morphiq-labs-skills、neurank)、AEO 技术审计(usood/seo-aeo-geo-analyzer、Canonry/aeo-audit、max-d3v/geo_toolkit)与 Claude Code 技能集(psyduckler/aeo-skills、AntonioBlago/peec-ai-skills、arpitexplores/super-seo-growth)
+- 📚 补充微信公众号文章 10 篇:收录腾讯安全 AI 投毒报告、9 月 GEO 新规倒计时、央视 315 曝光后行业震荡、G2 平台 AEO 产品井喷数据等关键信号
+- 📋 补全 CHANGELOG.md 6 月份历史维护条目(2026-06-04 / 06-07 / 06-13 / 06-16),解决文档 drift 问题
+
 ### 2026-06-22
 - 📚 补充 GitHub 项目 11 个：聚焦 llms.txt 工程化基础设施(llms-txt-hub、nuxt-llms、mkdocs-llmstxt、dotenvx/llmstxt 等)与 AI 可见度自动诊断/修复闭环(elmohq/elmo、PixelOrange7/orangeo-ai-visibility-skill、Houseofmvps/claude-rank)
 - 📚 补充微信文章 10 篇：聚焦「GEO 投毒被央视曝光」「行业洗牌前夜判断框架」「企业知识图谱资产」三大新信号
