@@ -6,6 +6,10 @@
 
 ## 2026-06
 
+### 2026-06-28
+- 📚 补充 GitHub 项目 5 个:聚焦 AEO 工具链「工程化分发渠道」与「开源自托管可见度监测」——NotFair 把 Claude Code 插件做成 3000+ 星成熟产品形态(Claude Marketplace 分发),ai-brand-monitor-mcp / oneglans / potato / xanlens 四个独立开源项目把跨引擎可见度监测做到「真查询替代启发式」
+- 📚 补充微信公众号文章 12 篇:聚焦「合规收尾 + 工具全景 + 行业垂直」三股叙事——TTD151/吉号通推出 GEO 工具全景图,恒辉合焕/云皓智能密集发布合规收尾类文章呼应 9 月新规,医美/教育垂类 GEO 获客案例开始大量涌现
+
 ### 2026-06-25
 - 📚 补充 GitHub 项目 11 个:聚焦 AEO 监测追踪(aelo-radar、morphiq-labs-skills、neurank)、AEO 技术审计(usood/seo-aeo-geo-analyzer、Canonry/aeo-audit、max-d3v/geo_toolkit)与 Claude Code 技能集(psyduckler/aeo-skills、AntonioBlago/peec-ai-skills、arpitexplores/super-seo-growth)
 - 📚 补充微信公众号文章 10 篇:收录腾讯安全 AI 投毒报告、9 月 GEO 新规倒计时、央视 315 曝光后行业震荡、G2 平台 AEO 产品井喷数据等关键信号

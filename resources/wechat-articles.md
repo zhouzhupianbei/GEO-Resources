@@ -779,3 +779,53 @@
 **第六,llms.txt 在中文圈的认知度正在提升**——SEO小平《谷歌开始采纳 llms.txt 作为 GEO 标准了?》跟踪谷歌对 llms.txt 标准的最新态度(这是英文圈正在讨论的话题)。结合上一期「llms.txt 工程化栈」项目潮,可以判断:llms.txt 已经从「早期布道阶段」进入「标准之争阶段」——谷歌是否正式纳入 SEO/GEO 标准,会影响整个生态的走向。
 
 **第七,垂直行业 GEO 落地案例继续丰富**——敬天观云《2026 年 NAS 设备 GEO 优化内容及存储方案指南》把 GEO 落到 NAS 这种具体硬件品类的内容策略上,显示 GEO 已经从「通用方法论」向「垂直行业最佳实践」渗透,这是行业成熟的标志。给做 GEO 工具的团队的提示:垂直行业模板(如 NAS、教育、医疗、法律)的可复用性,可能是未来 1-2 年的差异化竞争点。
+## 2026-06-28 更新
+
+本期收录 12 篇文章,核心信号是 **GEO 行业在 6 月底形成「合规收尾 + 工具全景 + 行业垂直」三股叙事并行**:恒辉合焕、云皓智能等密集发布「合规收尾」类文章呼应 9 月新规倒计时;TTD151、吉号通等推出 GEO 工具全景图覆盖工具选型;医美、教育等垂直行业的 GEO 获客案例开始大量涌现,标志 GEO 从「通用方法论」进入「行业模板化」阶段。
+
+### GEO 工具与全景图类
+
+| 文章标题 | 公众号 | 一句话点评 | 推荐阅读理由 |
+|----------|--------|------------|--------------|
+| GEO 工具 有哪些?企业做AI搜索优化,先避开这4个坑 | TTD151 | GEO 工具选型避坑指南,把「避坑」作为切入点介绍主流工具的能力边界 | 适合刚开始选 GEO 工具的品牌负责人作为入门级避坑清单 | 发布日期 2026-06-26 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1FX0i4gQdd5zlI2M8i7hVth34Nxo0Cf8VqXa8Fplpd966mNiuQB1PuoWe7rKe_5vk6rahBqkt0aATlCjwSz4MGe2qY7PDY6Y9mnUF_kF0H2tf1Nlv
+| GEO 工具 全景图:2026年品牌必备的 GEO 工具 清单与选择指南 | 吉号通 | 2026 年品牌视角的 GEO 工具全景图,覆盖监测/审计/内容/分发四类工具 | 适合做工具选型的市场总监作为决策参考地图 | 发布日期 2026-06-16 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1FX0i4gQdd5zlI2M8i7hVth34Nxo0Cf8VqXa8Fplpd9C4eX69oyxIcrHYhfq6jxjxW7CLl524EB-gKbVJtl6DpWXvt9zxT9rq-CoUaBVbF8Yllgka
+| 如何衡量 AI 可见度 :用查询模拟与可执行性评估做好 GEO | Innflows | 从「查询模拟 + 可执行性评估」切入的 GEO 度量方法论,适合技术团队落地 | 适合做 GEO 度量体系搭建的 CTO/数据团队 | 发布日期 2026-06-15 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1FX0i4gQdd5v6DRWW5JJoph34Nxo0Cf8VqXa8Fplpd9bTNHJN1Hag6lkQbvTN7qgO4DiUpiaNHEQMnIPp5ARSm91uARtlcr9KKAph18N5t8sXXAxO
+
+### GEO 合规与监管类
+
+| 文章标题 | 公众号 | 一句话点评 | 推荐阅读理由 |
+|----------|--------|------------|--------------|
+| GEO 合规 破局:告别 SEO 粗放流量时代 | 云皓智能科技 | 把 GEO 合规放在「告别 SEO 粗放流量」语境,提示品牌方从合规视角重构 GEO 投放策略 | 适合把 GEO 合规列入年度预算的品牌方 | 发布日期 2026-06-24 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1FX0i4gQdd5Ne8wjKU_UJ9h34Nxo0Cf8VqXa8Fplpd9mMn4Xo-NJz62qpZg7My2gGYxbxDXF9qAfGsk3xluE3Mbtlmm4N3vUznNx-3GqbJeD6Ka1q
+| GEO 国家 合规 标准落地,黑帽全行业封杀——你找的 GEO 服务商,可能在害你 | 恒辉合焕GEO优化 | 把 GEO 国家合规标准与「黑帽封杀」绑定,提示选服务商时把合规作为硬性指标 | 适合正在评估 GEO 服务商的品牌方作为风险参考 | 发布日期 2026-06-17 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1FX0i4gQdd5Ne8wjKU_UJ9h34Nxo0Cf8VqXa8Fplpd9u5oVnlJ66qVbT44LyB1t9rxCt0YryoTAwOyUK3u8BXvZJttvmm4G9gw31IJw-lKgbFk4s7
+| 三年 监管 落地, GEO 彻底告别野蛮生长!精细化合规成唯一出路 | GEO-Agent视界 | 把 GEO 行业放在「三年监管落地 + 野蛮生长终结」语境,给品牌方一份精细化合规路径图 | 适合需要给老板做 GEO 合规汇报的市场总监 | 发布日期 2026-06-22 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1FX0i4gQdd5H5DeC1tMXPVh34Nxo0Cf8VqXa8Fplpd9H0p3949CM2gjbMcUvaHDuYr9f-3lHhkIuCj7cKIap_J293lFyNVBafe18_yU4ZOKuhw7dX
+
+### GEO 行业应用与垂直案例类
+
+| 文章标题 | 公众号 | 一句话点评 | 推荐阅读理由 |
+|----------|--------|------------|--------------|
+| 医生自己开的医美门诊, AI 搜索 GEO 获客怎么做? | 石悦.星火悦燃 | 医美门诊(医生 IP 型小机构)的 GEO 获客案例,把 GEO 落到具体诊所业务流 | 适合医美、口腔、医美等医疗垂类的市场负责人 | 发布日期 2026-06-23 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1FX0i4gQdd5jKJkhEfdOgNh34Nxo0Cf8VqXa8Fplpd9BskyPDyFB9l7Vu2QAq6RyjvJ2udufU1JJy9OKZDnpliWN8pMF_3_IpGb6R0I9jy7LmRFBk
+| 2026 教育科技 AI 可见度 报告:谁正在占领 ChatGPT 里的教育入口? | 多鲸 | 教育垂类的 AI 可见度专题报告,分析 ChatGPT 教育类 query 的品牌占位格局 | 适合教培、教育 SaaS、企业培训等业务的市场负责人 | 发布日期 2026-06-19 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1FX0i4gQdd5v6DRWW5JJoph34Nxo0Cf8VqXa8Fplpd9uqVje0Z0IgBPjGIJWwXZau5mlVavlflCKvauemfbEwT9apK3mfeoby-qy0rtnqvJTkO-x4
+| 博优特携手响课科技,共启 AI 搜索 GEO 优化新篇章 | 响课科技 | B2B 工具厂商与 GEO 服务商的合作案例,展示 GEO 服务商与营销技术栈的整合方向 | 适合做 B2B 营销工具集成的产品经理 | 发布日期 2026-06-23 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1FX0i4gQdd5jKJkhEfdOgNh34Nxo0Cf8VqXa8Fplpd9JWDikQrjNeRmVI8m5_ON0-fEsjVaHxzxav0RKP1RE2CmyCjt87HCfqVxjvGwcGHh3MWCoF
+
+### GEO 概念科普与方法论类
+
+| 文章标题 | 公众号 | 一句话点评 | 推荐阅读理由 |
+|----------|--------|------------|--------------|
+| # GEO 生成式引擎优化 完整科普:底层原理与企业实战价值 | 云通科技汇 | 「底层原理 + 企业实战价值」双视角的 GEO 完整科普,适合给非技术高管做入门汇报 | 适合刚接触 GEO 的企业高管与业务负责人 | 发布日期 2026-06-22 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1FX0i4gQdd51d3LxIMLImlh34Nxo0Cf8VqXa8Fplpd9Cu7us-Br7QRx3hQmqX9azNiAEvqc-RyRoyoq3rFM1zlcEtlhOAKCsFn-zM0O_Xt3DMwVNl
+| GEO 生成式引擎优化 · 招标半年总结 | 柴某人讲ai落地 | 从「政府/企业招标」视角看 GEO 半年落地情况,适合给 B2B 销售看 ToG/ToB 需求信号 | 适合做 ToB/ToG GEO 销售或售前支持 | 发布日期 2026-06-19 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1FX0i4gQdd51d3LxIMLImlh34Nxo0Cf8VqXa8Fplpd9DqCOyPVxQ8vfdqc5ZvtZene8hyFe91Fr-CU8NIBRQgbOYNgG8XBFKvaYB_NwKA-lI185GX
+| 生成式引擎优化 是什么?牛搜网络带你读懂AI新型营销方式! | 短视频代运营策划 | GEO 概念扫盲类文章,适合给完全没接触过 GEO 的短视频团队作为入门 | 适合 GEO 入门者或非技术岗位的速读入门 | 发布日期 2026-06-16 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1FX0i4gQdd51d3LxIMLImlh34Nxo0Cf8VqXa8Fplpd94jk44wJ4AQ7uLY90320yDeJrnYKcNP55lbMIvw3UvIDEpWTtmzcAp3dXNaTWqMkKANLd94
+
+**简评**:本期收录 12 篇文章,核心信号是 **GEO 行业在 6 月底形成「合规收尾 + 工具全景 + 行业垂直」三股叙事并行**,与上一期「监管落地 + 行业洗牌 + 信任危机」的判断形成连续推演。
+
+**第一,GEO 合规文章从「风险预警」走向「执行细则」**——恒辉合焕GEO优化《GEO 国家合规标准落地,黑帽全行业封杀》、云皓智能科技《GEO 合规破局:告别 SEO 粗放流量时代》、GEO-Agent视界《三年监管落地,GEO 彻底告别野蛮生长》三篇构成「合规执行三层」:国家层(标准落地)、品牌层(选服务商避雷)、行业层(精细化合规路径)。三篇都发布在 6 月 17-24 日的密集窗口,与上一期「9 月新规倒计时」一脉相承,显示监管信号正在被各路作者转译成「可执行 SOP」。
+
+**第二,GEO 工具全景图首次出现在中文语境**——TTD151《GEO 工具避坑》、吉号通《GEO 工具全景图》两篇都把「工具全景」作为主轴,覆盖监测/审计/内容/分发四类工具并配选型建议。这与上一期「llms.txt 工程化栈」「Claude Code 插件化」等开源工具信号呼应——开源自托管工具链的成熟正在让「工具全景图」成为可能,而不是过去那种「推荐某某 SaaS」式的厂商软文。
+
+**第三,GEO「行业垂直案例」开始密集出现**——石悦.星火悦燃《医生自己开的医美门诊,AI 搜索 GEO 获客怎么做》、多鲸《2026 教育科技 AI 可见度报告》、响课科技《博优特携手响课科技共启 AI 搜索 GEO 优化新篇章》三篇分别覆盖医美、教育、B2B 营销技术三个垂类。这与上一期「敬天观云 NAS 设备 GEO」形成「行业模板化」信号:GEO 已经从「通用方法论」进入「按行业出案例、按案例出模板」的成熟阶段。
+
+**第四,Innflows《如何衡量 AI 可见度》提供了可落地的度量方法论**——从「查询模拟 + 可执行性评估」切入,而不是停留在「引用次数 + 品牌提及」这种启发式指标。这与上一期「腾讯安全 AI 投毒报告」中提到的「指标可被污染」风险形成回应——只有「真实查询 + 可复现测量」才能抵御投毒污染。给做 GEO 度量体系搭建的团队的提示:应该优先采用查询模拟 + 多模型并行评估的方案。
+
+**第五,「招标视角」首次进入 GEO 行业叙事**——柴某人讲ai落地《GEO 生成式引擎优化·招标半年总结》把 GEO 放到「政府/企业招标」视角,显示 GEO 在 ToB/ToG 采购侧开始有信号。这意味着 GEO 服务商除了面向品牌市场部,还可以拓展面向央国企采购的 B2B 销售通道——这是一个被低估的市场。
+
+**第六,GEO 概念科普类文章仍在涌现但同质化加剧**——云通科技汇《GEO 完整科普》、牛搜网络《生成式引擎优化是什么》两篇都是「入门扫盲」型,内容与上一期「胡美林Sinny GEO 和SEO 的区别」「Miles AI 获客 爆红全网的生成式引擎优化」等高度同质。给读者的建议:基础扫盲读 1 篇即可,深入理解直接跳到工具全景/合规落地/行业案例这三类。
+
