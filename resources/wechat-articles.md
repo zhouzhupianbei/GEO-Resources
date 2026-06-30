@@ -779,6 +779,56 @@
 **第六,llms.txt 在中文圈的认知度正在提升**——SEO小平《谷歌开始采纳 llms.txt 作为 GEO 标准了?》跟踪谷歌对 llms.txt 标准的最新态度(这是英文圈正在讨论的话题)。结合上一期「llms.txt 工程化栈」项目潮,可以判断:llms.txt 已经从「早期布道阶段」进入「标准之争阶段」——谷歌是否正式纳入 SEO/GEO 标准,会影响整个生态的走向。
 
 **第七,垂直行业 GEO 落地案例继续丰富**——敬天观云《2026 年 NAS 设备 GEO 优化内容及存储方案指南》把 GEO 落到 NAS 这种具体硬件品类的内容策略上,显示 GEO 已经从「通用方法论」向「垂直行业最佳实践」渗透,这是行业成熟的标志。给做 GEO 工具的团队的提示:垂直行业模板(如 NAS、教育、医疗、法律)的可复用性,可能是未来 1-2 年的差异化竞争点。
+## 2026-07-01 更新
+
+本期收录 10 篇文章,核心信号是 **GEO 进入「合规周报化 + 工具 SOP 化 + 可见度诊断前置」三股结构性变化**:合规类文章首次出现「周报」形态(炎麟云创GEO 的「GEO 合规周报第 8 期」),显示合规观察已经成为**常态化内容产品**;工具/方法论类出现 3 篇「30 天 SOP/优化 SOP」型文章,把 GEO 落地动作显性化;可见度类出现「先做可见度诊断再做 GEO」的呼吁,呼应上一期「查询模拟 + 可执行性评估」的方法论转向。
+
+### GEO 合规与监管类
+
+| 文章标题 | 公众号 | 一句话点评 | 推荐阅读理由 |
+|----------|--------|------------|--------------|
+| 看似 合规 实则违规?本周 GEO 隐形踩坑汇总! GEO 合规 周报第8期 | 炎麟云创GEO | 首次出现的 GEO 合规「周报」型内容,标志合规观察已经成为常态化、规律化的内容运营 | 适合 GEO 服务商和品牌方订阅,作为每周合规风险雷达 | 发布日期 2026-06-30 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2pXSTHucy6CxbcYxDIzJWn39AaxM0IdjlqXa8Fplpd9O1dr199ncwClp3L1FvkT0NCZamD5OndeLavn-YSqJ7QFNpPvOkEkCa_TOar_sf3XTgGQCg93DYshS20In4WCyh4d2iWBcOYT5V2EVMZoK5PrOTfrDH1Mq1hKvep5ZDQwujVkptf82lAmfTxwNO0hz86zsPfiDW5fjO1PPnfBfSV5Nu7CnoSqqg..&type=2&query=GEO %E5%90%88%E8%A7%84&token=F7B3B531BCF068ECCCCA9EB01F4AACA3CCA68DA16A440C39 |
+| 药企为什么要做 GEO 合规 推广? | 盘古 GEO | 药企垂类的 GEO 合规视角,强调 AI 过滤机制下「无合规布局 = 共识被竞品抢占」 | 适合药企/医疗垂类市场负责人理解 GEO 合规的「临床认知争夺」逻辑 | 发布日期 2026-06-24 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2pXSTHucy6CxbcYxDIzJWn39AaxM0IdjlqXa8Fplpd9xdP12uPHrumSoSH8ZN4a6jQO-6VLiBCA4DqV1poU9fGBOcbuc2R9kDzxYQAk1OTmsB4ZMf84bvNL4UILYw0UEt86ARb7ZC_3nNu8BVY1XAfIMUDXf4X0tc8oKXZpGh8qhBpr7RulKsrp4yNmLrmxObaR8yJeUf_LC55cezlt-rs6Ebq8fk9diw..&type=2&query=GEO %E5%90%88%E8%A7%84&token=F7B3B531BCF068ECCCCA9EB01F4AACA3CCA68DA16A440C39 |
+
+### GEO 工具与方法论类
+
+| 文章标题 | 公众号 | 一句话点评 | 推荐阅读理由 |
+|----------|--------|------------|--------------|
+| GEO 工具 有哪些?企业30天AI搜索优化SOP | 第二空间咖啡机 | GEO 工具选型 + 30 天 SOP,把工具选择和落地动作一并给出 | 适合刚开始做 GEO 的企业作为 30 天行动指南 | 发布日期 2026-06-29 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1FX0i4gQdd5u5oVnlJ66qVbT44LyB1t9rxCt0YryoTAwOyUK3u8BXvZJttvmm4G9gw31IJw-lKgbFk4s7 |
+| AI GEO 搜索 优化 SOP | SIMIEYE.AI出海通 | 出海语境下的 AI GEO 搜索优化 SOP,聚焦跨境 GEO 落地 | 适合做跨境 GEO 的运营人员作为 SOP 参考 | 发布日期 2026-06-29 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1FX0i4gQdd5jKJkhEfdOgNh34Nxo0Cf8VqXa8Fplpd9JWDikQrjNeRmVI8m5_ON0-fEsjVaHxzxav0RKP1RE2CmyCjt87HCfqVxjvGwcGHh3MWCoF |
+| AI流量+471%:这套 GEO 优化 SOP 我跑通了 | GEO优化实战方法论 | 实战数据型 GEO 优化 SOP,用真实流量提升数据作为方法论支撑 | 适合 GEO 团队验证「SOP 模板是否真的有效」的实战参考 | 发布日期 2026-06-24 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2pXSTHucy6CxbcYxDIzJWn39AaxM0IdjlqXa8Fplpd9xdP12uPHrumSoSH8ZN4a6jQO-6VLiBCA4DqV1poU9fGBOcbuc2R9kDzxYQAk1OTmsB4ZMf84bvNL4UILYw0UEt86ARb7ZC_3nNu8BVY1XAfIMUDXf4X0tc8oKXZpGh8qhBpr7RulKsrp4yNmLrmxObaR8yJeUf_LC55cezlt-rs6Ebq8fk9diw..&type=2&query=GEO %E5%90%88%E8%A7%84&token=F7B3B531BCF068ECCCCA9EB01F4AACA3CCA68DA16A440C39 |
+
+### GEO 可见度与度量类
+
+| 文章标题 | 公众号 | 一句话点评 | 推荐阅读理由 |
+|----------|--------|------------|--------------|
+| 企业想做GEO,为什么第一步必须是 AI 可见度 诊断? | AI向善推广大使 | 把「AI 可见度诊断」定位为 GEO 的前置第 0 步 | 适合 GEO 团队重构项目流程,把诊断前置 | 发布日期 2026-06-30 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1FX0i4gQdd5H5DeC1tMXPVh34Nxo0Cf8VqXa8Fplpd9H0p3949CM2gjbMcUvaHDuYr9f-3lHhkIuCj7cKIap_J293lFyNVBafe18_yU4ZOKuhw7dX |
+| AI 品牌 可见度 追踪:告别错误排名逻辑,教你正确测量概率分布 - 易服客工作室 | WP建站 | 用「概率分布」替代「排名」作为 AI 品牌可见度的正确度量方法 | 适合 GEO 数据团队建立「非排名」的可见度评估体系 | 发布日期 2026-06-23 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1FX0i4gQdd5jKJkhEfdOgNh34Nxo0Cf8VqXa8Fplpd9BskyPDyFB9l7Vu2QAq6RyjvJ2udufU1JJy9OKZDnpliWN8pMF_3_IpGb6R0I9jy7LmRFBk |
+| 免费 GEO 检测 工具 实操指南:4步搞定,30分钟拿到完整AI可见度报告 | 贾定强-询盘云 | 4 步免费获取 GEO 检测报告的实操指南,适合预算有限的品牌方 | 适合中小品牌用零成本起步 GEO 可见度评估 | 发布日期 2026-06-19 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS1FX0i4gQdd5v6DRWW5JJoph34Nxo0Cf8VqXa8Fplpd9uqVje0Z0IgBPjGIJWwXZau5mlVavlflCKvauemfbEwT9apK3mfeoby-qy0rtnqvJTkO-x4 |
+
+### GEO 通用方法论与平台分化类
+
+| 文章标题 | 公众号 | 一句话点评 | 推荐阅读理由 |
+|----------|--------|------------|--------------|
+| 2026下半年\|豆包 AI 搜索 GEO 生成引擎优化:7大评判标准帮你筛选靠谱服务商供应商 GEO 优化效果 | 何亚涛SEO营销团队 | 把「豆包 AI 搜索」作为独立 GEO 优化对象,标志国内 GEO 服务按平台分化 | 适合 GEO 团队建立「按平台 SKU」的差异化服务能力 | 发布日期 2026-06-30 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2pXSTHucy6CxbcYxDIzJWn39AaxM0IdjlqXa8Fplpd9O1dr199ncwClp3L1FvkT0NCZamD5OndeLavn-YSqJ7QFNpPvOkEkCa_TOar_sf3XTgGQCg93DYshS20In4WCyh4d2iWBcOYT5V2EVMZoK5PrOTfrDH1Mq1hKvep5ZDQwujVkptf82lAmfTxwNO0hz86zsPfiDW5fjO1PPnfBfSV5Nu7CnoSqqg..&type=2&query=GEO %E5%90%88%E8%A7%84&token=F7B3B531BCF068ECCCCA9EB01F4AACA3CCA68DA16A440C39 |
+| 生成式引擎优化 落地全指南 | 财知学社 | GEO 落地的全流程指南,覆盖从认知诊断到内容分发 | 适合 GEO 新人作为完整入门读物 | 发布日期 2026-06-26 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2pXSTHucy6CxbcYxDIzJWn39AaxM0IdjlqXa8Fplpd9xdP12uPHrumSoSH8ZN4a6jQO-6VLiBCA4DqV1poU9fGBOcbuc2R9kDzxYQAk1OTmsB4ZMf84bvNL4UILYw0UEt86ARb7ZC_3nNu8BVY1XAfIMUDXf4X0tc8oKXZpGh8qhBpr7RulKsrp4yNmLrmxObaR8yJeUf_LC55cezlt-rs6Ebq8fk9diw..&type=2&query=GEO %E5%90%88%E8%A7%84&token=F7B3B531BCF068ECCCCA9EB01F4AACA3CCA68DA16A440C39 |
+
+**简评**:本期收录 10 篇文章,核心信号是 **GEO 进入「合规周报化 + 工具 SOP 化 + 可见度诊断前置」三股结构性变化**,与上一期「合规收尾 + 工具全景 + 行业垂直」的判断形成连续推演。
+
+**第一,GEO 合规内容首次出现「周报」形态**——炎麟云创GEO《看似合规实则违规?本周 GEO 隐形踩坑汇总!GEO 合规周报第 8 期》是首次看到的「合规周报」型内容产品,意味着 GEO 合规观察已经从「一次性科普」演进为**常态化、规律化的内容运营**。给做 GEO 内容平台的团队的提示:合规周报可以做成订阅制内容,形成稳定流量入口。
+
+**第二,GEO 工具类出现「30 天 SOP」型文章**——第二空间咖啡机《GEO 工具有哪些?企业 30 天 AI 搜索优化 SOP》、SIMIEYE.AI 出海通《AI GEO 搜索优化 SOP》、GEO 优化实战方法论《AI 流量 +471%:这套 GEO 优化 SOP 我跑通了》三篇都把 GEO 落到「30 天 SOP」或「可复现流程」形态。这呼应了上一期「Innflows 查询模拟 + 可执行性评估」的方法论,**「GEO 落地动作显性化」已经成为 7 月初的核心叙事方向**。给做 GEO 服务商的提示:应当把「30 天 SOP」作为标准交付物对外展示。
+
+**第三,「先做可见度诊断再做 GEO」成为新的方法论共识**——AI 向善推广大使《企业想做 GEO,为什么第一步必须是 AI 可见度诊断?》直接把「可见度诊断」定位为 GEO 的前置步骤。这与上一期「WP 建站 - AI 品牌可见度追踪」「Innflows 查询模拟」形成方法论连续性:可见度测量正在被定位为 GEO 项目的**第 0 步**而非「事后评估」。
+
+**第四,「GEO 优化效果差 10 倍」成为服务商对比的新话术**——服务商赛道正在从「排名争夺」进入「差异化解释」阶段,与上一期「服务商横评激增」的判断形成「从『哪家最好』到『为何差异这么大』」的话术升级。
+
+**第五,「豆包 AI 搜索 GEO」作为单独分类开始出现**——何亚涛 SEO 营销团队《2026 下半年|豆包 AI 搜索 GEO 生成引擎优化:7 大评判标准帮你筛选靠谱服务商》把「豆包 AI 搜索」作为独立 GEO 优化对象。这意味着**国内 GEO 优化已经从「通用 AI 搜索」细化到「按平台分化」(豆包/文心/通义/Kimi)**,与上一期「国内 GEO 工具应同步做飞书/钉钉/微信生态里的 AI 插件版」的判断形成呼应。给做 GEO 服务的团队的提示:**应当把「豆包 GEO」「文心 GEO」「通义 GEO」「Kimi GEO」作为单独的服务 SKU 推出**,而不是打包成「AI 搜索优化」。
+
+**第六,医美/口腔等垂类 GEO 案例趋同**——盘古 GEO《药企为什么要做 GEO 合规推广》、欧黑 GEO《口腔门诊选择 GEO 服务商避坑指南》等都在讲「垂类 + 服务商选择」。这与上一期「医美/教育/法律」垂类信号的连续性,显示**垂类 GEO 已经成为 GEO 服务商「差异化竞争」的主战场**——但同质化也在加剧(都在讲「选服务商避坑」)。
+
+---
+
 ## 2026-06-28 更新
 
 本期收录 12 篇文章,核心信号是 **GEO 行业在 6 月底形成「合规收尾 + 工具全景 + 行业垂直」三股叙事并行**:恒辉合焕、云皓智能等密集发布「合规收尾」类文章呼应 9 月新规倒计时;TTD151、吉号通等推出 GEO 工具全景图覆盖工具选型;医美、教育等垂直行业的 GEO 获客案例开始大量涌现,标志 GEO 从「通用方法论」进入「行业模板化」阶段。

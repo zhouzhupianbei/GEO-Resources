@@ -39,6 +39,12 @@
 - 📚 补充 GitHub 项目 5 个:聚焦 AEO 技能集与 SEO 工具
 - 📚 补充微信文章 6 篇:聚焦基础概念与案例
 
+## 2026-07
+
+### 2026-07-01
+- 📚 补充 GitHub 项目 5 个:聚焦 AEO 真实查询审计标准化(vinpatel/aeorank 36 条评分)、学术 + 工程两端呼应(Wu-beining/MAGEO ACL 2026 多智能体 GEO)、Claude Code/Codex GEO Skill 化(iklynow-hue/seo-geo-skills)、网站 agent-readiness 规范(jdevalk/specification.website 含 llms.txt + .well-known + MCP endpoint)、独立 AI 创业项目精选列表(NotFair 团队 nowork-studio/awesome-ai-startups)
+- 📚 补充微信公众号文章 10 篇:聚焦「合规周报化 + 工具 SOP 化 + 可见度诊断前置 + 平台分化」四股结构性变化——首次出现 GEO 合规周报(炎麟云创 GEO 合规周报第 8 期)、3 篇 30 天 SOP 工具方法论、AI 可见度诊断成为 GEO 第 0 步、豆包 AI 搜索 GEO 作为独立服务对象出现
+
 ## 2026-05
 
 ### 2026-05-19
