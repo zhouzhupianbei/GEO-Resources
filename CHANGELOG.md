@@ -41,6 +41,10 @@
 
 ## 2026-07
 
+### 2026-07-04
+- 📚 补充 GitHub 项目 5 个:GEO/AEO 工具链「Claude Code / Agent Skill 化」进一步加速并向「营销全学科整合」与「建站-审计一体化」延伸——aaron-he-zhu/aaron-marketing-skills(2300+ 星)把 SEO/GEO 放进 69 个营销技能统一契约,cgallic/kai-cmo-harness 以「开源 AI CMO」定位内置 AEO/GEO,Infrasity-Labs/dev-gtm-claude-skills 聚焦「让文档被 AI 引用」的开发者 GTM,MariusYvard/NullToHero 把建站+审计+GEO 打包成 Claude Cowork 插件,psbagga17/E-GEO 提供电商 GEO 学术测试床
+- 📚 补充微信公众号文章 10 篇:GEO 延续「合规常态化 + 工具 SOP 化 + 可见度诊断前置 + 平台分化」四条主线——监管趋严被解读为「内容派的春天」,合规周报出到第 8 期,AI 可见度诊断作为 GEO 第 0 步并出现新能源车行业样本,豆包 AI 搜索被单列为独立 GEO 服务对象
+
 ### 2026-07-01
 - 📚 补充 GitHub 项目 5 个:聚焦 AEO 真实查询审计标准化(vinpatel/aeorank 36 条评分)、学术 + 工程两端呼应(Wu-beining/MAGEO ACL 2026 多智能体 GEO)、Claude Code/Codex GEO Skill 化(iklynow-hue/seo-geo-skills)、网站 agent-readiness 规范(jdevalk/specification.website 含 llms.txt + .well-known + MCP endpoint)、独立 AI 创业项目精选列表(NotFair 团队 nowork-studio/awesome-ai-startups)
 - 📚 补充微信公众号文章 10 篇:聚焦「合规周报化 + 工具 SOP 化 + 可见度诊断前置 + 平台分化」四股结构性变化——首次出现 GEO 合规周报(炎麟云创 GEO 合规周报第 8 期)、3 篇 30 天 SOP 工具方法论、AI 可见度诊断成为 GEO 第 0 步、豆包 AI 搜索 GEO 作为独立服务对象出现
