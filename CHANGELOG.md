@@ -41,6 +41,10 @@
 
 ## 2026-07
 
+### 2026-07-07
+- 📚 补充 GitHub 项目 6 个:聚焦 GEO 内容质量「基准化」与 Prompt 工程资源重新合流——aldegad/awesome-geo 以 source-first 立场重做 GEO/AEO 资源地图(不走厂商导购),rdegges/redline 把内容审计输出为 agent-actionable edit plan(让 Agent 接着干),aaron-he-zhu/core-eeat-content-benchmark 给出「8 维度 × 10 项 = 80 条」可执行 GEO 评估项,promptslab / brandonhimpfen / The-Swarm-Corporation 三个 Prompt 工程精选集本周仍持续维护,呼应 GEO 与 Prompt 工程的重新合流
+- 📚 补充微信公众号文章 10 篇:GEO 在 7 月初形成「新规倒计时 + 央企招标合规化 + 平台分化为本地垂类」三股新叙事——智通GEO 提示 7 月 15 日 AI 拟人化互动服务新规窗口期,GEO营销研究院 报道 1800 万央企 GEO 招标 60% 服务商因合规被挡,GEO新营销 / SEO技术流 双周报出现监管严打与 ChatGPT 选源机制揭秘,沃艾科技观察 把豆包 GEO 分化到「桌球馆 / 潜水俱乐部」等本地垂类
+
 ### 2026-07-04
 - 📚 补充 GitHub 项目 5 个:GEO/AEO 工具链「Claude Code / Agent Skill 化」进一步加速并向「营销全学科整合」与「建站-审计一体化」延伸——aaron-he-zhu/aaron-marketing-skills(2300+ 星)把 SEO/GEO 放进 69 个营销技能统一契约,cgallic/kai-cmo-harness 以「开源 AI CMO」定位内置 AEO/GEO,Infrasity-Labs/dev-gtm-claude-skills 聚焦「让文档被 AI 引用」的开发者 GTM,MariusYvard/NullToHero 把建站+审计+GEO 打包成 Claude Cowork 插件,psbagga17/E-GEO 提供电商 GEO 学术测试床
 - 📚 补充微信公众号文章 10 篇:GEO 延续「合规常态化 + 工具 SOP 化 + 可见度诊断前置 + 平台分化」四条主线——监管趋严被解读为「内容派的春天」,合规周报出到第 8 期,AI 可见度诊断作为 GEO 第 0 步并出现新能源车行业样本,豆包 AI 搜索被单列为独立 GEO 服务对象

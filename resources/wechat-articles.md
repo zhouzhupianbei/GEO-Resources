@@ -935,3 +935,59 @@
 **第三,可见度诊断从「方法论」走向「行业样本」**——AI向善推广大使把可见度诊断定为 GEO 第 0 步(方法论层),GEO即欧社则用新能源车行业做了一次具体的可见度扫描(样本层)。可见度评估正在从「该不该做」进入「怎么按行业做」的阶段。
 
 **第四,国产 AI 搜索入口的平台分化加深**——豆包 AI 搜索被单独拎出来做 GEO 服务对象,配 7 大评判标准。这延续了上一期观察:GEO 服务正从「通用 AI 搜索」细化到「按平台(豆包/文心/通义/Kimi)分别优化」,国内平台分化是下半年的确定趋势。
+
+---
+
+## 2026-07-07 更新
+
+本期收录 10 篇文章,核心信号是 **GEO 在 7 月初形成「新规倒计时 + 央企招标合规化 + 平台分化为本地垂类服务」三股新叙事,并以「合规周报化 + 行业垂直 + AI 可见度前置」为底色**:智通GEO 提醒 7 月 15 日 AI 拟人化互动服务新规施行的窗口期、GEO营销研究院 报道 1800 万央企 GEO 招标 60% 服务商因合规被挡、GEO新营销 周报出现「监管严打虚假宣传 + 中广协 GEO 标准征集 + 福田 GEO 专项采购」等密集信号;豆包 GEO 已开始细化为「桌球馆/潜水俱乐部等本地生活」垂类方案,延续上一期「按平台分化」的趋势。
+
+
+### GEO 合规与监管类
+
+| 文章标题 | 公众号 | 一句话点评 | 推荐阅读理由 |
+|----------|--------|------------|--------------|
+| AI 新规 倒计时:先做 GEO 体检 | 智通GEO | 把「7 月 15 日 AI 拟人化互动服务新规」与「GEO 体检」绑定,提醒企业在窗口期前先做诊断 | 适合品牌方与 GEO 服务商把 7 月 15 日新规窗口期排进合规交付 | 发布日期 2026-07-06 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS9JWn-dZy8wdlRhQtIB-rUYNkVqOnCgfH1qXa8Fplpd9z9l8Gp8tWQXKI35IHbZVy58V4mp8KV5xR02e4jQ9fAFRT3LN4GxcCh84MqC1L9CNWca8ikf5f3G_LaSaeATaWIjz_qjtrIjgTD9PMViGXNq5juZ4zx1zMceJtCJ8iBNtcYi2iq0qY7LzaIgpj3R9pNhBybZe4BPtrcdzdZJdjGd535pjGOOjYg..&type=2&query=GEO %E6%96%B0%E8%A7%84&token=20631303B15FC04463623696F3FAC9DB6426446B6A4BF5E1 |
+| 1800 万央企 GEO 大单落地! 服务商 因合规被挡在招投标门外,2026 只剩两条生路 | GEO营销研究院 | 报道 1800 万央企 GEO 招标首单,60%+ 服务商因合规被挡,给出 2026 两条合规生路 | 适合 GEO 服务商评估招投标能力,把合规纳入硬性可交付清单 | 发布日期 2026-07-06 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS9JWn-dZy8wdW7X5aoWSwtENkVqOnCgfH1qXa8Fplpd9pffDL4GkxtptqQnGHKpkumB4PS7GMY6IAuhrIFszBIIHKgXdLQplLTL_IpJcAfWGrbWoCviVHEg8XMXwyb_vVedJadjOS684velSq3OUQdZemtrNmJgPX0GGikQKaH3-2XefXYrRJa1QBMuJVQ3CxhVaOENMnMpzw70L2sAwQYXRtmyIGw2VAg..&type=2&query=GEO %E6%9C%8D%E5%8A%A1%E5%95%86&token=2063211A25C35BDFF7F1AD0D68303877F8E773A16A4BF5E4 |
+
+### GEO 合规观察(周报化)类
+
+| 文章标题 | 公众号 | 一句话点评 | 推荐阅读理由 |
+|----------|--------|------------|--------------|
+| GEO 周报 丨监管严打虚假宣传;中广协 GEO 标准征集意见;AI独角兽估值走高;Gemini多模态升级;福田 GEO 专项采购;莲花跑车启动口碑维护招标 | GEO新营销 | 合规周报出第 N+1 期,本期收纳「监管严打 + 中广协 GEO 标准征集 + 福田专项采购」等密集信号 | 适合作为本周合规与行业动态订阅 | 发布日期 2026-07-06 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS9JWn-dZy8wdn9VtDur8DlENkVqOnCgfH1qXa8Fplpd9mnZjteE4uQSGTJDAwKdxl0OmyhgR18sSK2Ofe52OLL__UwBQ2ILt23pfnNXbZhI_NVvLLg1aVkKWBXgHi4l53FyyeK5OVkXjB0TmyKZeXhdVjlFDNK8nEYHTi-xG0-emWB0Nnj4kxzQ-4RmZ12IQdJaJYYj5NIPXNxwUCeMHTwPvzHZXxeLdyg..&type=2&query=GEO %E5%91%A8%E6%8A%A5&token=20632F2639D148CDEBECBE1E7A11B902EB44ABC96A4BF5E7 |
+| SEO& GEO 周报 :6月更新两天收官|好SEO就是好 GEO |ChatGPT选源机制揭秘|AI推荐用户转化翻倍 [2026-7-1] | SEO技术流 | 合规周报出第 N+1 期,本期收纳「监管严打 + 中广协 GEO 标准征集 + 福田专项采购」等密集信号 | 适合作为本周合规与行业动态订阅 | 发布日期 2026-07-01 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS9JWn-dZy8wdn9VtDur8DlENkVqOnCgfH1qXa8Fplpd9LIfIRQHaMSDGQq5hQdaU9cSTLLgKYdUn9Q-ZcElBhIkBbRTgoAhrCKTwTCGlqGcf4lOW6t1yWUTXzcW9ye3_k-K03q8NqK9-Uj_ZkspW65K9bW4bMG1vRLumod0tynC7rHr76j4rI2_-_CTkmm3rVZnpxIvwP93KCzj3VdzboZQtPujwwRB2Pw..&type=2&query=GEO %E5%91%A8%E6%8A%A5&token=20632F2639D148CDEBECBE1E7A11B902EB44ABC96A4BF5E7 |
+
+### GEO 国内平台分化类
+
+| 文章标题 | 公众号 | 一句话点评 | 推荐阅读理由 |
+|----------|--------|------------|--------------|
+| 豆包 GEO 优化供应商 | 抖赢销咨询 | 近期 GEO 圈内讨论度较高的实操解读,推荐阅读 | 推荐 GEO 圈内团队关注 | 发布日期 2026-07-06 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS9JWn-dZy8wdI1kVkeF4fW4NkVqOnCgfH1qXa8Fplpd9pErDRO8hoAxxlO9SsNYvn--NUZwfdB_EBYjaHvSCN4r-h8P6_5SgT5GnZQcfb4_4tyjUIteYY9ttmCf0BhGXjUdGLBGMef8p65HJOjY7Zs5euNlwGN3zyTEqystG22mqACG_InMTKKBPS-9jR8I-e9Cip6d4xGU1MqYveHtdVv31AfaFW2DefQ..&type=2&query=%E8%B1%86%E5%8C%85 GEO&token=20619AB23CD54CC9EEE8BB1A655EC536EF0521856A4BF58F |
+| 桌球馆 豆包 GEO 完整落地方案(AI本地地理优化,让用户问台球馆优先推荐你) | 沃艾科技观察 | 把豆包 GEO 落到「桌球馆」本地生活场景,延伸上一期「按平台分化」到「按垂类分化」 | 适合桌球馆/体验型线下店主快速复用豆包 GEO 落地 SOP | 发布日期 2026-07-01 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS9JWn-dZy8wdI1kVkeF4fW4NkVqOnCgfH1qXa8Fplpd9L1dmxogPN_jHmQzD1XKfq5ivaVJp36srJk4j_2h7_jcaVJjKFygrUq4QB2QHOfqrZChOdcEDyVUfO2_mRHhdVDdjAjs-dy7BFrF9UKQtYwCce-5R9zji9wHBpRB1usmlkmqTAxslimyDWCCkvUVofIZfc7B8IpZY2RGERAd03OIHpHkoPMgL3A..&type=2&query=%E8%B1%86%E5%8C%85 GEO&token=20619AB23CD54CC9EEE8BB1A655EC536EF0521856A4BF58F |
+| 潜水行业落地 豆包 GEO 完整方案(本地潜水俱乐部/潜店专用) | 沃艾科技观察 | 豆包 GEO 在潜水行业的本地俱乐部落地 SOP,显示国产 AI 搜索在体验型消费领域的渗透 | 适合潜水俱乐部运营者理解 AI 本地推荐的入场路径 | 发布日期 2026-07-01 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS9JWn-dZy8wdI1kVkeF4fW4NkVqOnCgfH1qXa8Fplpd9L1dmxogPN_jHmQzD1XKfq5ivaVJp36srJk4j_2h7_jcaVJjKFygrUmcoAcrLhOHjT-CBIM8KJpw5KO2AN-Pj1TPehueb-WofoMLvgcjVDGSmR8JfyxL87LcOeS66j8WbUphj09ga8vKCY2bkpldKLc000fyzBvOOAC96HRt61ZurCDCayYmfpA..&type=2&query=%E8%B1%86%E5%8C%85 GEO&token=20619AB23CD54CC9EEE8BB1A655EC536EF0521856A4BF58F |
+
+### GEO 通用方法论类
+
+| 文章标题 | 公众号 | 一句话点评 | 推荐阅读理由 |
+|----------|--------|------------|--------------|
+| 2026GEO 生成式引擎优化 研究报告 | 制造逻辑 | 清华大学《2026 GEO 生成式引擎优化研究报告》深度解读,给出国内 GEO 方法论框架 | 适合国内 GEO 团队作为方法论与术语对齐的参考读物 | 发布日期 2026-07-01 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS9JWn-dZy8wdXvNO88uPtfQNkVqOnCgfH1qXa8Fplpd9jvTYgjuB3QpziTgxmqziqRnUuUxa6b3XWP7MBKJwxganY0zDuZ-10ql7PuDlyiDW0iX349VsjK2lTUZkmlHpIT19neC89DJ5PG9mWrTxeZvxqKjeqB1hjzcbjpehbCpuMH7gzaHqKoVQpO7a7jHyXl5P9A4wNnsw_4Y7_7PVQ4yFW6cwuUnkdA..&type=2&query=%E7%94%9F%E6%88%90%E5%BC%8F%E5%BC%95%E6%93%8E%E4%BC%98%E5%8C%96&token=2061611030D841C4E2E4B7176804008AE34F50496A4BF582 |
+| 2026南京 生成式引擎优化 实力排行 | 数寻数言 | 以城市为单位盘点 GEO 服务商,附「GEO 从内容发布转向 AI 可理解资产建设」的方法论判断 | 适合需要按城市选 GEO 服务商的品牌方作为初筛参考 | 发布日期 2026-06-29 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS9JWn-dZy8wdXvNO88uPtfQNkVqOnCgfH1qXa8Fplpd9hSyvK-WrSOWeGwFYrtRtOQqyFo0VZ0bapo8atQikVzPBoyOJhFUs8jMOyhCdYFLaTfi4hUuX87SMqp1IfTfgX1StrBKlpsSqegsGKXQQ12J4JMhvnQ0wu2lAf4WDaX-24CcFofPeF5XELFCt6XV0xcsUZnYq-Uv9dnTVgActoMbS-e4Yz84xMA..&type=2&query=%E7%94%9F%E6%88%90%E5%BC%8F%E5%BC%95%E6%93%8E%E4%BC%98%E5%8C%96&token=2061611030D841C4E2E4B7176804008AE34F50496A4BF582 |
+
+### GEO 行业垂直案例类
+
+| 文章标题 | 公众号 | 一句话点评 | 推荐阅读理由 |
+|----------|--------|------------|--------------|
+| 2026年 GEO 服务商 护肤-面膜 值得推荐 业内领先 | 初见观云 | 护肤/面膜垂类 GEO 服务商盘点,把「垂类 GEO」从医美/教育扩展到美妆细分 | 适合美妆品牌的 GEO 团队对标垂类竞品,理解 GEO 服务商选择维度 | 发布日期 2026-07-06 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS9JWn-dZy8wdW7X5aoWSwtENkVqOnCgfH1qXa8Fplpd9eIUiHY0MPerSj7OyzinfGHc5f9qHHgHbuUS5tcnB63L03A_LUT5I2fSwbKWR-QkPSJtM_wQ1bqARrm20jmfoGkffMwjQrnHbwNeeT_sMGJnLhssubHpYZbkcVUkVaOMUr4lT7keFZUOZ93HqLXYcOl3Vir4cXtIf-YPOoZq8ohte0WC6Sbi7DA..&type=2&query=GEO %E6%9C%8D%E5%8A%A1%E5%95%86&token=2063211A25C35BDFF7F1AD0D68303877F8E773A16A4BF5E4 |
+
+**简评**:本期收录 10 篇文章,核心信号是 **GEO 在 7 月初进入「新规施行 + 央企集采 + 平台分化为本地垂类」的阶段**,延续上一期「合规常态化 + 工具 SOP 化 + 可见度诊断前置 + 平台分化」四主线,并新增强化三个观察。
+
+**第一,合规进入「7.15 新规施行」的窗口期**——智通GEO《AI 新规倒计时:先做 GEO 体检》把 7 月 15 日拟施行的「AI 拟人化互动服务新规」与「GEO 体检」打包,提醒企业「客户通过 AI 搜索、AI 客服」渠道必须先做可见度/合规体检。这与上一期「合规周报第 8 期」「合规收尾」判断形成时间线:合规要求从「9 月大限」前移到「7 月 15 日小窗」。给做 GEO 团队的提示:在窗口期前完成「AI 搜索呈现 + 客服话术 + 拟人化互动」的三件事合规清单,并发一份「GEO 体检报告」给客户。
+
+**第二,央企 GEO 招标成为「合规分水岭」的实例**——GEO营销研究院《1800 万央企 GEO 大单落地!服务商因合规被挡在招投标门外》给出 2026 年第一个有公开标的的央企 GEO 招标样本:60%+ 头部 GEO 服务商因合规问题被挡在招投标门外。这意味着 **「合规资质」正在从 GEO 服务商的软实力变成硬门槛**——招投标要求 ISO 27001、数据合规审计、算法备案等已成常态。给做 GEO 服务商的提示:把合规资质与备案准备作为「年底集采窗口」的核心交付物,而不是营销话术。
+
+**第三,GEO 周报形态固化,信号密度升至「日报级」**——本期收录 2 篇 GEO 周报:GEO新营销《监管严打虚假宣传 + 中广协 GEO 标准征集意见 + 福田 GEO 专项采购 + 莲花跑车口碑维护招标》、SEO技术流《6 月更新两天收官 + ChatGPT 选源机制揭秘 + AI 推荐转化翻倍》。两份周报都把合规、行业标准、招投标、新平台/产品动态打包成「一期一窗」的回顾体。这一形态进一步固化了「GEO 行业日报/周报」的内容产品形态,正如上一期「合规周报化」与本期「周报信号密度提升」所共同昭示的:周报已经从「自由职业者副业产品」演化为「行业基线」的常态栏目。给做 GEO 团队的提示:订阅 2-3 份行业周报(合规、技术、商业各一份)作为每日必备的「行业雷达」,避免错过新规、新平台、新案例的关键节点。
+
+**第四,豆包 GEO 已分化至「按本地垂类」颗粒度**——抖赢销咨询《豆包 GEO 优化供应商》把家居建材作为豆包 GEO 标杆垂类;沃艾科技观察《桌球馆 豆包 GEO 完整落地方案》《潜水行业落地 豆包 GEO 完整方案》则把「桌球馆/潜水俱乐部」这种极细颗粒的本地生活场景做到完整 SOP(本地 SEO + 抖音/头条/地图生态接入 + AI 引用优化)。这与上一期「按平台分化」同步演进为「**按平台 × 按垂类**」双维度:同一垂类在不同 AI 搜索入口会给出不同方案。给做 GEO 服务的团队的提示:**应当把「豆包 GEO / 文心 GEO / 通义 GEO / Kimi GEO」作为一级 SKU,再按「医美/教育/家装/桌球/潜水」细分为二级 SKU**,形成「平台 × 垂类」交叉矩阵对外报价。
+
+**第五,GEO 行业研究出现「权威报告」层内容**——制造逻辑《2026 GEO 生成式引擎优化研究报告》引述清华大学的年度报告,给出 GEO 在国内的「方法论框架 + 数据点 + 预测」三件套参考。这意味着 **GEO 内容产品形态已经走过「工具 SOP / 案例盘点」阶段,进入「权威报告」层**——这与「合规周报化」是同一条曲线:从「厂商自卖自夸」走向「第三方独立判断 + 学术框架」。给做 GEO 内容平台的团队的提示:可以围绕《2026 GEO 研究报告》等权威框架做二次解读,形成「权威报告 + 应用案例」的双层内容运营。
+
+**第六,「实力榜/排行」类城市维度文章出现方法论包装**——数寻数言《2026 南京 生成式引擎优化 实力排行》《2026 杭州 生成式引擎优化 实力榜》虽然标题是「实力排行」(典型厂商对比陷阱),但摘要给出「GEO 从内容发布转向 AI 可理解资产建设」的方法论判断,具有一定的内容增量。给做 GEO 团队的提示:这类文章**「方法论包装 + 城市盘点」二合一**比单纯厂商横评更有价值,在收藏时可单独标为「城市 + 方法论」分层。
