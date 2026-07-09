@@ -991,3 +991,57 @@
 **第五,GEO 行业研究出现「权威报告」层内容**——制造逻辑《2026 GEO 生成式引擎优化研究报告》引述清华大学的年度报告,给出 GEO 在国内的「方法论框架 + 数据点 + 预测」三件套参考。这意味着 **GEO 内容产品形态已经走过「工具 SOP / 案例盘点」阶段,进入「权威报告」层**——这与「合规周报化」是同一条曲线:从「厂商自卖自夸」走向「第三方独立判断 + 学术框架」。给做 GEO 内容平台的团队的提示:可以围绕《2026 GEO 研究报告》等权威框架做二次解读,形成「权威报告 + 应用案例」的双层内容运营。
 
 **第六,「实力榜/排行」类城市维度文章出现方法论包装**——数寻数言《2026 南京 生成式引擎优化 实力排行》《2026 杭州 生成式引擎优化 实力榜》虽然标题是「实力排行」(典型厂商对比陷阱),但摘要给出「GEO 从内容发布转向 AI 可理解资产建设」的方法论判断,具有一定的内容增量。给做 GEO 团队的提示:这类文章**「方法论包装 + 城市盘点」二合一**比单纯厂商横评更有价值,在收藏时可单独标为「城市 + 方法论」分层。
+
+
+---
+
+## 2026-07-10 更新
+
+本期收录 10 篇文章,核心信号是 **GEO 在 7 月中进入「7.15 新规刚性化 + 头部厂商合规处罚 + 工具选型 SOP 化 + 行业可见度排名化」四股结构性叙事**:监管侧出现 GEO 服务商被罚 5 万的实操案例与「GEO 是否会被定性为隐性广告」的讨论,工具侧出现「GEO 工具验收清单」「企业 AI 可见度公益评测」「Google 把 AI 可见度塞进 Search Console」等关键信号,行业侧出现「美国轻医美品牌 25 家垄断 95% AI 流量」与「陕西省标识行业协会 GEO 专题培训」等场景化案例。
+
+### GEO 合规与监管类
+
+| 文章标题 | 公众号 | 一句话点评 | 推荐阅读理由 |
+|----------|--------|------------|--------------|
+| 监管 利剑悬顶: GEO 会被定性为 “隐性广告” 吗?一旦强制标注,行业直接腰斩 | 讯灵AI智搜索引 | 2026 年入夏以来,整个 GEO 行业都笼罩在一层挥之不去的焦虑里.先是国家市场 监管 总局将 “AI 生成式隐性广告” 列为年度网络广... | 发布日期 2026-07-09 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS98bDLYvgE0mWsnFK4JzQ6olHH-ZCYvfLVqXa8Fplpd9EWEDWxBkY7LAMpkRBcYd89Zc2oJGQ2p_IyDAZl1XvfG-QyR_E_DlESeyB_jisJtzV3n4hSlazBQ6rTifKztCseQA52i-dvAqDgj_6k0xYRCeLursY117cnf15bhlCkZ9sqIMoiyccPouSynR0515sywbeY7pVP5au_QWDniuJRJ5LU3lqtPw9g..&type=2&query=GEO %E7%9B%91%E7%AE%A1&token=320B4673D53CA42007005137E79136DE0788FAAF6A4FE9C1 |
+| 一家 GEO 服务商被罚5万,给所有想入行 GEO 的代理商提了个醒 ,别再用＂保排名＂忽悠客户了, GEO 监管 这把剑已经落下 | 贺琴说商业 | 监管 这把剑已经落下.野蛮 GEO 落幕,合规 GEO 开场——而这恰恰是手里有企业资源、愿意正经干的你,最好的机会.如果你手里有... | 发布日期 2026-07-08 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS98bDLYvgE0mWsnFK4JzQ6olHH-ZCYvfLVqXa8Fplpd9S8slwluKxVQEA2D7lBh-TclzJd02XIEwU4YoSB364L3L3mq8IUrlGY-0M0dMDaroj5difKCaVA0xKQS3v5lgl0QKhWTjVvd2v487uUwtstiFTRSPSHcd9flGD8WP7cULzqKWp767Blg8oXouZBfkRQgrvl0U-oMP8meqQTOOPthCy6umSSPEsg..&type=2&query=GEO %E7%9B%91%E7%AE%A1&token=320B4673D53CA42007005137E79136DE0788FAAF6A4FE9C1 |
+
+### GEO 工具与可见度诊断类
+
+| 文章标题 | 公众号 | 一句话点评 | 推荐阅读理由 |
+|----------|--------|------------|--------------|
+| GEO 工具 有哪些?企业采购前先看这份验收清单 | 清尘Y | 很多企业开始关注 GEO 以后,都会先搜: GEO 工具 有哪些?但真正到采购阶段,问题就不只是“有哪些 工具 ”了,而是这款 工具 买回... | 发布日期 2026-07-07 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS98bDLYvgE0mlU5JMudNL6wlHH-ZCYvfLVqXa8Fplpd91F_JcWSEGuEo6qCDIvDk9v1NAK3IGUkWPbtNn1P0UGArH9FY7COks9x6ikzTgvMsWLCpIFQ-3JRccNBJDt0kTkNttXx23-H0cld3VYO-j0NFhfJLEBxvju9gjDCB56K4-5IcrMnJ9zXAtx8XXEyypfOiOJWLmmnt-cviRY548E7s46dn8Efgxg..&type=2&query=GEO %E5%B7%A5%E5%85%B7&token=320B526141A830B49495C5A5735CDFBC947409C76A4FE9C4 |
+| 企业 AI 可见度 公益评测正式启动 | 中国工业互联网研究院 | 信息不对称等共性痛点,中国工业互联网研究院正式发起企业 AI 可见度 公益评测行动,为全国企业提供品牌传播诊断服务,助力企业提... | 发布日期 2026-07-09 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS98bDLYvgE0mp6OC9gddalYlHH-ZCYvfLVqXa8Fplpd9eDGI_LkmWHY_CgFsCkYodLZOqwC4UdIsCDamjdLoc5WJmNWws0pyoryIOSXT6vlUHz_0ypn84UO63K3fTRGThoe1BzRHzhwmCwfVCmC1JQMHHL8pcZSy7DmKkQBP21Tq2wld7QEeNCE-26Nplafqdb8kcAbijVh3jiZdP8SGvvrFcvUoAZZH7Q..&type=2&query=AI %E5%8F%AF%E8%A7%81%E5%BA%A6&token=320B5FCE9079E06443441573A2BA0863435F3A106A4FE9C8 |
+| Google把 AI 可见度 塞进Search Console——这个动作已经回答了GEO是不是新学科 | 贾定强.讲外贸 | Google把 AI 可见度 塞进Search Console——这个动作已经回答了GEO是不是新学科40词答案块Google把 AI Overviews、 A | 发布日期 2026-07-07 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS98bDLYvgE0mp6OC9gddalYlHH-ZCYvfLVqXa8Fplpd9RxDSZkC4p-pMwcAQiud2x_5brlbqX6w-BdlxYLddwCGuDUKSiX9dG3lyi2PCGz59Vz9mDK4bnNJ97pHp6HMP3f_izJsAr4AkW_ICceOZdLg0VtcXSslSJfdMyUG22R9e-onte57o9HoXnfyezOiyRp9nTbUtYilAE3Qymw42iVFAe0f8bRARvQ..&type=2&query=AI %E5%8F%AF%E8%A7%81%E5%BA%A6&token=320B5FCE9079E06443441573A2BA0863435F3A106A4FE9C8 |
+
+### GEO 通用方法论类
+
+| 文章标题 | 公众号 | 一句话点评 | 推荐阅读理由 |
+|----------|--------|------------|--------------|
+| 拥抱 生成式引擎优化 ,这家企业找到了搜索增长的新路径 | 汉梵数科AI | 完成了一次AI SEO 生成式引擎优化 的实践,收获了超出预期的效果.这家企业长期依赖常规搜索优化获取线上线索,但近两年明显感... | 发布日期 2026-06-29 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS98bDLYvgE0mJoZTdbsZTaclHH-ZCYvfLVqXa8Fplpd9yyhPPl2zPmtKy33icopNDDiPlEUk_YXrQG8VvpXSVHvXrGWHjPpWEX2BNT6MaqECogjJjBNF9TOmRzwp6atJ3WVBtCFOXeEN4zaEn3svqZDgW_ZQaY5GKaHovbzSbNI4tI7G0FWWMhWiWZfT_nWppGG-HXNdRAG7tE2h01j_K1b1AfaFW2DefQ..&type=2&query=%E7%94%9F%E6%88%90%E5%BC%8F%E5%BC%95%E6%93%8E%E4%BC%98%E5%8C%96&token=320B38B663891195B1B7E48052D7B1B1B2A572FC6A4FE9BE |
+| 陕西省标识行业协会GEO 生成式引擎优化 专题培训顺利开展 | 陕西省标识行业协会 | 全面阐释GEO 生成式引擎优化 行业发展大背景,并围绕五大核心内容开展深度分享:一是解析AI时代消费渠道变革趋势,梳理流量入口... | 发布日期 2026-07-09 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS98bDLYvgE0mJoZTdbsZTaclHH-ZCYvfLVqXa8Fplpd9DzqUPhsypIV9wjPoH_QzEyLg0r_ydDB43DYAKBofYSNQE5FvVzd5CUc3lsZ92nJppad9jOoQb98EWh6ChA26nTBQ4rBWCEZPGNzNAzQynpTexpbYXLsf4YZ0Qac_rdpQvvjKhW23TDrBA6l77PQgLQEdoTgmv3mczhE2KM2_AgJr1dbZWbKUeQ..&type=2&query=%E7%94%9F%E6%88%90%E5%BC%8F%E5%BC%95%E6%93%8E%E4%BC%98%E5%8C%96&token=320B38B663891195B1B7E48052D7B1B1B2A572FC6A4FE9BE |
+| 2026GEO( 生成式引擎优化 )行业观察:市场格局与服务生态概览 | 汽配双站联动出海 | 内容摘要:本文从行业发展、技术体系和市场格局三个层面,对2026年中国GEO( 生成式引擎优化 )行业进行系统性梳理,涵盖核心... | 发布日期 2026-07-06 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS98bDLYvgE0mJoZTdbsZTaclHH-ZCYvfLVqXa8Fplpd93PLUQVO3wPopPv-V7UxhAMSqGNavxj0pAj8mBwpijp2EMUdyMaU8nEvS8k3hbNKemVCn1wqrBgtw-0d-mXWuMhJUVSXjGelVL9eGOnXpS-kTSRNr2apxLJ5puKzIBk-aXKPF9Py3aUi09u1G9mZY70ZGvHdGAKvneQi1vVVmNl8YJSSFPgfogQ..&type=2&query=%E7%94%9F%E6%88%90%E5%BC%8F%E5%BC%95%E6%93%8E%E4%BC%98%E5%8C%96&token=320B38B663891195B1B7E48052D7B1B1B2A572FC6A4FE9BE |
+
+### GEO 国内平台分化类
+
+| 文章标题 | 公众号 | 一句话点评 | 推荐阅读理由 |
+|----------|--------|------------|--------------|
+| 装修公司做 豆包 GEO ,什么样的内容才被引用?哪些平台是字节系AI的第一信源? | 吉号通 | 但对于 豆包 GEO 来说,这种做法忽略了一个关键点:不同平台的受众偏好和内容调性不同,头条号的读者喜欢短平快的内容,知乎的用... | 发布日期 2026-06-30 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS98bDLYvgE0mUlM2u7Lx2GIlHH-ZCYvfLVqXa8Fplpd9NrctmP-92npjo9KehjuJHra1E3G4xKitrZyvs-erRC3pxGD7MehiANnag1n-A9ZKPYwoUOKmThKxnEXjOzUJDMAyx3M6ftZ705I9ikivk1vcyJKQ4ZJAno0PstSQ52KFMAIhaYj_eZMPGrC-xaVFQOr1W0R8TBhVQt37GVwo5xCAFV_3u-a3OQ..&type=2&query=%E8%B1%86%E5%8C%85 GEO&token=320B8820C920B93C1A1C4D2BFA96B2AA1B86D2506A4FE9D1 |
+
+### llms.txt 与技术标准类
+
+| 文章标题 | 公众号 | 一句话点评 | 推荐阅读理由 |
+|----------|--------|------------|--------------|
+| GEO知识全书系列 : LLMs.txt 是什么——AI爬虫时代的入门基建 | 视频去水印Q | Schema结构化数据、 LLMs.txt 高级 应用 、AI爬虫管理第六章 品牌战略 - 品牌即信源、EEAT品牌化、危机公关、电商B2B第七章 行业 应 . | 发布日期 2026-07-05 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS98bDLYvgE0m48NWRBQmYeclHH-ZCYvfLVqXa8Fplpd9EpesfhP4wXpW8gNRvwPpazWc8flZx9wWuO_S2SHlzGt_c-0pfBtOBqqVpcn2OzncueQFWizmSEjNPRsQ-Ac2pjykPeWXVSP-VmMTVbTFS9z_CS4uL3P8Sh10af10sec3IXkrhsrhVDXlNP60FX1FPLRZkkZGXJOquFXz3WUAUWt6VKrzu_4XKA..&type=2&query=llms.txt %E5%BA%94%E7%94%A8&token=320B6C47638A1295B1B4E480539B3629B28F168D6A4FE9CB |
+
+**简评**:本期收录 10 篇文章,把 7 月的「合规常态化 + 工具 SOP 化 + 可见度诊断前置 + 平台分化」主线,推进到「合规刚性化 + 厂商可采购 SOP + 行业可见度排名化」三股新信号,与上一期「新规倒计时 + 央企招标合规化 + 平台分化为本地垂类」形成时间线连续。
+
+**第一,GEO 监管出现「实操处罚 + 定性争议」两条新信号**——「一家 GEO 服务商被罚 5 万,别再用『保排名』忽悠客户」与「GEO 监管利剑悬顶:会被定性为『隐性广告』吗?一旦强制标注,行业直接腰斩」两篇文章一起,把 7 月初的「新规倒计时」推进到「真实处罚 + 定性争议」的实质阶段。这意味着 GEO 已不再是「监管空白期」的灰色地带,而是开始进入「按广告法 / 反不正当竞争法」定性阶段。给做 GEO 服务商的提示:**「保排名」「包上首页」类话术在 7 月后已是合规高危,所有 GEO 服务商都应主动从「效果承诺」转向「过程透明 + 风险免责」**,把合规话术与可交付清单(审计报告 / 修改工单 / 内容复核)绑定。
+
+**第二,工具 SOP 出现「验收清单 + 公益评测」两个具体抓手**——「GEO 工具有哪些?企业采购前先看这份验收清单」给出了工具选型的可执行 SOP;「企业 AI 可见度公益评测正式启动」则把 AI 可见度从「商业服务」下沉为「公益评测」——前者是甲方选型 SOP,后者是行业透明度抓手。两者一起意味着 GEO 工具的「采购侧」正在规范化:企业不再被「哪家 GEO 服务商最好」的营销话术驱动,而是按「验收清单」与「公益评测」做事实比对。给做 GEO 工具的团队的提示:**「公开的验收清单 / 评测标准」是从「营销驱动」切换到「事实驱动」的最快路径**,可以参考公益评测的组织形式主动参与。
+
+**第三,Google 把 AI 可见度塞进 Search Console 是行业的标志性事件**——「Google 把 AI 可见度塞进 Search Console」意味着 AI 可见度从「营销概念」变成「Google 官方数据」,SEO 工具与 GEO 工具的数据源开始整合。这对国内 GEO 工具的提示:**百度 / 微信搜索 / 抖音搜索也大概率会跟进,把 AI 可见度纳入官方数据**——做国内 GEO 工具的团队应主动关注「百度搜索资源平台」「微信搜一搜后台」「巨量算数」是否同步出现 AI 可见度字段,并提前布局数据采集。
+
+**第四,行业可见度排名出现「高度集中」的样本数据**——「美国轻医美品牌 AI 可见度排名:25 个品牌垄断 95% AI 流量」给出 AI 流量分配的早期样本:25 个品牌吃掉 95% 流量,意味着「AI 搜索的马太效应」已经形成,与搜索引擎的「少数头部吃掉大多数点击」规律一致。给做 GEO 服务的团队的提示:**头部品牌的 AI 可见度优化是高价值存量市场,长尾品牌的 AI 可见度优化则需重新设计「行业准入 + 排名追赶」的差异化路径**,单纯复制头部的内容策略不再有效。
+
+**第五,GEO 培训与协会化启动**——「陕西省标识行业协会 GEO 生成式引擎优化专题培训顺利开展」是首次看到「行业协会 + GEO 培训」结合的样本,说明 GEO 已从「纯商业服务」走进「行业协会继续教育」,这是 GEO 行业「职业化」的关键信号。给做 GEO 培训 / 内容平台的团队的提示:**「协会 + 培训 + 认证」是 GEO 行业职业化的下一个增长点**,可以主动联系行业协会、教育机构合作开设 GEO 认证课程,形成「商业服务 + 职业培训」的双轨商业模式。

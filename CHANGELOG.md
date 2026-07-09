@@ -41,6 +41,10 @@
 
 ## 2026-07
 
+### 2026-07-10
+- 📚 补充 GitHub 项目 7 个:GEO/AEO 工具链完成「llms.txt 协议层 → Claude Code / Agent Skill 工程化分发 → 跨平台营销 / 可见度 Agent 市场」三层闭环——AnswerDotAI/llms-txt(2496⭐)作为 /llms.txt 官方规范实现成为事实标准,madarco/ragrabbit 把 llms.txt 与自托管 RAG 打包成一体化平台,SecretiveShell/Awesome-llms-txt 把已部署的 llms.txt 站点沉淀为索引;Houseofmvps/ultraship 与 seranking/seo-skills 双端把 GEO 嵌入 Claude Code 插件与 MCP 服务;unifapi-agent/agents(511⭐)与 dageno-agents/seo-geo-audit 把 GEO/AEO 推向跨平台营销 Agent 与专业审计工作流两极
+- 📚 补充微信公众号文章 10 篇:GEO 在 7 月中进入「7.15 新规刚性化 + 头部厂商合规处罚 + 工具选型 SOP 化 + 行业可见度排名化」四股结构性叙事——监管侧出现 GEO 服务商被罚 5 万实操案例与「隐性广告定性」讨论,工具侧出现「验收清单 + 公益评测 + Google 把 AI 可见度塞进 Search Console」三重信号,行业侧出现「美国轻医美 25 品牌垄断 95% AI 流量」与「陕西省标识行业协会 GEO 培训」等场景化样本
+
 ### 2026-07-07
 - 📚 补充 GitHub 项目 6 个:聚焦 GEO 内容质量「基准化」与 Prompt 工程资源重新合流——aldegad/awesome-geo 以 source-first 立场重做 GEO/AEO 资源地图(不走厂商导购),rdegges/redline 把内容审计输出为 agent-actionable edit plan(让 Agent 接着干),aaron-he-zhu/core-eeat-content-benchmark 给出「8 维度 × 10 项 = 80 条」可执行 GEO 评估项,promptslab / brandonhimpfen / The-Swarm-Corporation 三个 Prompt 工程精选集本周仍持续维护,呼应 GEO 与 Prompt 工程的重新合流
 - 📚 补充微信公众号文章 10 篇:GEO 在 7 月初形成「新规倒计时 + 央企招标合规化 + 平台分化为本地垂类」三股新叙事——智通GEO 提示 7 月 15 日 AI 拟人化互动服务新规窗口期,GEO营销研究院 报道 1800 万央企 GEO 招标 60% 服务商因合规被挡,GEO新营销 / SEO技术流 双周报出现监管严打与 ChatGPT 选源机制揭秘,沃艾科技观察 把豆包 GEO 分化到「桌球馆 / 潜水俱乐部」等本地垂类
