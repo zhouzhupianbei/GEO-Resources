@@ -1045,3 +1045,45 @@
 **第四,行业可见度排名出现「高度集中」的样本数据**——「美国轻医美品牌 AI 可见度排名:25 个品牌垄断 95% AI 流量」给出 AI 流量分配的早期样本:25 个品牌吃掉 95% 流量,意味着「AI 搜索的马太效应」已经形成,与搜索引擎的「少数头部吃掉大多数点击」规律一致。给做 GEO 服务的团队的提示:**头部品牌的 AI 可见度优化是高价值存量市场,长尾品牌的 AI 可见度优化则需重新设计「行业准入 + 排名追赶」的差异化路径**,单纯复制头部的内容策略不再有效。
 
 **第五,GEO 培训与协会化启动**——「陕西省标识行业协会 GEO 生成式引擎优化专题培训顺利开展」是首次看到「行业协会 + GEO 培训」结合的样本,说明 GEO 已从「纯商业服务」走进「行业协会继续教育」,这是 GEO 行业「职业化」的关键信号。给做 GEO 培训 / 内容平台的团队的提示:**「协会 + 培训 + 认证」是 GEO 行业职业化的下一个增长点**,可以主动联系行业协会、教育机构合作开设 GEO 认证课程,形成「商业服务 + 职业培训」的双轨商业模式。
+
+---
+
+## 2026-07-13 更新
+
+本期收录 9 篇文章,核心信号是 **GEO 在 7 月中旬进入「豆包 / 文心 / 千问 / 通义 / DeepSeek 五大平台横向分化 + 国内合规实战样本 + 区域 GEO 落地 + 抖音低成本豆包 GEO」四股结构性叙事**:豆包与文心一言为代表的头部 AI 平台 GEO 攻略陆续出炉,GEO 行业出现「EMC / 高敏行业 / 区域品牌 / 武汉本地」等垂直实战样本,「抖音 + 豆包 GEO」组合提供低成本的平台内优化路径。
+
+### GEO 合规与监管类
+
+| 文章标题 | 公众号 | 一句话点评 | 推荐阅读理由 |
+|----------|--------|------------|--------------|
+| 2026上半年 GEO 营销 案例 盘点及启示 | 广告主评论 | 回顾 2026 上半年 GEO 营销的真实案例与启示,梳理 AI 时代品牌增长路径 | 回顾 2026 上半年 GEO 营销的真实案例与启示,梳理 AI 时代品牌增长路径 | 发布日期 2026-07-07 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-uWX6u8fIhvm-VXR3wyydQSLSi8xhk-AlqXa8Fplpd9dWTtMIO8cdnPX8uBnNXSSMUPppL4Wj6PF8mvRp0h1VcAyah5Cy7wBMHkYDVeJbonjbIVcdyYulsYbU5v_uuXe2PartB8ZDDHwkeQQQY5Zz5ASc9_3aJ87DpR96vMTtzAJAjGk2-cEYntqGn3dAV_7sZp7_4ahAubpdyEM5srvQl5Nu7CnoSqqg..&type=2&query=GEO %E6%A1%88%E4%BE%8B&token=46099DCFF95FC0446465350A5F588B6B648849DC6A53DE54 |
+| 芯通康科技*深爱榜IP工作室:以 合规 GEO 布局,开辟EMC行业品牌赋能新赛道 | 深爱榜融媒 | EMC 行业以合规 GEO 布局开辟品牌赋能新赛道,提供垂直行业 GEO 落地样本 | EMC 行业以合规 GEO 布局开辟品牌赋能新赛道,提供垂直行业 GEO 落地样本 | 发布日期 2026-03-15 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-uWX6u8fIhvna68lFB2dcESLSi8xhk-AlqXa8Fplpd98XE4Go5Lj7jZLnHPDgurj3poprv_abmCeXn21sevIR_qgozgR0A-o-LI2Wog3DDxSqi-X_nQL-df6SOcdaDTaGHI85udPp473Zhr_3ip8nCNGtXyEIThN1l7u5nZJpBlXNW9vU-okckh1PsTfABZ3rhuWfg0PX-BnswqAqpYekpj3x9Nw6p-Fg..&type=2&query=GEO %E5%90%88%E8%A7%84&token=4608306E32920A8EA9AEFFC69FFF5B99A9107A706A53DE13 |
+| GEO 合规 风控:三级审核机制在高敏行业的应用 | 三帅望川 | 高敏行业的 GEO 合规风控:三级审核机制的实操拆解,适合金融/医疗/法律行业参考 | 高敏行业的 GEO 合规风控:三级审核机制的实操拆解,适合金融/医疗/法律行业参考 | 发布日期 2026-03-17 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-uWX6u8fIhvna68lFB2dcESLSi8xhk-AlqXa8Fplpd9zHZuItjCHJC71vsG-uDN3Ejkv_uZU6RoQE1vfvnat6kg9mHFzfup7X3G08JtEYvvawam9XwlPuWCJSxU6HmSLk2eCx1Hivf4Vjf2h7Px70We5erBxNSKSzxiqwTmAUqzyyBb4WmH4icMnJNtRCjDYArcokseyA_9pUGzVKUM5PM89kyxDwoXvg..&type=2&query=GEO %E5%90%88%E8%A7%84&token=4608306E32920A8EA9AEFFC69FFF5B99A9107A706A53DE13 |
+
+### GEO 通用方法论类
+
+| 文章标题 | 公众号 | 一句话点评 | 推荐阅读理由 |
+|----------|--------|------------|--------------|
+| 海南 生成式引擎 如何 优化 品牌排名? | 新零售商业导师 | 海南品牌如何借助生成式引擎优化提升 AI 搜索排名,提供区域 GEO 实践案例 | 海南品牌如何借助生成式引擎优化提升 AI 搜索排名,提供区域 GEO 实践案例 | 发布日期 2026-07-10 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-uWX6u8fIhvi2g1hSMqEvcSLSi8xhk-AlqXa8Fplpd9Bg2oEVa9ca27lUkEZu0Q4iPnWVd5Mv-F3kCz5Spxe8iPK-Xra8iohIjb6_LUQSkb1iUStfqzVt9RnsVVAIbh-sHbCYYKzG7JibQi2fQMwgo3tDp0WTWK7UVR9wR2wesnpkggaHkMbaQoOM9Xz2ZWrMfThZJ8a6fyR0-1_KmmnGtf_71bqkOtiw..&type=2&query=%E7%94%9F%E6%88%90%E5%BC%8F%E5%BC%95%E6%93%8E%E4%BC%98%E5%8C%96&token=4608466B68C950D5F3F4A49CC57A000AF36928A76A53DE16 |
+| 2026年7月9日 GEO 生成式引擎优化 重大新闻与行业动态 | 际优GEO官方 | 7 月 9 日 GEO 行业重大新闻与动态速览,涵盖平台、合规、工具多维度信号 | 7 月 9 日 GEO 行业重大新闻与动态速览,涵盖平台、合规、工具多维度信号 | 发布日期 2026-07-09 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-uWX6u8fIhvi2g1hSMqEvcSLSi8xhk-AlqXa8Fplpd9IO0ZfYllX5gjYAI1-OTRI0vIFsRG3kvQCw4bsewjIdo5h1WxZwYR5AcN1uvG65LvA-TIYU3wQY8sdwJM6hkBY2bKlFoGTkffZKQWBkeT39-f--aYf5cH_hR4Rp9JE61tVJSLA8GZ3I56KgGEsFObjCgBQUQHShB5yHIll2OHJJijotuuiAmOIg..&type=2&query=%E7%94%9F%E6%88%90%E5%BC%8F%E5%BC%95%E6%93%8E%E4%BC%98%E5%8C%96&token=4608466B68C950D5F3F4A49CC57A000AF36928A76A53DE16 |
+| 老板必看!2026武汉 GEO 服务商 真实测评 | 中研GEO | 武汉 GEO 服务商真实测评,避开营销话术看实际能力,适合本地企业选型 | 武汉 GEO 服务商真实测评,避开营销话术看实际能力,适合本地企业选型 | 发布日期 2026-07-12 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-uWX6u8fIhvoacIwme8lmoSLSi8xhk-AlqXa8Fplpd9Qus2fsm03Yn8x5EwFJOmXcCOi33xArZ0IrU8ThXxEm-Nwi3TEA2AD3R2qKdEFxtZxu3A_uiHcbvKYtYuGCIW3MUzK7EFRJN-POpgHtK_OjOQWWM-OgmketQrPNNO2pUe4J75XQaxf7NUoDIRUoDlb2tcYJ1GjSWPk-5i4oWGYcTy08OLTBhW0A..&type=2&query=GEO %E6%9C%8D%E5%8A%A1%E5%95%86&token=4608804C48EA72F6D2D787BFEACED34AD2D988546A53DE20 |
+
+### GEO 国内平台分化类
+
+| 文章标题 | 公众号 | 一句话点评 | 推荐阅读理由 |
+|----------|--------|------------|--------------|
+| 豆包千问同日下线智能体,为什么 生成式引擎优化 反而更值得做了? | GEO增长社 | 豆包与千问同日下线智能体,GEO 反而成为更值得投入的方向,平台分化下 GEO 的位置 | 豆包与千问同日下线智能体,GEO 反而成为更值得投入的方向,平台分化下 GEO 的位置 | 发布日期 2026-07-10 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-uWX6u8fIhvi2g1hSMqEvcSLSi8xhk-AlqXa8Fplpd9D1pBABk5NgPhawBfQfgqglQ7RomFkRCh5WbX6j-p3odSel8jsw5_p0XhDwC7mPRbkaz_RUz2xbRhSjoqMUETw_fYRC2YsC18PIyDjmIqKDcnof1Edatn6RjGvm-4j9uwlEOzHqmt7Si9H_syfq4kv_bcsKCbnSNkXlNdmARI7L-FW6cwuUnkdA..&type=2&query=%E7%94%9F%E6%88%90%E5%BC%8F%E5%BC%95%E6%93%8E%E4%BC%98%E5%8C%96&token=4608466B68C950D5F3F4A49CC57A000AF36928A76A53DE16 |
+| GEO 覆盖哪些AI平台?横向对比豆包、 文心 一言、通义千问、D | 芯芸达GEO | 横向对比豆包 / 文心一言 / 通义千问 / DeepSeek 等 AI 平台 GEO 覆盖情况,平台分化下的实操指南 | 横向对比豆包 / 文心一言 / 通义千问 / DeepSeek 等 AI 平台 GEO 覆盖情况,平台分化下的实操指南 | 发布日期 2026-07-12 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-uWX6u8fIhvtBc7HB8c5tsSLSi8xhk-AlqXa8Fplpd9MvVBFDgp9VXtO-GnXNkurlpxnF_13OSB51sSW_t1LQKIVh2lCKagQz2hETnFnh6wHthiSyvq0KRQjKd86yCyBKmSlcEL3R1jfVWoS-rRdwbirN6J--EvG7gz7JQ6ix4JeY_W0BwA0WlK0roRt7uPp-c5xQqNyrqoG9R9ntk7mb05eBgmN3LoYQ..&type=2&query=%E6%96%87%E5%BF%83 GEO&token=46098EB39C3DA421060150683C0D354F079D24616A53DE51 |
+| 抖音账号做好以下几点, 豆包 GEO 依然可以免费上排名 | 臀说 | 抖音账号基础做到位,豆包 GEO 仍可免费上排名 — 平台内 GEO 的低成本路径 | 抖音账号基础做到位,豆包 GEO 仍可免费上排名 — 平台内 GEO 的低成本路径 | 发布日期 2026-03-25 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS-uWX6u8fIhvzUxN7li6ID0SLSi8xhk-AlqXa8Fplpd9aPEHSDl6LlO5H1tFS-mS5Ltx8S6AsX6QyD8nCRJXaKKaGFmyeXofej5rTamy2hef3uef0H_lVU7jZ1emYuizp2vvodklEP5nfhB5Aha8IGtoN0it2xLHAr--PWh22X8AJ7JsXAANIITU00eyrYXVJz0zldGGEc7L-O9o4kLbIKVQL0Hr9Gyd3Q..&type=2&query=%E8%B1%86%E5%8C%85 GEO&token=4609801263C259DDFAFFAC94C021AC99FAC83B616A53DE4E |
+
+**简评**:本期收录 9 篇文章,把 7 月的「平台分化 + 合规 + 工具 + 行业」主线推进到「五大平台横向对比 + 国内合规实战 + 区域 GEO + 抖音低成本路径」四股新信号,与 7 月 10 日「合规刚性化 + 工具 SOP 化 + 可见度排名化 + 平台分化」形成时间线连续。
+
+**第一,GEO 国内平台分化进入「五大平台横向对比」阶段**——「GEO 覆盖哪些 AI 平台?横向对比豆包、文心一言、通义千问、DeepSeek」是首次看到「一篇文章横向对比五大主流 AI 平台」的样本,这意味着 GEO 国内平台分化已从「单一平台攻略」(如 7 月 1 日「豆包 GEO」单点攻略)演进到「多平台并比 + 选型指南」。给做 GEO 服务商的提示:**头部 GEO 服务商应主动产出「五大平台并比」类对照文档,把分散的平台攻略整合成系统化选型参考**,这是 GEO 服务从「单一平台服务商」向「全平台服务商」演进的关键信号。
+
+**第二,豆包 GEO 出现「低成本路径 + 智能体下线」两条新信号**——「抖音账号做好以下几点,豆包 GEO 依然可以免费上排名」给出低成本路径:抖音账号基础做好 + 头条号内容同步 + 知乎权威背书,即可拿到豆包 GEO 免费排名;而「豆包千问同日下线智能体,为什么生成式引擎优化反而更值得做了」则说明豆包 / 千问在「智能体」产品上调整,反而让「内容侧 GEO」成为更稳定的方向。这两条一起意味着**「豆包 GEO 不必花钱买服务,做好账号基础即可」正在成为行业共识**——给做 GEO 服务商的提示:豆包 GEO 业务应当从「卖 GEO 服务」转型到「卖账号基础 + 内容运营」,靠服务流程而非技术门槛建立差异化。
+
+**第三,GEO 合规出现「EMC / 高敏行业 / 区域品牌」三个垂直实战样本**——芯通康 EMC 行业以合规 GEO 开辟品牌赋能、GEO 合规风控三级审核机制在高敏行业(金融/医疗/法律)应用、2026 上半年 GEO 营销案例盘点,三个样本覆盖「制造业 + 高敏服务 + 全行业」三个垂直方向。这呼应 7 月 10 日「陕西省标识行业协会 GEO 培训」的「行业协会化」信号:**GEO 已从「通用方法论」下沉到「行业垂直实战」**——给做 GEO 培训 / 咨询的团队的提示:「行业垂直 GEO 实战手册」是下一个增长点,可以主动联系行业协会、垂直媒体合作产出细分行业 GEO 白皮书。
+
+**第四,区域 GEO 落地出现「武汉 + 海南」两个具体样本**——武汉 GEO 服务商真实测评(2026-07-12)、海南生成式引擎如何优化品牌排名(2026-07-10),两个区域 GEO 样本一起,意味着**区域品牌开始有「本地 GEO 服务商 + 本地 GEO 实践案例」**两条主线。给做本地 GEO 服务商的提示:**「本地 GEO 服务商横评」类文章在区域品牌里有强需求**(武汉老板必看类),可以做全国主要城市的本地 GEO 服务商索引,形成「本地 GEO 知识库」差异化。
+
+**第五,GEO 营销案例盘点反映「合规 + 平台 + 工具 + 行业」已形成完整叙事**——「2026 上半年 GEO 营销案例盘点及启示」覆盖 1-6 月的 GEO 营销案例,意味着 GEO 已不再是「零散试点」,而是开始有「半年期复盘 + 案例库沉淀」的内容形态。给做 GEO 内容平台的提示:**「半年报 / 季度报 / 月报」类周期化 GEO 内容已成为差异化抓手**,可以主动产出 GEO 行业半年报 / 季度报,把分散的案例整合为可被引用的索引报告。
