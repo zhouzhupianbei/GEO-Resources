@@ -1087,3 +1087,46 @@
 **第四,区域 GEO 落地出现「武汉 + 海南」两个具体样本**——武汉 GEO 服务商真实测评(2026-07-12)、海南生成式引擎如何优化品牌排名(2026-07-10),两个区域 GEO 样本一起,意味着**区域品牌开始有「本地 GEO 服务商 + 本地 GEO 实践案例」**两条主线。给做本地 GEO 服务商的提示:**「本地 GEO 服务商横评」类文章在区域品牌里有强需求**(武汉老板必看类),可以做全国主要城市的本地 GEO 服务商索引,形成「本地 GEO 知识库」差异化。
 
 **第五,GEO 营销案例盘点反映「合规 + 平台 + 工具 + 行业」已形成完整叙事**——「2026 上半年 GEO 营销案例盘点及启示」覆盖 1-6 月的 GEO 营销案例,意味着 GEO 已不再是「零散试点」,而是开始有「半年期复盘 + 案例库沉淀」的内容形态。给做 GEO 内容平台的提示:**「半年报 / 季度报 / 月报」类周期化 GEO 内容已成为差异化抓手**,可以主动产出 GEO 行业半年报 / 季度报,把分散的案例整合为可被引用的索引报告。
+
+---
+
+## 2026-07-25 更新
+
+本期收录 10 篇文章，来源为微信公众号搜索与公开技术站点补充。核心信号是 **GEO 内容讨论从「服务商排名与保曝光」转向「证据审批 + 可审计交付 + 主题级可见度 + 实体与品类建模」**：合规侧开始要求每项公开说法都能回溯证据；技术侧把度量单位从单个关键词提升到主题、实体覆盖和品类框定；执行侧则出现持续自主搜索与 AEO 自动化监控，说明 GEO 正进入可验证、可持续的运营阶段。
+
+### GEO 合规、治理与可审计交付类
+
+| 文章标题 | 公众号/来源 | 一句话点评 | 推荐阅读理由 |
+|----------|-------------|------------|--------------|
+| GEO红皮书(2026)：生成式引擎优化的边界、风险与治理 | 奇点AI+摘星AI人工智能 | 从边界、风险红线和治理机制系统讨论「负责任 GEO」，比单纯喊合规更接近行业框架 | 适合服务商、品牌法务与交付负责人共同建立风险清单 | 发布日期 2026-07-23 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7NgZgeD6x4mY46i1P7M53-JDRQSeLTRm1qXa8Fplpd9HLBMOdAw5plz49iatW0P3ts3o0vOVyjG9IYd9S4xQegjiabiY9P2kAlITjA2bX5UYXwElokdYFW2DciGAVlUupwqgc-iD7ubDPeRmhufoKeo3HCSAO0LYNNPvPFCZzDolJmV34z6L3VfRrTHkXxTRBmpHrvEHRkTtDtxyk3zL_hS6t2rFt2rnA..&type=2&query=%E7%94%9F%E6%88%90%E5%BC%8F%E5%BC%95%E6%93%8E%E4%BC%98%E5%8C%96&token=*** |
+| GEO 合规之后，外贸企业最先要补的不是内容矩阵，而是「证据审批机制」 | 树江聊优化 | 把公开内容视为可被 AI 传播的「事实主张」，要求每项说法都有证据、审批人与有效期 | 适合外贸和品牌团队把合规落实到内容工作流，而不是停留在口号 | 发布日期 2026-07-22 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7NgZgeD6x4mONb0Lhko3aGJDRQSeLTRm1qXa8Fplpd92NlsQmpI2Ev4B1ecql2iJz5phMyPvI-t5_jKXGaBS4QwEI4x95dy6XeSzfDecZ7hAIt-9X65os29AzeGQDtrSdW1eG0JhMXIYZgFTFoyRXng1Lg2gkUPz1tZWA6RKTaYaZY_FLlGz7aIrPw706bt9WaozWZB2KBplwqiWciD7HrdrgozfSg6bw..&type=2&query=GEO%20%E5%90%88%E8%A7%84 |
+| GEO 合规自查清单：2026 年别让黑帽操作毁了品牌信用分 | AI搜索 琳子 | 用内容、信源、技术、数据、商业边界五个维度整理自查项，便于项目启动和验收时逐项核对 | 适合作为 GEO 项目的合规验收底稿 | 发布日期 2026-07-21 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7NgZgeD6x4mONb0Lhko3aGJDRQSeLTRm1qXa8Fplpd9J9mNqUwcv_Igy5hbWUefdKL4dRprW2T953uWcAYBRm5F0txsrC4E7bHNKqufGB2RDtsPV5_dXEgviH318TNETvexEmwR8ffvQL9u-hn3nsKolp99HmjfqM2xS5VnGUAULCGwhMODr-h2aCGd5kcop4Qbqceu8lXbMw7zhGIIcO5flztgI7RZ1g..&type=2&query=GEO%20%E5%90%88%E8%A7%84 |
+| 清朗行动高压监管下，GEO 服务商怎么安全做交付？这份分析报告是正解 | 模力指数GEO | 把效果量化、流程留痕和长期运营放进同一份交付报告，回应强监管下「如何证明做过什么」的问题 | 适合服务商重做报告模板与证据留存机制 | 发布日期 2026-07-21 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS7NgZgeD6x4m7l8GnP4L_xuJDRQSeLTRm1qXa8Fplpd94LOKlhS8bEUV6bUBjmARWXU0ZAbTMIjD30owQ6xyXJ0LBBEOtLm1mfDs4HHa-XdOl4xrDm57PB3ugukHddaEjdCrHS38fjJQcqlQY_GLEbfe90_prn5B7ysG7YGXythBoSDJhAxGqzGH0pHQxcDDILH0I3VQ2jK1YFyfLBWHNCjyPfCoem7FzA..&type=2&query=GEO%20%E7%9B%91%E7%AE%A1 |
+
+### AI 可见度、实体与品类建模类
+
+| 文章标题 | 公众号/来源 | 一句话点评 | 推荐阅读理由 |
+|----------|-------------|------------|--------------|
+| AI可见度是主题层的游戏：85%的品类还没主人，你的机会在哪 | 保哥笔记 | 基于 1094 个美国品类实测，把度量单位从关键词提升到主题，并区分「被提及」与「被引用」 | 适合搭建主题级可见度地图和竞品基线 | 发布日期 2026-07-22 | 链接:https://zhangwenbao.com/ai-visibility-topic-ownership-category-level.html |
+| 实体覆盖缺口怎么找？用向量嵌入把 AI 认不全你的地方挖出来 | 保哥笔记 | 从理想实体模型、Schema.org 映射到向量比对，给出找缺口、排优先级和验收的完整路径 | 适合技术 SEO / GEO 团队落地实体工程 | 发布日期 2026-07-22 | 链接:https://zhangwenbao.com/entity-gap-analysis-vector-embedding-schema.html |
+| 同一个品牌，换个品类词 AI 就不推你了：品类框定才是 AI 推荐的开关 | 保哥笔记 | 用 12 个品牌、14140 次实测解释 category coding，指出品牌被认识不等于在目标品类里被推荐 | 适合品牌团队重做实体描述、第三方共现与品类语料 | 发布日期 2026-07-22 | 链接:https://zhangwenbao.com/category-framing-ai-brand-recommendation.html |
+| AI答案引擎还认不认你多年攒下的那套 SEO 指纹？分四层拆开看 | 保哥笔记 | 分 Google、ChatGPT 检索、模型等层次核对外链、权威与结构化数据还能传递多少价值 | 适合避免把传统 SEO 资产简单等同于 AEO 排名因子 | 发布日期 2026-07-21 | 链接:https://zhangwenbao.com/domain-fingerprint-ai-answer-engines.html |
+
+### Agentic Search 与持续监测类
+
+| 文章标题 | 公众号/来源 | 一句话点评 | 推荐阅读理由 |
+|----------|-------------|------------|--------------|
+| 搜索开始替你在后台盯着：持续自主搜索来了，独立站怎么进那份提醒名单 | 保哥笔记 | 围绕 agentic search 解释持续检索与传统提醒的差异，并把结构化变更、实体权威和真实更新节奏列为进入提醒名单的抓手 | 适合内容站与独立站提前适配持续自主搜索 | 发布日期 2026-07-21 | 链接:https://zhangwenbao.com/persistent-autonomous-search-agentic-visibility.html |
+| 被 AI 推荐过一次就够了吗？AEO 得靠六个自动化环节持续盯防 | 保哥笔记 | 把提示词、跨平台声量、竞品引用来源、情感、幻觉和月报拆成六个持续监控环节 | 适合从一次性审计升级到可持续 AEO 运营 | 发布日期 2026-07-16 | 链接:https://zhangwenbao.com/aeo-monitoring-automation-continuous-defense.html |
+
+**简评**：本期 10 篇文章把 7 月中旬的「合规实战 + 平台分化」进一步推进到「证据治理 + 可审计交付 + 主题/实体级测量 + 持续自主搜索」四条主线。值得注意的是，公开搜索中的服务商榜单、夸张增长率和「保排名」文章继续大量增加，因此本期主动降低横评软文权重，优先收录能给出方法、证据结构或可复用检查项的内容。
+
+**第一，GEO 合规开始进入「证据审批」阶段**——树江聊优化提出每项公开说法都应绑定证据、审批人与有效期；《GEO 红皮书》把边界、风险与治理放进统一框架；合规自查清单和清朗行动下的交付报告，则把治理落实到五维检查与过程留痕。与 7 月 10 日「服务商被罚 5 万」「隐性广告定性争议」连看，行业正在从「不能做黑帽」升级为 **「必须证明每个公开事实从哪里来、谁批准、何时失效」**。
+
+**第二，AI 可见度的度量单位从「关键词排名」上移到「主题所有权」**——1094 个品类实测强调被提及、被引用和主题主导权是三种不同状态；这与此前「AI 可见度排名每次都变」的观察一致。对 GEO 团队来说，应该少报「第几名」，多报 **主题覆盖率、跨提示词出现率、引用来源分布和相对声量份额**。
+
+**第三，实体工程与品类框定成为内容优化的前置层**——向量嵌入找实体覆盖缺口、Schema.org 映射、category coding 和第三方共现语料，都指向同一个判断：AI 先决定「你是谁、属于哪个品类」，才决定是否在某个问题里推荐你。给品牌团队的提示是：内容矩阵之前先做实体模型和目标品类清单，否则大量文章可能只增加「被认识」，并不增加「被推荐」。
+
+**第四，Agentic Search 要求内容具备可持续的变更信号**——Google 讨论持续自主搜索后，网站的价值不只是拥有一篇静态权威文章，还要能持续提供结构化、可验证的新变化。新品、库存、价格、政策、版本与案例更新应形成明确的时间戳和实体关系，才能进入 Agent 的长期观察列表。
+
+**第五，AEO 正从一次性项目变成持续监控系统**——六环节自动化监控把提示词、跨平台声量、引用来源、情感、幻觉和月报串起来；这与本期 Canonry / CrawlSEO 等开源项目的演进互相印证。下一阶段 GEO 服务的交付单位更可能是 **「持续监控 + 证据留痕 + 修复工单」**，而不是按篇计费的内容包。

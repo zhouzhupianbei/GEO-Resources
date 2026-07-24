@@ -41,6 +41,14 @@
 
 ## 2026-07
 
+### 2026-07-25
+- 📚 补充 GitHub 项目 8 个：聚焦 GEO 诊断工作台、Agent-first AEO 运营平台、CLI/MCP 双接口、持续监测与 llms.txt 内容栈内建
+- 📚 补充技术文章 10 篇：聚焦证据审批与可审计交付、主题级 AI 可见度、实体/品类建模、Agentic Search 与 AEO 持续监控
+
+### 2026-07-13
+- 📚 补充 GitHub 项目 10 个：聚焦 MCP 引用追踪、Claude Code Skill 化、llms.txt 平台层与 Magento 2 电商 CMS 扩展
+- 📚 补充技术文章 9 篇：聚焦五大平台横向分化、国内合规实战、区域 GEO 落地与豆包低成本路径
+
 ### 2026-07-10
 - 📚 补充 GitHub 项目 7 个:GEO/AEO 工具链完成「llms.txt 协议层 → Claude Code / Agent Skill 工程化分发 → 跨平台营销 / 可见度 Agent 市场」三层闭环——AnswerDotAI/llms-txt(2496⭐)作为 /llms.txt 官方规范实现成为事实标准,madarco/ragrabbit 把 llms.txt 与自托管 RAG 打包成一体化平台,SecretiveShell/Awesome-llms-txt 把已部署的 llms.txt 站点沉淀为索引;Houseofmvps/ultraship 与 seranking/seo-skills 双端把 GEO 嵌入 Claude Code 插件与 MCP 服务;unifapi-agent/agents(511⭐)与 dageno-agents/seo-geo-audit 把 GEO/AEO 推向跨平台营销 Agent 与专业审计工作流两极
 - 📚 补充微信公众号文章 10 篇:GEO 在 7 月中进入「7.15 新规刚性化 + 头部厂商合规处罚 + 工具选型 SOP 化 + 行业可见度排名化」四股结构性叙事——监管侧出现 GEO 服务商被罚 5 万实操案例与「隐性广告定性」讨论,工具侧出现「验收清单 + 公益评测 + Google 把 AI 可见度塞进 Search Console」三重信号,行业侧出现「美国轻医美 25 品牌垄断 95% AI 流量」与「陕西省标识行业协会 GEO 培训」等场景化样本
