@@ -1130,3 +1130,54 @@
 **第四，Agentic Search 要求内容具备可持续的变更信号**——Google 讨论持续自主搜索后，网站的价值不只是拥有一篇静态权威文章，还要能持续提供结构化、可验证的新变化。新品、库存、价格、政策、版本与案例更新应形成明确的时间戳和实体关系，才能进入 Agent 的长期观察列表。
 
 **第五，AEO 正从一次性项目变成持续监控系统**——六环节自动化监控把提示词、跨平台声量、引用来源、情感、幻觉和月报串起来；这与本期 Canonry / CrawlSEO 等开源项目的演进互相印证。下一阶段 GEO 服务的交付单位更可能是 **「持续监控 + 证据留痕 + 修复工单」**，而不是按篇计费的内容包。
+
+---
+
+## 2026-08-01 更新
+
+本期收录 10 篇文章,来源为微信公众号搜索。核心信号是 **GEO 在 7 月底进入「信通院标准化 + AI 搜索产品分叉 + llms.txt 落地实操 + 豆包 GEO 平台深度耦合」四股结构性叙事**——监管侧信通院启动首批 GEO 价值交付能力专项测评,AI 搜索侧 Kimi 团队核心成员转向 AI 婚恋创业暴露头部 AI 搜索产品分化信号,llms.txt 侧出现「一行让 AI 主动写进答案」类小技巧与「企业级可信信源」落地实操,豆包 GEO 侧出现「九紫离火运风口」等流量新打法与服务商新规双重信号。
+
+### GEO 评测与标准化类
+
+| 文章标题 | 公众号 | 一句话点评 | 推荐阅读理由 |
+|----------|--------|------------|--------------|
+| GEO与 生成式引擎优化 GEO:2026年AI搜索可见性评测报告 | 智搜云航 | GEO 与生成式引擎优化 GEO:2026 年 AI 搜索可见性评测报告 | 适合做 GEO 评测报告、服务商选型对照 | 发布日期 2026-07-29 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwzhkCo-2zPZde5Xx5WtS8Qe3A9t87HJI1qXa8Fplpd9jfkuDiwHKjONuv5DI_Oa_YND1rl_WbiqIFZP5LF0CimUfytpV1tFbm3EXBOnsHO5JaLZiwt9TRkl5hTvWGaAQyI5b_7tlF2-M1epA0J_TJC1leUm62G0UwWrGd6rIicke1wrSy3AMqdud4GeDrAG6cQQQoBsd9JNrp1pjYGa2Up6VKrzu_4XKA..&type=2&query=%E7%94%9F%E6%88%90%E5%BC%8F%E5%BC%95%E6%93%8E%E4%BC%98%E5%8C%96&token=DA183A1E42E078FCDBDA8B2AAA0A5C4CDC94065C6A6D3F04 |
+| 中国信通院启动首批“ 生成式引擎优化 (GEO)价值交付能力”专项测评 | 泰尔终端实验室 | 信通院启动首批 GEO 价值交付能力专项测评,国内 GEO 行业进入标准化阶段 | 适合关注 GEO 标准化、合规背书与服务商资质的服务商团队 | 发布日期 2026-07-28 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwzhkCo-2zPZde5Xx5WtS8Qe3A9t87HJI1qXa8Fplpd9e9Q2jIVN_h3OWeZ9xCCIw1TdTMPzdNhf4h9G7VTMYFt0IRnZ5UT1S4Tum2f4M3uvrNUvBKR1_7UMthspuhn7WNkF_6loOc0ov55GeDXzmrsvdkGKuQTIH23ysrpCzfrJ4iP1EyiKofwvngad9XjLKObC9b56psVn_OgRjjjoEFbFcvUoAZZH7Q..&type=2&query=%E7%94%9F%E6%88%90%E5%BC%8F%E5%BC%95%E6%93%8E%E4%BC%98%E5%8C%96&token=DA183A1E42E078FCDBDA8B2AAA0A5C4CDC94065C6A6D3F04 |
+
+### AI 搜索产品与商业化类
+
+| 文章标题 | 公众号 | 一句话点评 | 推荐阅读理由 |
+|----------|--------|------------|--------------|
+| 对话前Kimi AI 搜索 负责人:瞄准 AI 婚恋创业,3小时拿下风投女王千万投资 | 智东西 | 前 Kimi AI 搜索负责人 3 小时拿下风投女王千万投资,瞄准 AI 婚恋创业 | 适合关注 AI 搜索头部团队动向、AI 搜索产品商业化路径 | 发布日期 2026-07-31 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwzhkCo-2zPZzyDVAttb2-ge3A9t87HJI1qXa8Fplpd9tG8I5polR6uAxwcoiJGQ5P712xrZZkJf1Bw0m4ZXkY2nPc-FFNS9XcGGXrRstm8R0gHtl-iTkzZCfdDsv84gI6RcxbT8NF5zDBOKHleH_JhxmNL40D9h57RyImoMqWu3gp56fq6akgrmaCD7fcvAMs7r2l91CDjCI7NnxIUjJDwHpHkoPMgL3A..&type=2&query=AI %E6%90%9C%E7%B4%A2&token=DA2DAEB09B38A125030555F3AD6CF4E303304C676A6D42BA |
+| AI 搜索 时代,网站内容为什么需要上下文图谱? | GEO学术追踪 | AI 搜索时代网站内容为什么需要上下文图谱,结构性内容设计新视角 | 适合做内容站架构、品牌实体的内容团队 | 发布日期 2026-07-31 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwzhkCo-2zPZzyDVAttb2-ge3A9t87HJI1qXa8Fplpd9JT9WHkxhHpn14-OHWIVisxdB3VYLDOeOa2KPgv9rVxZDfydufR4wu_FVxbXv6ZEYBl7Ev4yVUvxtXcFxi7GSpWWqz-Qvv-kJlpOGwzkerwhtQ0C4I-9X_9swiJQx9aHM3zcY76t9lEiaijUtP1wF1PLdg6BvxAfZRMtl-kzrSZzm0CtGSSkZQQ..&type=2&query=AI %E6%90%9C%E7%B4%A2&token=DA2DAEB09B38A125030555F3AD6CF4E303304C676A6D42BA |
+| 搜索 大变局:“问 AI ” 全面取代 “搜百度”,重庆企业如何抢占 2026 年 GEO 流量新风口? | 微讯息科技 | AI 全面取代百度搜索趋势,重庆企业如何抢占 2026 GEO 流量新风口 | 适合关注区域品牌 GEO 落地、AI 搜索流量结构变化 | 发布日期 2026-07-31 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwzhkCo-2zPZzyDVAttb2-ge3A9t87HJI1qXa8Fplpd94erD4bLWXMXmIzw61ruhuCnYDRK4kI0JtGBCPeEUnJJUdNaw9BoExIbxlekBzl0ZanU-11oclo-pJbNWN9TWIVYImMv2wbRN-TenLnhBGOsmcYeo12H9jiYf-EO8jcyQOVqR0J0J8zAeQ9OtvFMHPGR1nirFmKoEtDVC23CRgALy08OLTBhW0A..&type=2&query=AI %E6%90%9C%E7%B4%A2&token=DA2DAEB09B38A125030555F3AD6CF4E303304C676A6D42BA |
+
+### llms.txt 工程化落地类
+
+| 文章标题 | 公众号 | 一句话点评 | 推荐阅读理由 |
+|----------|--------|------------|--------------|
+| GEO 狠活:一行 llms.txt ,让 AI 主动把你写进答案 | 网络怪才 | GEO 狠活:用一行 llms.txt 让 AI 主动把你写进答案 | 适合技术博客 / 文档站团队快速了解 llms.txt 实战生效 | 发布日期 2026-07-31 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwzhkCo-2zPZ3SKvaCh_99ke3A9t87HJI1qXa8Fplpd9yA3Av5NSVq2HfHgX_HU5B0YQYPQa5ntp-wbmNsLOBfQ6QsOePF623rtaVFC7JUfFMhPQeo-6ilYptIXnaoD9kPn5vMjc6i0ErJQ5eCv86d5-GqpgQbgOLvRtVHvaQkXr-zHCE6B18WGU6w2WN-bIjU81fee7Dp9aNAvneV8vkUby08OLTBhW0A..&type=2&query=llms.txt&token=DA18722373D148CCEAEDBC1A9D893B23EB3537306A6D3F0E |
+| llms.txt 企业落地实操:搭建大模型可信信源,优先抢占AI答案位 | 觅界GEO | llms.txt 企业级落地实操:搭建大模型可信信源,优先抢占 AI 答案位 | 适合做企业内容站、品牌矩阵的 GEO 落地参考 | 发布日期 2026-07-27 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwzhkCo-2zPZ3SKvaCh_99ke3A9t87HJI1qXa8Fplpd9QwHoe18IGSEs5TmTkbOeOScR3iTY3xtswTU24HrV9ods6MGek1zbfhsBnBtPIiK9p4CVORyw2_yNJ2j_GaYEfUBq7z-AUpEIk5XXYOi_MTk7uBSlctHID_UijVfsC2MEkG4JbM0R4qcwJJl5a5oZ7qJkrDKDcrv9Ym0zmgNbnEi54z_tGSZTqA..&type=2&query=llms.txt&token=DA18722373D148CCEAEDBC1A9D893B23EB3537306A6D3F0E |
+
+### 豆包 GEO 平台分化类
+
+| 文章标题 | 公众号 | 一句话点评 | 推荐阅读理由 |
+|----------|--------|------------|--------------|
+| 实业老板必看!九紫离火运风口,靠 豆包 GEO 精准捞客户!~ | 粤港澳大件事 | 实业老板如何靠豆包 GEO 在九紫离火运风口精准获客 | 适合关注豆包 GEO、低成本获客的平台分化打法 | 发布日期 2026-07-25 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwzhkCo-2zPZLIoTk-pbAtce3A9t87HJI1qXa8Fplpd9O6zHxyhzJEHNtozijbPSGfjwRgQTvOCeiV0kGsSob3xuSJgxT7loqCGz3yTfjTpR0yUEIXitnWGQ8LUr8UT30vVPEkw6XFvylDYnd32GLgKFlg7vTD8HZrNmkKkgMVfWHlmsW_LYHZyx5j-cNHhRPi1gld0EjwSppETYcNwmjMBQ_LeJW-Rhtg..&type=2&query=%E8%B1%86%E5%8C%85 GEO&token=DA2D9E938C2EB631151341E4BA282596167E12CF6A6D42B7 |
+| 豆包 GEO 新规彻底洗牌!6大推荐标准落地,90%服务商正在无效做功 | 模力指数GEO | 豆包 GEO 新规彻底洗牌,6 大推荐标准落地,90% 服务商正在无效做功 | 适合做豆包 GEO 的服务商、内容运营团队 | 发布日期 2026-07-24 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwzhkCo-2zPZLIoTk-pbAtce3A9t87HJI1qXa8Fplpd9bCjqVe7k3Ifa5GkrP46UNTRL0Vw6IBOAWIU_qbOhju84Q4dbPM0s0Ie28h_evRVyG-hFheVtMcri0BgY3gMspf0UZYN2mIp2YwSCfhQSh6kIzjqTqJYCzq4YHpv1V583rYR8FKJz9gw6lz7GWLee1pnEsccvZ6cCbCkg1v0WE_1hlgeRt7bSzA..&type=2&query=%E8%B1%86%E5%8C%85 GEO&token=DA2D9E938C2EB631151341E4BA282596167E12CF6A6D42B7 |
+
+### GEN 评测与服务选型类
+
+| 文章标题 | 公众号 | 一句话点评 | 推荐阅读理由 |
+|----------|--------|------------|--------------|
+| 生成式引擎优化 商怎么选?这3点帮你避坑 | 英语小魔法屋 | 生成式引擎优化商怎么选?3 点帮你避坑 | 适合 GEO 服务商、品牌方服务商选型 | 发布日期 2026-07-19 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSwzhkCo-2zPZde5Xx5WtS8Qe3A9t87HJI1qXa8Fplpd92p1hVUg4u_POdvDDDazRPOxqB4_dU3PPB42gx1hwQM0JjNXD2qIIhTudHIe8EIZOxxo0DT-bUUxUsDmwnLC-0BQ3nxLyfuEgJ2S5MK_5gU-Fe5-aCSg_zsxFauoORMJ6eh7CP6Q7JZF5Fo8IpyIK9ecEoKFWO_9Dy2g9pNzLMb6q3X8EKMKOIA..&type=2&query=%E7%94%9F%E6%88%90%E5%BC%8F%E5%BC%95%E6%93%8E%E4%BC%98%E5%8C%96&token=DA183A1E42E078FCDBDA8B2AAA0A5C4CDC94065C6A6D3F04 |
+
+**简评**:本期收录 10 篇文章,把 7 月的「合规 + 平台分化 + 工具 + 行业」主线推进到「信通院标准化 + AI 搜索产品分叉 + llms.txt 落地 + 豆包 GEO 深度耦合」四股新信号,与 7 月 25 日「合规 + 工具 + 行业」形成时间线连续。值得注意的是,本期主动降低横评软文权重,优先收录可信源(信通院 / 智东西)与可落地实操(llms.txt / 豆包 GEO 新规);Kimi 团队核心成员转向 AI 婚恋创业则首次暴露头部 AI 搜索团队产品分化信号。
+
+**第一,GEO 行业进入「信通院标准化」阶段**——「中国信通院启动首批『生成式引擎优化(GEO)价值交付能力』专项测评」是首次看到国家层面权威机构对 GEO 行业做出「价值交付能力」评价,「GEO 与生成式引擎优化 GEO:2026 年 AI 搜索可见性评测报告」则配合给出独立评测报告。这呼应 7 月 25 日「合规 + 治理」主线,意味着 **GEO 从「民间方法论」正式进入「国家标准 + 行业评测」阶段**。给做 GEO 服务商的提示:应主动参与信通院测评、对照评测报告找差距,把「通过信通院测评」作为差异化背书与合规交付的最高标准。
+
+**第二,AI 搜索产品分叉首现头部团队离职创业信号**——「对话前 Kimi AI 搜索负责人:瞄准 AI 婚恋创业」意味着头部 AI 搜索团队在 2026 末开始向垂直场景(AI 婚恋)分流,而非继续做通用 AI 搜索。**AI 搜索产品分叉的两条主线已显形**:通用 AI 搜索(继续优化体验) vs 垂直 AI 搜索(聚焦场景深耕)。给做 GEO 服务商的提示:通用 AI 搜索虽是 GEO 的主战场,但垂直 AI 搜索(如 AI 婚恋、AI 医疗、AI 法律)将成为新的 GEO 优化对象,提前布局垂直 AI 搜索的引用源、实体权威、品类框定,是差异化抓手。
+
+**第三,llms.txt 进入「企业级落地 + 一行小技巧」两极**——「GEO 狠活:一行 llms.txt 让 AI 主动把你写进答案」是面向开发者的轻量技巧,而「llms.txt 企业落地实操:搭建大模型可信信源,优先抢占 AI 答案位」是面向企业的大规模落地。**llms.txt 不再是「生成一次就行」,而是进入「个人 / 中小团队 / 大企业」三档分级落地形态**。给做内容站团队的提示:应根据自身规模选择对应形态——小团队用「一行生成版」,中等团队用「CMS 插件版」,大企业用「可信信源全栈版」。
+
+**第四,豆包 GEO 进入「流量新打法 + 服务商新规」双轨节奏**——「九紫离火运风口」等流量新打法说明豆包 GEO 已从「平台介绍」演进到「流量密码」讨论,而「豆包 GEO 新规彻底洗牌,6 大推荐标准落地,90% 服务商正在无效做功」则说明豆包 GEO 已形成自己的「推荐标准」与「服务商淘汰机制」。给做豆包 GEO 的团队的提示:豆包 GEO 已从「平台攻略」细化到「推荐标准 + 服务商淘汰」,单纯做内容优化已不够,需要主动研究豆包 GEO 推荐标准,做平台差异化优化。

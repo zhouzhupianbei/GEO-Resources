@@ -1078,3 +1078,53 @@ GEO 的一个核心点,不只是"写",更是"结构化表达"。这类项目有�
 **第四，多引擎数据底座重新变得重要**——OpenSERP 同时覆盖 Google、Bing、Baidu、Yandex、DuckDuckGo 和 Ecosia，可作为 GEO 查询模拟、引用来源发现和区域市场比较的数据底座。随着 GEO 监测从单模型截图走向可复现测量，**统一查询接口 + 页面提取 + 结果去重**会成为引用追踪平台的基础设施，而不只是传统 SEO 排名工具的后端。
 
 **第五，GEO 正被吸收到更大的「营销工作流系统」里**——ALwrity 把 AI SEO 放进内容策略、生产、发布与分析的完整营销链路；growth-marketing-os 则把 SEO/GEO prompts、Claude skills、Agent 与 n8n 工作流按层组织，并提供英语 / 阿拉伯语双语资产。这说明 GEO 的下一步不是无限扩写内容，而是把方法沉淀成 **prompt - skill - workflow - measurement** 的可复用链路，并按语言与区域市场形成垂直版本。
+
+---
+
+## 2026-08-01 更新
+
+本期新增 9 个项目，核心信号是 **GEO/AEO 工具链从「协议层 + 监测层」全面向「框架化、一体化、可被 AI 检索的文档站点」延伸**——rubenmarcus/aeo.js 把 AEO 做成前端 JS 框架形式（提供内容可发现性度量），OranAi-Ltd/orangeo-ai-visibility-skill 把 AEO 打包成 Claude Code Skill，aigclink/geolook 给出从「状态分析 → 诊断 → 策略 → 落地」的全链路开源实现；llms.txt 协议端继续保持热度（thedaviddias/mcp-llms-txt-explorer 提供 MCP 工具，invertase/docs.page 把 llms.txt 嵌入文档站部署，kitforai/kitforai 把 AI 写入 SDK / Claude Code / MCP 三件套）；AI 爬虫治理与可见度监测也开始成熟（ai-robots-txt/ai.robots.txt 维护 4000+ AI 爬虫黑名单，oxylabs/oxylabs-ai-studio-py 提供 AI 驱动的结构化数据采集）。
+
+### GEO/AEO 框架与开发工具类
+
+| 项目 | 中文说明 | 可借鉴点 | 链接 |
+|------|----------|----------|------|
+| aigclink/geolook | 端到端 GEO 开源实现，串联状态分析、诊断、策略生成与落地交付 | 端到端实现 / 状态→诊断→策略 三段式 | https://github.com/aigclink/geolook |
+| OranAi-Ltd/orangeo-ai-visibility-skill | 面向 AI 可见度检查的开源 GEO/AEO Skill，覆盖 robots.txt、llms.txt 与结构化数据校验 | Claude Code Skill 化 / 一键巡检 / Agent 可执行 | https://github.com/OranAi-Ltd/orangeo-ai-visibility-skill |
+| rubenmarcus/aeo.js | 面向现代 Web 的 AEO 开源框架，让网站对 ChatGPT、Perplexity 等 AI 搜索引擎可发现 | 前端 JS 框架形式 / AEO 量化打分 / 通用中间件 | https://github.com/rubenmarcus/aeo.js |
+
+### llms.txt 协议与 MCP 集成类
+
+| 项目 | 中文说明 | 可借鉴点 | 链接 |
+|------|----------|----------|------|
+| invertase/docs.page | 把任意 GitHub 分支的 Markdown 直接发布为现代化、Agent-ready 文档站点 | Markdown 直接发布 / Agent-ready 文档站 | https://github.com/invertase/docs.page |
+| kitforai/kitforai | AI 开发者中心官方 SDK，含 Claude Code 插件、MCP 安装与 llms.txt 接入 | SDK + Claude Code + MCP 三件套 | https://github.com/kitforai/kitforai |
+| thedaviddias/mcp-llms-txt-explorer | MCP Server，用于浏览与探索站点 llms.txt 文件，方便 Agent 读取站点结构化信息 | MCP 工具 / llms.txt 探索 / 文档可读性 | https://github.com/thedaviddias/mcp-llms-txt-explorer |
+
+### AI 爬虫与 robots.txt 治理类
+
+| 项目 | 中文说明 | 可借鉴点 | 链接 |
+|------|----------|----------|------|
+| ai-robots-txt/ai.robots.txt | AI 爬虫与 robots 名单仓库，4020+ 星维护，定义 AI 抓取应被屏蔽的 User-Agent | AI 爬虫黑名单 / 持续维护 / 反 AI 抓取 | https://github.com/ai-robots-txt/ai.robots.txt |
+
+### AI 数据采集与爬虫类
+
+| 项目 | 中文说明 | 可借鉴点 | 链接 |
+|------|----------|----------|------|
+| oxylabs/oxylabs-ai-studio-py | Oxylabs 提供的 AI 驱动结构化数据采集 Python 库，可对接任意网站 | AI 驱动采集 / 结构化输出 / 3200+ 星 | https://github.com/oxylabs/oxylabs-ai-studio-py |
+
+### AI 可见度监测与审计类
+
+| 项目 | 中文说明 | 可借鉴点 | 链接 |
+|------|----------|----------|------|
+| chaitanyya/lookout | Vibecoded LLM 监测工具，追踪并改进大模型对品牌的描述 | 品牌提及监测 / LLM 反馈 / 轻量工具 | https://github.com/chaitanyya/lookout |
+
+**简评**：本期收录 9 个项目，与 7 月 25 日「诊断工作台 + Agent-first 运营平台 + CLI/MCP 双接口」相比，新的变化集中在 **「AEO 框架化 + 文档站 AI-ready 原生化 + AI 爬虫治理」** 三个方向。
+
+**第一，AEO 开始以「前端框架 / Claude Skill / 端到端流水线」三种形态独立交付**——rubenmarcus/aeo.js 走「JS 中间件」路线，让网站代码层补齐 AEO 协议；OranAi-Ltd/orangeo-ai-visibility-skill 走「Claude Code Skill」路线，让 AI 代理一键完成可见度检查；aigclink/geolook 走「端到端工程化」路线，把分析、诊断、策略生成与落地交付绑成单一仓库。这说明 **AEO 已经从「单点检测工具」走向「不同编程范式的同主题交付」**，给做 GEO 工具的团队的提示：与其做一个大而全的 SaaS 平台，不如把同一份能力拆成「代码嵌入 / Agent Skill / 端到端流水线」三种形态，覆盖不同技术栈的开发者。
+
+**第二，llms.txt 由「协议文档」走向「集成层的默认能力」**——invertase/docs.page 把任意 GitHub 分支的 Markdown 直接发布为现代化、Agent-ready 文档站点（含 llms.txt），kitforai/kitforai 把 llms.txt 写入 SDK + Claude Code + MCP 三件套，thedaviddias/mcp-llms-txt-explorer 提供 MCP 工具让 Agent 主动探索 llms.txt。这意味着 **llms.txt 不再「生成一次就行」，而是会持续被 Agent 工具读取、验证、写入**。给做内容站团队的提示：把 llms.txt 视为可被 MCP 工具调用的动态资源，而非静态文件。
+
+**第三，AI 爬虫治理浮出水面**——ai-robots-txt/ai.robots.txt 用 4000+ 星维护 AI 爬虫名单，定义哪些 AI 抓取应被屏蔽；与上一期「跨平台可见度监测」连看，GEO 服务的另一面是「如何被 AI 抓 / 是否被 AI 抓」的反向治理。给做企业 IT 团队的提示：在 robots.txt 治理策略中应明确「哪些 AI 抓取要放行（用于索引 / 引用）、哪些要屏蔽（用于训练）」，这是 llms.txt 之外的另一面被低估的合规与成本议题。
+
+**第四，AI 驱动的结构化数据采集正在走向 SaaS 化**——oxylabs/oxylabs-ai-studio-py 把 AI 爬虫 + 结构化提取打包成 3200+ 星 Python 库，反映 GEO 行业不再只关注「被 AI 引用」，还需 **「用 AI 抓取 / 反查竞品」**。给做 GEO 服务商的提示：可以基于 AI 驱动采集搭建「竞品引用源 / 主题分布 / 提示词对比」三个数据底座，作为服务交付的差异化抓手。
