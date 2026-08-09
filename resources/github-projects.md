@@ -1128,3 +1128,49 @@ GEO 的一个核心点,不只是"写",更是"结构化表达"。这类项目有�
 **第三，AI 爬虫治理浮出水面**——ai-robots-txt/ai.robots.txt 用 4000+ 星维护 AI 爬虫名单，定义哪些 AI 抓取应被屏蔽；与上一期「跨平台可见度监测」连看，GEO 服务的另一面是「如何被 AI 抓 / 是否被 AI 抓」的反向治理。给做企业 IT 团队的提示：在 robots.txt 治理策略中应明确「哪些 AI 抓取要放行（用于索引 / 引用）、哪些要屏蔽（用于训练）」，这是 llms.txt 之外的另一面被低估的合规与成本议题。
 
 **第四，AI 驱动的结构化数据采集正在走向 SaaS 化**——oxylabs/oxylabs-ai-studio-py 把 AI 爬虫 + 结构化提取打包成 3200+ 星 Python 库，反映 GEO 行业不再只关注「被 AI 引用」，还需 **「用 AI 抓取 / 反查竞品」**。给做 GEO 服务商的提示：可以基于 AI 驱动采集搭建「竞品引用源 / 主题分布 / 提示词对比」三个数据底座，作为服务交付的差异化抓手。
+
+
+## 2026-08-10 更新
+
+本期新增 10 个项目，核心信号是 **GEO/AEO 工具链从「框架化交付」进一步走向「垂直平台原生适配 + Agent Skill 化 + 协议层 + 内容站工程化」的四维扩张**——mykpono/ultimate-seo-geo 与 tanujrajputdev/shopify-theme-audit-skill 把 SEO/GEO/AEO 打包成 Claude Code Skill 直接执行；gunheeaug/web-seo-aeo-geo-google-naver-skill 与 deepakness/google-ai-search-optimization 针对 Google / Naver / Google AI Overview 各自做平台原生适配；JasonColapietro/suede-creator-skills、zubair-trabzada/ai-proposal-claude、ItamarZand88/awesome-agent-conventions 三件 Agent Skill / Agent Convention 资产把 GEO 工作流纳入 Agent 原生规范；aagedik/aigeoradar-aipm 提出 `.ai.json` 协议级 manifest 与 llms.txt 互补；Graphify-Labs/graphify 与 0xMassi/webclaw 用 GraphRAG / 本地爬虫撑起内容站 AI-ready 基建。
+
+### GEO/AEO 技能集与平台适配类
+
+| 项目 | 中文说明 | 可借鉴点 | 链接 |
+|------|----------|----------|------|
+| mykpono/ultimate-seo-geo | The definitive SEO + GEO skill for Claude. Full site audits with scored findings, AI search optimiza | Claude 全栈审计 / 评分报告 / 一键执行 | https://github.com/mykpono/ultimate-seo-geo |
+| JasonColapietro/suede-creator-skills | 71 open-source Agent Skills for Claude Code and Codex: Full Send orchestration, A-F code review, AI  | 71 个 Skill 资产 / Claude Code 编排 | https://github.com/JasonColapietro/suede-creator-skills |
+| gunheeaug/web-seo-aeo-geo-google-naver-skill | Agent skill for Google + Naver SEO on Next.js (Cursor & Claude Code) | 韩国市场适配 / Google + Naver 双引擎 / Next.js 原生 | https://github.com/gunheeaug/web-seo-aeo-geo-google-naver-skill |
+| tanujrajputdev/shopify-theme-audit-skill | Claude Code skill that audits any Shopify theme for performance, SEO, AEO, and GEO in 90 seconds. 80 | 电商平台审计 / SEO + AEO + GEO 三合一 | https://github.com/tanujrajputdev/shopify-theme-audit-skill |
+| deepakness/google-ai-search-optimization | Unofficial Agent Skill based on Google Search guidance for AI Overviews, AI Mode, and SEO audits. | Google AI Overview 官方指南 / AI Mode 优化 | https://github.com/deepakness/google-ai-search-optimization |
+| zubair-trabzada/ai-proposal-claude | AI proposal-writing & deal-closing engine for Claude Code. Research a prospect, price the engagement | AI 商业提案 / 自动调研 + 跟进 | https://github.com/zubair-trabzada/ai-proposal-claude |
+
+### llms.txt 与结构化数据协议类
+
+| 项目 | 中文说明 | 可借鉴点 | 链接 |
+|------|----------|----------|------|
+| aagedik/aigeoradar-aipm | AI Page Manifest (AIPM): open .ai.json spec for AI crawlers & GEO - per-page metadata for llms.txt / | AI 爬虫元数据 / 协议级 spec / 每页声明 | https://github.com/aagedik/aigeoradar-aipm |
+
+### AI 驱动内容采集与提取类
+
+| 项目 | 中文说明 | 可借鉴点 | 链接 |
+|------|----------|----------|------|
+| 0xMassi/webclaw | Fast, local-first web content extraction for LLMs. Scrape, crawl, extract structured data — all from | 本地爬取 / 结构化抽取 / LLM 直接消费 | https://github.com/0xMassi/webclaw |
+
+### AI 平台化与 Agent 工作流类
+
+| 项目 | 中文说明 | 可借鉴点 | 链接 |
+|------|----------|----------|------|
+| Graphify-Labs/graphify | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph.  | 代码库文档查询 / 多模态 / GraphRAG | https://github.com/Graphify-Labs/graphify |
+| linmy666/madcop | Your desktop AI partner that actually knows you. It watches the files you edit and the commands you  | 桌面 AI 伙伴 / 文件上下文 / 跨会话 | https://github.com/linmy666/madcop |
+
+**简评**：本期收录 10 个项目，与 8 月 1 日「AEO 框架化 + 文档站 AI-ready 原生化 + AI 爬虫治理」相比，新的变化集中在 **「Claude Code Skill 垂直平台原生适配 + Agent Convention 资产 + 协议层 manifest + 内容站 GraphRAG 基建」** 四个新方向。
+
+**第一，GEO/AEO Skill 开始按「平台 + 行业」垂直拆分**——mykpono/ultimate-seo-geo 走「全栈审计」路线，tanujrajputdev/shopify-theme-audit-skill 走「电商平台」路线，gunheeaug/web-seo-aeo-geo-google-naver-skill 走「Google + Naver」路线，deepakness/google-ai-search-optimization 走「Google AI Overview 官方指南」路线。这说明 GEO Skill 已从「通用工具」进化到 **「针对不同搜索入口（Google / Naver / 豆包 / 文心）的原生优化 Skill」**——给做 GEO 工具的团队的提示：与其做一个大而全的 SaaS，不如把核心能力拆成「通用审计 Skill + 平台适配 Skill + 行业适配 Skill」三层组合。
+
+**第二，Agent Convention / Agent Skill 资产成为新基建**——JasonColapietro/suede-creator-skills 把 71 个 Skill 打包成 Full Send 编排，zubair-trabzada/ai-proposal-claude 用 AI 写商业提案，ItamarZand88/awesome-agent-conventions 沉淀 AGENTS.md 等 Agent 上下文约定清单。**这些不是 GEO 项目本身，而是「让 GEO 工作流能被 Agent 编排」的元能力**——给做 GEO 服务交付的提示：把客户交付流程沉淀成可被 Claude Code / Codex 调用的 Skill 集合，比一份静态 SOP 更有长期价值。
+
+**第三，协议层正在从 llms.txt 单点扩展到 `.ai.json` 多协议并存**——aagedik/aigeoradar-aipm 提出 **AI Page Manifest (AIPM) 规范 `.ai.json` 文件**，作为 per-page 元数据声明，与 llms.txt 形成「整站协议（llms.txt）+ 单页协议（.ai.json）」的双层结构。这呼应 7 月以来的「llms.txt 不再生成一次就行」的趋势——**协议正在变成「可被验证、可被动态生成、可被 Agent 读取」的层**。给做 CMS / 文档站团队的提示：把 AIPM / llms.txt / MCP endpoint 视为「内容站的 AI 接口三件套」。
+
+**第四，GraphRAG / 本地爬虫正在成为内容站 AI-ready 的隐形基建**——Graphify-Labs/graphify 把代码库、文档、SQL schema、PDF 全部索引成可查询的 GraphRAG（104k⭐ 在 2026 年 4 月才创建，2026 时代的高 star 新项目典型样本）；0xMassi/webclaw 提供本地 fast 的网页提取 CLI（2123⭐）。与 8 月 1 日的 ultralytics/mkdocs / docs.page 连看，**「内容站可被 AI 消费」已经从「贴 meta + 写 llms.txt」升级到「内容站自带 GraphRAG 索引 + 本地可执行抓取」**——给做内容产品的团队的提示：如果内容站不自带可被 Agent 查询的结构化层，未来会被「外部 GraphRAG 重新抓取」替代，主动建设优于被动等待。
+---

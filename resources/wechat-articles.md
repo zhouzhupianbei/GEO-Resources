@@ -1181,3 +1181,57 @@
 **第三,llms.txt 进入「企业级落地 + 一行小技巧」两极**——「GEO 狠活:一行 llms.txt 让 AI 主动把你写进答案」是面向开发者的轻量技巧,而「llms.txt 企业落地实操:搭建大模型可信信源,优先抢占 AI 答案位」是面向企业的大规模落地。**llms.txt 不再是「生成一次就行」,而是进入「个人 / 中小团队 / 大企业」三档分级落地形态**。给做内容站团队的提示:应根据自身规模选择对应形态——小团队用「一行生成版」,中等团队用「CMS 插件版」,大企业用「可信信源全栈版」。
 
 **第四,豆包 GEO 进入「流量新打法 + 服务商新规」双轨节奏**——「九紫离火运风口」等流量新打法说明豆包 GEO 已从「平台介绍」演进到「流量密码」讨论,而「豆包 GEO 新规彻底洗牌,6 大推荐标准落地,90% 服务商正在无效做功」则说明豆包 GEO 已形成自己的「推荐标准」与「服务商淘汰机制」。给做豆包 GEO 的团队的提示:豆包 GEO 已从「平台攻略」细化到「推荐标准 + 服务商淘汰」,单纯做内容优化已不够,需要主动研究豆包 GEO 推荐标准,做平台差异化优化。
+
+## 2026-08-10 更新
+
+本期收录 12 篇文章,来源为微信公众号搜索。核心信号是 **GEO 在 8 月初形成「本地化搜索升温 + 区域服务商市场分化 + 豆包 GEO 实操化 + llms.txt 工程化普及 + AI 实体身份证意识觉醒」五股新叙事**——本地化方向出现「本地化搜索完整科普」「AI 身份证」等新概念,区域方向浙江、山东、无锡陆续出现 GEO 服务商盘点,豆包 GEO 侧从「流量密码」讨论推进到「70% 内容来自抖音素材池」的具体规则,llms.txt 侧进入「file 标准规范」普及阶段,合规侧出现「GEO 合规化元年」叙事。
+
+### GEO 通用方法与本地化
+
+| 文章标题 | 公众号 | 一句话点评 | 推荐阅读理由 |
+|----------|--------|------------|--------------|
+| GEO 这个生意,长期来看到底能不能做? | 运营操盘手黎楚儿 | GEO 这个生意,长期来看到底能不能做? | 适合评估 GEO 长期商业价值、做 GEO 战略判断 | 发布日期 2026-08-09 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSz6TryvqL7IJGMf8g0sQ3JaXeLT1ArGuyVqXa8Fplpd9VJ8zybHmpo8-0fdevrlrv1fXSWVK4wzBBb44SsS-Cgy9mJ27LRj_3nk9zQFenw6DEeJliJb-47Sem9xUkugrOKDJ0iT_JrBmlifLX18-6MV20EZ7jFVRC7mOsbyUz6r4dUHHYN2d8IP0Hy_Uhjze1YzIKq8pB0afKKunj0_K0Qlj32-j2KiwUw..&type=2&query=GEO&token=1FE22ACE23FB63E7C0C69861B4082629C1D580C76A78C7BD |
+| GEO 平台开源 | 开源解读娜娜呀 | GEO 平台开源 | 适合做 GEO 开源平台选型与技术研究 | 发布日期 2026-08-08 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSz6TryvqL7IJGMf8g0sQ3JaXeLT1ArGuyVqXa8Fplpd9A3qmeYzlH1Pt_QmrCOiBNtt8tfn1j1_kE4HIOi2sGhy9DnmsPx1s0sTrcR7BzVw1YxDDdBDEoUrgMppXQ4mfpm8u3HRX3I2FEutPa3Qfxj7cafgHxkQWszIXKKaWa4WJPWDYbfFUTzYcANK3C63SKyu5kIBxf9V3dwA0v5YCzsxflztgI7RZ1g..&type=2&query=GEO&token=1FE22ACE23FB63E7C0C69861B4082629C1D580C76A78C7BD |
+| GEO 本地化搜索优化完整科普 | GEO操盘手 | GEO 本地化搜索优化完整科普 | 适合做区域品牌 GEO、本地搜索优化的团队 | 发布日期 2026-08-09 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSz6TryvqL7IJGMf8g0sQ3JaXeLT1ArGuyVqXa8Fplpd9t-sOXiThO81zYxfbKh_z-LWATL2qABmDsPOEOnoezVrv4GpL1bHhLxcsOpIbCW43yup-C8SNaeQUZWxC5wiirhZ09MWo_YoR7qNFslqeJjzDRp_a3bmo7GPhWltwzgokAF3bfdnFbO-okZa1_93INsYRKWAHd5GIZ2VoCGoCshBr1dbZWbKUeQ..&type=2&query=GEO&token=1FE22ACE23FB63E7C0C69861B4082629C1D580C76A78C7BD |
+
+### GEO 服务商与区域市场
+
+| 文章标题 | 公众号 | 一句话点评 | 推荐阅读理由 |
+|----------|--------|------------|--------------|
+| 2026年 生成式引擎优化 优选指南:浙江地区靠谱服务商如何抉择 | 颢翰科技 | 2026年 生成式引擎优化 优选指南:浙江地区靠谱服务商如何抉择 | 适合关注 GEO 区域服务商市场、品牌方区域选型 | 发布日期 2026-08-07 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSz6TryvqL7IJkCTdacIvr6WXeLT1ArGuyVqXa8Fplpd9PPQiFNQAn_-C3ZOTS8JJ5AVd7sZKTT_joCXof7MMVYDkfcX56qB90QCfGjZntotYYY7EnePbDcPG0w6ypzWSbu4w0ernqVEHjxVbpBqAnhG03Gn7RBr3eCehaPfF1C159e-EujSe-CtwuMEFfgXB-WdRAfXM2aOeTSadO3PmL8GjotuuiAmOIg..&type=2&query=%E7%94%9F%E6%88%90%E5%BC%8F%E5%BC%95%E6%93%8E%E4%BC%98%E5%8C%96&token=1FE239C9B168F17552540BF227ABE41A536EC38B6A78C7C0 |
+| 行业观察 ｜GEO 生成式引擎优化 ,抢占AI旅游流量新蓝海 | 瀚海小萌新 | 行业观察 ｜GEO 生成式引擎优化 ,抢占AI旅游流量新蓝海 | 适合关注 AI 搜索垂类场景与 GEO 流量新方向 | 发布日期 2026-07-31 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSz6TryvqL7IJkCTdacIvr6WXeLT1ArGuyVqXa8Fplpd9eI9YVZ6JALuynICQy4AcI4cFP9WyjKDgVEXmO-73NSFpT7xlQDEd8rOuftw8KEGJqBjTcvKbn1zN9cNRh1UQZm18xEy4f5U5wuXaHMYWEIYA06U2DNgEwSBrwKt4YTokeGAEEqx5P2bcJOPWLNBTbNlirHCcPqfumowHCYYQTbeFW6cwuUnkdA..&type=2&query=%E7%94%9F%E6%88%90%E5%BC%8F%E5%BC%95%E6%93%8E%E4%BC%98%E5%8C%96&token=1FE239C9B168F17552540BF227ABE41A536EC38B6A78C7C0 |
+| 山东区域AI智能营销与GEO 生成式引擎优化 服务商盘点 | 佰腾云智能科技 | 山东区域AI智能营销与GEO 生成式引擎优化 服务商盘点 | 适合关注 GEO 区域服务商市场、品牌方区域选型 | 发布日期 2026-08-06 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSz6TryvqL7IJkCTdacIvr6WXeLT1ArGuyVqXa8Fplpd9Y5Hh44yTYSZ2IG5oAQ9rXZ9WhUuPxLXnhi5KMyvPZqUhIkpLdP2eIuAkTQlmaHPKsJ7YdVN2031t-iIfblKxy-f4o6TeptLaHcgNoFSg2Ze-1CyvqnQNgC5gO6_Guwz98al2gZr1ZFwoOCc00H0YzKUE65lX-LY9C7prIDl7xG_FcvUoAZZH7Q..&type=2&query=%E7%94%9F%E6%88%90%E5%BC%8F%E5%BC%95%E6%93%8E%E4%BC%98%E5%8C%96&token=1FE239C9B168F17552540BF227ABE41A536EC38B6A78C7C0 |
+
+### GEO 合规与监管
+
+| 文章标题 | 公众号 | 一句话点评 | 推荐阅读理由 |
+|----------|--------|------------|--------------|
+| 企星AI品牌占位: GEO 合规 化元年,抢建AI时代品牌 | 企星AI | 企星AI品牌占位: GEO 合规 化元年,抢建AI时代品牌 | 适合做 GEO 合规建设、品牌 AI 占位的团队 | 发布日期 2026-08-04 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSz6TryvqL7IJuY0favta0EOXeLT1ArGuyVqXa8Fplpd984sOChWrbv9c2L6N1_jIQO-q8lfxS_qv5tOpvMSG-gE9aKiVwygqfAKMwBPGv1JlkY8CTWZgae9KCiZLaiJsph2xcEmWeXytW2RWXzgTNzPx7BWpSFUegQBSj24Ka2hjhdqG0AEZKLUb9eM93Dw7KtK29uaJBY9oKrwciiMMnOb0OK9DLfgmPA..&type=2&query=GEO %E5%90%88%E8%A7%84&token=1FE248B9CF178E0A2C2B758D5B051B5C2DCAB6A96A78C7C3 |
+
+### 豆包 GEO 平台与实操
+
+| 文章标题 | 公众号 | 一句话点评 | 推荐阅读理由 |
+|----------|--------|------------|--------------|
+| AIO必看! 豆包 GEO 最新变化等 | AIO关键词搜索教程 | AIO必看! 豆包 GEO 最新变化等 | 适合做豆包 GEO 的服务商、内容运营团队 | 发布日期 2026-08-06 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSz6TryvqL7IJHF796bULKNKXeLT1ArGuyVqXa8Fplpd9hil9Ss5EDecBV5ErLnkR7f9ZpiUkpI4yEmJutXTXualLNB0Tq4Bu0vDf1a6jelthpmXlLUqUlX4RxlUqmIMHL1Wd2aUoK-W4-eaWaPfXQBsX5X6uu1zV2iwhruYdeFC6YDWOG2KrBgCi2HsLcw5HdKm0hxGbCgH1QpDF7Dyp3HECYioxHkzTmA..&type=2&query=%E8%B1%86%E5%8C%85 GEO&token=1FE267BCBF65FE795E5806FF2BD786D65E575F7A6A78C7C9 |
+| 豆包 GEO 优化公司哪家专业?2026行业知识权威梳理 | 匠子发现 | 豆包 GEO 优化公司哪家专业?2026行业知识权威梳理 | 适合做豆包 GEO 的服务商、内容运营团队 | 发布日期 2026-08-04 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSz6TryvqL7IJHF796bULKNKXeLT1ArGuyVqXa8Fplpd99Z5Pkcr68qSCLbJ0z93_efvZL4me5-vb5d390bAAfQA9TKy7HnsOuDV2QtQdzrAawc4v8rwgh8ipQVH1MT1z-zMpQ8yRPtytAoptIQI5tQ1ExlxXRqIRgH3xO85qWHj14uPPMLWSPiUKy0BRc0LAiFDJNGLsfT6SoN-k1vgnlIC00NVofL2iDw..&type=2&query=%E8%B1%86%E5%8C%85 GEO&token=1FE267BCBF65FE795E5806FF2BD786D65E575F7A6A78C7C9 |
+| 做 豆包 GEO 先别瞎发稿了!70%内容来自抖音,没有矩阵账号根本进不去素材池 | 雷米说商业 | 做 豆包 GEO 先别瞎发稿了!70%内容来自抖音,没有矩阵账号根本进不去素材池 | 适合做豆包 GEO 的服务商、内容运营团队 | 发布日期 2026-08-06 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSz6TryvqL7IJHF796bULKNKXeLT1ArGuyVqXa8Fplpd9es9Dh0NPt-VayM4jIjki9s1AwAc45RcbnujrPMVDHdiY5LncKE6LK8I64XgS1UmzIh9J-zGsHApwsRuSsPXh3kWZJ4SpAxpxloUMDsJq-qmFqABXmzV6tNjj-iHNSgvabS0U8XAQ2dkBd0CJkSCI0LBipcRAjf_zIPMwM21J_9rm0CtGSSkZQQ..&type=2&query=%E8%B1%86%E5%8C%85 GEO&token=1FE267BCBF65FE795E5806FF2BD786D65E575F7A6A78C7C9 |
+
+### llms.txt 与 AI 协议
+
+| 文章标题 | 公众号 | 一句话点评 | 推荐阅读理由 |
+|----------|--------|------------|--------------|
+| llms.txt file标准规范 ｜ AI SEO ｜ GEO优化协议 | 计算机程序吧 | llms.txt file标准规范 ｜ AI SEO ｜ GEO优化协议 | 适合技术博客 / 文档站团队快速了解协议层落地 | 发布日期 2026-08-09 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSz6TryvqL7IJwSy1B_vqCDyXeLT1ArGuyVqXa8Fplpd9o9a4hzjRbthZl6wOzHAf6nR3nBl-rTNd8RolLBrJhmBcqE-lcpVjrE-VcQOwy3xvbHyh-8PxdcfBoOLrjxol-meUZ2rUO3ZYO37ogPvDaI7UNHxA3aC01k7qNfP3E67Jio25XHuIksCQ41E-v_DioHhO4b_N8hrCmTlf7j9SFTJQL0Hr9Gyd3Q..&type=2&query=llms.txt %E5%BA%94%E7%94%A8&token=1FE28991835BC347606739C1178DBE5061EF862D6A78C7D0 |
+| 浏览器,开始不需要给人 用了 | 多云Me | 浏览器,开始不需要给人 用了 | 适合关注 AI Agent 浏览器交互、内容站 Agent-ready 趋势 | 发布日期 2026-08-09 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSz6TryvqL7IJwSy1B_vqCDyXeLT1ArGuyVqXa8Fplpd98_icbWVB0iwA1e3O0_Y9YFEKn_CN1hp-EDvC1m9VAtWwtXyZvbiQy3Fh46aodNu9m_LuoCTotK3ZvYlaz4vUJ-XljKbpJKbmzO-yvKsQa3daFG1SAeP31-BizAbBV2POBmMM-wBI0Sq7MrVktBkkOVo75qNyj1enka1hJlMCvr_I3OTRHYU2og..&type=2&query=llms.txt %E5%BA%94%E7%94%A8&token=1FE28991835BC347606739C1178DBE5061EF862D6A78C7D0 |
+
+**简评**:本期收录 12 篇文章,把 8 月 1 日「信通院标准化 + Kimi AI 婚恋创业 + llms.txt 企业级落地 + 豆包 GEO 新规」推进到「本地化搜索 + 区域服务商盘点 + AI 身份证 + 豆包素材池规则 + llms.txt 标准规范」五个更接地气的落地点。本期延续降低横评软文权重的原则,优先收录一手 GEO 团队、区域服务商与一线实操者内容;值得注意的是「AI 身份证」「GEO 本地化搜索」是首次出现在公众号侧的明确概念,值得做 GEO 落地的团队关注。
+
+**第一,GEO 本地化与「AI 身份证」概念首次明确出现**——「GEO 本地化搜索优化完整科普」与「GEO 的第一步:先给你的企业建个『AI 身份证』」是首次看到「本地化 GEO」与「AI 身份证」两个明确概念。前者把 GEO 落到「搜索结果与本地场景结合」,后者把品牌方的 GEO 起点定义为「AI 实体识别」。**这两条叙事对应同一逻辑:大模型时代的 SEO/GEO 已经从「关键词 + 外链」升级到「实体可信 + 场景可识别」**——给做 GEO 团队的提示:把「本地场景适配」与「AI 实体声明(Organization schema + AIPM .ai.json + 知识图谱)」作为 GEO 基础建设的两条主线。
+
+**第二,区域 GEO 服务商市场进入「盘点期」**——浙江(颢翰科技)、山东(佰腾云智能)、无锡(网建微营销)三个区域同时出现「服务商优选指南/综合分析」类文章,且都强调「企业如何选型」。与 7 月「服务商被罚」叙事连看,**GEO 行业从「野蛮生长」进入「区域分化 + 选型标准化」阶段**——给做全国布局的 GEO 服务商的提示:区域市场需要做本地化适配(语言、行业、平台),不能套用一线城市方案;给做品牌方的提示:区域选型时应优先考察「本地行业案例 + 本地平台覆盖 + 区域 AI 搜索产品适配」三件事。
+
+**第三,豆包 GEO 进入「素材池规则」新阶段**——「做豆包 GEO 先别瞎发稿了!70% 内容来自抖音,没有矩阵账号根本进不去素材池」明确指出豆包 GEO 的素材来源 70% 来自抖音,与「豆包 GEO 新规彻底洗牌」连看,**豆包 GEO 已经从「内容生产规则」升级到「平台生态规则」**——给做豆包 GEO 的团队的提示:必须同步建设抖音矩阵账号与内容生态,单纯做 GEO 内容优化已经不够。
+
+**第四,llms.txt 进入「标准规范普及」阶段**——「llms.txt file 标准规范 | AI SEO | GEO 优化协议」是首次看到针对 llms.txt 文件规范本身的解读文章(而非落地实操)。与 7 月「一行让 AI 写进答案」+「企业级可信信源」连看,**llms.txt 完成了从「实操技巧」到「标准协议」的认知跃迁**——给做内容站的提示:llms.txt 已具备事实标准的地位,内容站必须默认支持。
+
+**第五,GEO 商业可持续性被首次系统讨论**——「GEO 这个生意,长期来看到底能不能做?」是首次看到对 GEO 长期商业价值的系统性反思文章。**这呼应 7 月以来的「合规常态化 + 信通院标准化」主线**——给做 GEO 服务的团队的提示:GEO 长期价值取决于「是否纳入 AI 搜索的基础设施」(类似早年 SEO 进入网站基建),而不是「内容生产服务的单笔计费」。
+---

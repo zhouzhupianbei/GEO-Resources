@@ -71,6 +71,10 @@
 - 📚 补充 GitHub 项目 9 个：聚焦 AEO 框架化交付（aeo.js / orangeo-ai-visibility-skill / geolook 端到端实现）、llms.txt 集成层能力（mcp-llms-txt-explorer / docs.page / kitforai）、AI 爬虫治理（ai.robots.txt 4000+ 星维护）与 AI 驱动结构化采集（oxylabs-ai-studio-py 3200+ 星）
 - 📚 补充微信公众号文章 10 篇：聚焦信通院 GEO 价值交付能力专项测评、AI 搜索产品分叉（Kimi 团队转向 AI 婚恋创业）、llms.txt 企业级落地（行技巧 + 可信信源）、豆包 GEO 平台深度耦合（流量新打法 + 服务商新规）
 
+### 2026-08-10
+- 📚 补充 GitHub 项目 10 个:聚焦「Claude Code Skill 垂直平台原生适配 + Agent Convention 资产 + 协议层 manifest + 内容站 GraphRAG 基建」——mykpono/ultimate-seo-geo 与 tanujrajputdev/shopify-theme-audit-skill 把 SEO/GEO/AEO 打包成 Claude Code Skill 一键执行;gunheeaug/web-seo-aeo-geo-google-naver-skill 与 deepakness/google-ai-search-optimization 针对 Google / Naver / Google AI Overview 各自做平台原生适配;JasonColapietro/suede-creator-skills / zubair-trabzada/ai-proposal-claude / ItamarZand88/awesome-agent-conventions 把 GEO 工作流纳入 Agent 原生规范;aagedik/aigeoradar-aipm 提出 `.ai.json` 协议级 manifest 与 llms.txt 互补;Graphify-Labs/graphify(104k⭐)与 0xMassi/webclaw(2123⭐)用 GraphRAG / 本地爬虫撑起内容站 AI-ready 基建
+- 📚 补充微信公众号文章 12 篇:聚焦「本地化搜索升温 + 区域服务商市场分化 + 豆包 GEO 素材池规则 + llms.txt 标准规范 + GEO 商业可持续性反思」五股新叙事——「AI 身份证」「GEO 本地化搜索完整科普」两个新概念首次明确出现;浙江(颢翰科技)、山东(佰腾云智能)、无锡(网建微营销)三区域同时出现服务商优选指南;豆包 GEO 从「流量密码」演进到「70% 内容来自抖音素材池」的具体规则;llms.txt 进入「file 标准规范」普及阶段;首次出现对 GEO 长期商业价值的系统性反思文章
+
 ## 2026-05
 
 ### 2026-05-19
