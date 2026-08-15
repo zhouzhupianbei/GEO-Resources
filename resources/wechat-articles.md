@@ -1,3 +1,7 @@
+> 💡 **如果你在做内容 / SEO / AI 营销 / 生成式搜索相关**，觉得这份清单有用，欢迎 **点个 ⭐ + 把这个仓库转发给你的同行朋友** —— GEO / AEO 这条赛道刚起来，**方法论满天飞，但真正可用的工具清单很少**。这份仓库就是想把后者攒齐。
+
+---
+
 # 微信公众号文章整理
 
 这一页不是简单摘抄文章标题，而是把适合中文读者理解 GEO 的文章线索，整理成可继续阅读、可继续研究的主题地图。
@@ -1235,3 +1239,40 @@
 
 **第五,GEO 商业可持续性被首次系统讨论**——「GEO 这个生意,长期来看到底能不能做?」是首次看到对 GEO 长期商业价值的系统性反思文章。**这呼应 7 月以来的「合规常态化 + 信通院标准化」主线**——给做 GEO 服务的团队的提示:GEO 长期价值取决于「是否纳入 AI 搜索的基础设施」(类似早年 SEO 进入网站基建),而不是「内容生产服务的单笔计费」。
 ---
+
+---
+
+## 2026-08-16 更新
+
+本期收录 10 篇文章。
+
+### GEO 通用方法与本地化
+
+| 文章标题 | 公众号 | 一句话点评 | 推荐阅读理由 |
+|----------|--------|------------|--------------|
+| 3个跨界逻辑解构 生成式引擎优化 GEO:从城市规划到AI搜索的底层一致性 | 智搜云航 | 生成式引擎优化 GEO(Generative Engine Optimization )并非传统SE | 发布日期 2026-08-09 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxpIjTLo2YfLB7CO8D6_RqT1HoFMr5ZtP1qXa8Fplpd9K5otbGzZVGsHi98_YOwt3rfRmeabjwk1_qisxZjaIedPVV8TxQIzS1bPOr1SkwCs1t8NnuSQ_qtPJka5IdjdZe0G0WBgxSLlxUIqj5HRmAmN4KTQlTsj4eg1UDBodb43NvCkd0DYc890RRO71p87_uzFIkrC9U1Ol6VQ3hxwrP4Cn9lOoZLP2Q..&type=2&query=%E7%94%9F%E6%88%90%E5%BC%8F%E5%BC%95%E6%93%8E%E4%BC%98%E5%8C%96&token=4A5186A5AA73E460474E1E5263CD487848BEC5306A80B0EA |
+| 避开外包踩坑!浙江本土 GEO 优化服务商精选推荐, 本地化 运营降低 AI 获客风险 | 玖叁鹿 | 侧重浙江县域同城 本地化 GEO 落地,简化大型集团复杂全域功能,聚焦区县门店、本地工贸、县域服务商 | 发布日期 2026-08-10 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxpIjTLo2YfLG5aWv3w9I6D1HoFMr5ZtP1qXa8Fplpd93yMIPWqA5trboGWh63LEkhublDzZh0-LiGH_2r03e5qx5djJS2d2Sf3H_XXSaqfL9-SwXY5m9WC8pLqR7LTTYYgwtVlok9aZYDvx67PoJnKKDaLv2T7RZ4hpvgRdzx2p71rXriGN9g1Ljx9U6qbDMPNEcNpspIb6hshyl4OI3h4SYTqT4eyLmA..&type=2&query=GEO %E6%9C%AC%E5%9C%B0%E5%8C%96&token=4A519A26FF25BD3A1E18470735A5E26E1E906ED26A80B0ED |
+| 《 生成式引擎优化 可信技术与服务规范》团体标准正式实施 | 人民数据 | 近日,由中关村数字媒体产业联盟牵头发布的团体标准《 生成式引擎优化 可信技术与服务规范》(标准编号: | 发布日期 2026-08-11 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxpIjTLo2YfLB7CO8D6_RqT1HoFMr5ZtP1qXa8Fplpd9woTbRVGPqnY9X9dwYyKjzuLZnYQkT1-FIzRcQztbyX1rts95ZucxrImZKEMqC6Ejm_REQ8peUSDa-0ZYFVlIEfFwhHAHudCP2oA-S2Dj1I53HPMEoQV9Bd8942kuL_-aP9l_k9YcRf2DX82DULO-D13UfTV8vCMDq9_vC7qjerACn9lOoZLP2Q..&type=2&query=%E7%94%9F%E6%88%90%E5%BC%8F%E5%BC%95%E6%93%8E%E4%BC%98%E5%8C%96&token=4A5186A5AA73E460474E1E5263CD487848BEC5306A80B0EA |
+| 西安 GEO 本地化 托管实测:从检索词库到效果兜底 | 融财经谈 | 一、什么是 GEO :概念界定与 本地化 难题 GEO (生成式引擎优化),是指有针对性地创作和优化 | 发布日期 2026-08-12 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxpIjTLo2YfLG5aWv3w9I6D1HoFMr5ZtP1qXa8Fplpd9asYtaVWj5zVpbwDyMe9fPD5n0lgxK-o538Y01U7TZhPv5c81ddwsNbNChWHipxOHlsEdigTPf7ixmGUpESwxsYpirjQhtOaDwsTZ-8MuLishFP8EH5PcRINVw9Orp4lWV3-YpJmWXvd34EVUm8p6zAHaM_paICrPviKAB8zKqxEtPujwwRB2Pw..&type=2&query=GEO %E6%9C%AC%E5%9C%B0%E5%8C%96&token=4A519A26FF25BD3A1E18470735A5E26E1E906ED26A80B0ED |
+| 带你了解GEO 生成式引擎优化 的核心概念 | 南京瞰见智能科技有限公司 | 也就是 生成式引擎优化 ,指的是通过一系列优化手段,让品牌、产品的相关信息能够被生成式AI引擎准确识 | 发布日期 2026-08-13 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxpIjTLo2YfLB7CO8D6_RqT1HoFMr5ZtP1qXa8Fplpd9vS7zfSCxk79xlFs0R2bg5f2VV4174qmBHsMSzjxTCr2X0crsclQcJBwucoVF2O-Ekz16sxxvFFBMUNsIaD3hrIKv-sHfqBE-v_Myg2Q73pFTJHyIEPeOom1Qbq4PVoV3BTkklv951aTPm51pDF-S7zksgZOeD631imfSS8oyQ68HpHkoPMgL3A..&type=2&query=%E7%94%9F%E6%88%90%E5%BC%8F%E5%BC%95%E6%93%8E%E4%BC%98%E5%8C%96&token=4A5186A5AA73E460474E1E5263CD487848BEC5306A80B0EA |
+| 抢占 AI 搜索 新入口—— GEO 营销实战峰会圆满举行,共探 AI 时代企业增长新机遇 | 广东词推 | GEO 营销实战峰会抢占 AI 搜索 新入口2026.08.132026当用户从 搜索 关键词转变为 | 发布日期 2026-08-14 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxpIjTLo2YfLoBBZPPqsNrH1HoFMr5ZtP1qXa8Fplpd9LPzekeJa1m1BfW7GA6Bb5puINf0i-ygRz7CoNOjpIRmDVcnHO4lWJi3LQ38l2hgkwmWtFfo2f8sT6pHkEBsXZbk4WUVF_iSC62Ca4M08D3XpsvCgoG9c1WW6ixRrpIzpdLhzENW-ImChSJ4wlMVHILfCi4FOOEesArzVAlFM8pJ6VKrzu_4XKA..&type=2&query=AI %E6%90%9C%E7%B4%A2 GEO&token=4A5193B02AF36BEFC8CF91D3E2608618C9E205306A80B0EC |
+
+### GEO 合规与监管
+
+| 文章标题 | 公众号 | 一句话点评 | 推荐阅读理由 |
+|----------|--------|------------|--------------|
+| 2026强 监管 行业做 GEO :挑选AI问答服务商容易踩哪些坑 | 星野拾光集E | 根据中国信通院联合艾瑞咨询发布《2026生成式引擎优化( GEO )行业专题报告》数据,金融、医疗、 | 发布日期 2026-08-07 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxpIjTLo2YfLzFtzhbUcX8H1HoFMr5ZtP1qXa8Fplpd9zuJmsbZjB999vLqE3rpo4UyiyojFqRkuU3Jc5b2qom0kJQTBTOv2eL4-lcsRPYS4HfdXv5GV6LW4DiNpiVrSIk-_pq1kBbZzqanxPVDXV6w06f-NvU-Sw8unLaqAfVoFyGlIoUDjQjdi5qGTOe9wvuK1DuBRXgX6Dp0Rn37nbEBFH6In5Ei3zg..&type=2&query=GEO %E7%9B%91%E7%AE%A1&token=4A518A1748920A8DAAACF0B0813B035AAA919DB86A80B0EB |
+
+### 豆包 GEO 平台与实操
+
+| 文章标题 | 公众号 | 一句话点评 | 推荐阅读理由 |
+|----------|--------|------------|--------------|
+| 2026年郑州 豆包 GEO 优化技术发展与企业内训现状调研 | GEO代运营 | 本文盘点了2026年郑州地区商务服务领域的AI内训行业现状,重点分析了上门内训服务模式、 豆包 GE | 发布日期 2026-08-12 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxpIjTLo2YfLG5aWv3w9I6D1HoFMr5ZtP1qXa8Fplpd9aJPXxKjEX584JVeSeBTM6izV-o_ukpYmSbZG0jBGnohzrhDqiY526WeUhA_hEnadD5FMK1MY52gdq2aPdkPBhzrCOw36DZEe0eK5g6fCZnEirhYvSjajnNtD72I1I5uHayM0m9VNR5ZFaZwI0Sn5FK-bZyTisyrKxTv2a8kXRBB535pjGOOjYg..&type=2&query=%E8%B1%86%E5%8C%85 GEO&token=4A519733865FC04364653A7E4FD5E21B64CDD98B6A80B0ED |
+| 纯干货分享!适合做 豆包 GEO 优化的行业有哪些,分四个梯队依次排序. | 51来客运营中心 | 豆包 GEO 优化行业适配优先级排序排序依据: 豆包 平台询盘转化、用户 AI 提问频次、决策周期、 | 发布日期 2026-08-12 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxpIjTLo2YfLG5aWv3w9I6D1HoFMr5ZtP1qXa8Fplpd9TSHY2fLlsPkVDce1vlrSXtOfiGQn0igOs3nZz1NaVblYISxaBI5MHfGwh_lxPcY3Amj8OATYgh1ELarl6SpQXkCgRHouy3P7OKlAPSt7zgdZw9ANfF7MU5IUXe9DiV7Y5OlBIXPji26djVUO59fCmUaS1GrqtWCU1Hj2VSp-03bs46dn8Efgxg..&type=2&query=%E8%B1%86%E5%8C%85 GEO&token=4A519733865FC04364653A7E4FD5E21B64CDD98B6A80B0ED |
+
+### llms.txt 与 AI 协议
+
+| 文章标题 | 公众号 | 一句话点评 | 推荐阅读理由 |
+|----------|--------|------------|--------------|
+| 安企CMS的 llms.txt 文件用谷歌浏览器打开是乱码解决方法! | 王杨发现 | 安企CMS的 llms.txt 文件用谷歌浏览器打开是乱码解决方法!如下,打开安企CMS原来的伪静态 | 发布日期 2026-08-15 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxpIjTLo2YfLoBBZPPqsNrH1HoFMr5ZtP1qXa8Fplpd9Q78Yj-PCJ33kPkI75OJjdC_4P050kQxeBqTw4n803mlyrHeCCluk46tPe2LA4XpGCS7aFdYXOFC-t5HfURCccOvZwcML1b6n6HL0LF-4Q6S7beWG3j1lSKltIF0XFawh3IBIpCS9lyuCo26vVy3NgFKzGHNjy38JziSa5PG9DjDvzHZXxeLdyg..&type=2&query=llms.txt %E5%BA%94%E7%94%A8&token=4A51906621F860E3C3C59AD9EF655CD4C4D210166A80B0EC |
+

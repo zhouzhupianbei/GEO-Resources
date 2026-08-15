@@ -1174,3 +1174,32 @@ GEO 的一个核心点,不只是"写",更是"结构化表达"。这类项目有�
 
 **第四，GraphRAG / 本地爬虫正在成为内容站 AI-ready 的隐形基建**——Graphify-Labs/graphify 把代码库、文档、SQL schema、PDF 全部索引成可查询的 GraphRAG（104k⭐ 在 2026 年 4 月才创建，2026 时代的高 star 新项目典型样本）；0xMassi/webclaw 提供本地 fast 的网页提取 CLI（2123⭐）。与 8 月 1 日的 ultralytics/mkdocs / docs.page 连看，**「内容站可被 AI 消费」已经从「贴 meta + 写 llms.txt」升级到「内容站自带 GraphRAG 索引 + 本地可执行抓取」**——给做内容产品的团队的提示：如果内容站不自带可被 Agent 查询的结构化层，未来会被「外部 GraphRAG 重新抓取」替代，主动建设优于被动等待。
 ---
+
+---
+
+## 2026-08-16 更新
+
+本期新增 12 个项目。
+
+### GEO/AEO Skill 与平台适配
+
+| 项目 | 中文说明 | 可借鉴点 | 链接 |
+|------|----------|----------|------|
+| SNLabat/SEO-GEO-AEO-Skill | SEO/GEO/AEO Audit Skill for Claude | 无 | https://github.com/SNLabat/SEO-GEO-AEO-Skill |
+| zubair-trabzada/ai-agency-claude | AI Agency Command Center for Claude Code — orchestrates 5 AI teams (Marketing, Sales, Legal, Reputation, GEO/SEO) into a unified zero-employee agency. 9 skills, 5 parallel agents, composite scoring, and professional PDF reports. | 无 | https://github.com/zubair-trabzada/ai-agency-claude |
+| jdevalk/skills | Agent skills for GitHub repos and profiles, WordPress and EmDash plugins, Astro SEO, and content readability. | astro / claude / emdash | https://github.com/jdevalk/skills |
+| josstei/maestro-orchestrate | Multi-agent orchestration platform for Gemini CLI, Claude Code, Codex, and Qwen Code — 39 specialists, parallel subagents, persistent sessions, and built-in code review, debugging, security, SEO, accessibility, and compliance tools | agentic / ai-agents / anthropic | https://github.com/josstei/maestro-orchestrate |
+| gooseworks-ai/goose-skills | Library of Growth & GTM skills + data APIs for Claude Code, Codex, Cursor to run ads, social, content, lead gen, seo and data scraping | claude / claude-skills / claudecode | https://github.com/gooseworks-ai/goose-skills |
+| JeffLi1993/seo-audit-skill | SEO agent skill for OpenClaw,Claude Code, and AI agents. Generate beginner SEO audits and advanced technical SEO reports for any page. | 无 | https://github.com/JeffLi1993/seo-audit-skill |
+| inhouseseo/superseo-skills | 11 Claude skills for SEO: page audits, linkbuilding, article writing, E-E-A-T audits, semantic gap analysis, link building. Methodology from Koray Tuğberk, Kyle Roof, and Lily Ray, plus a generation-time anti-AI-slop ruleset. Production-tested at InhouseSEO | ai-agents / ai-seo / claude | https://github.com/inhouseseo/superseo-skills |
+| Bomx/distribb-skill | Distribb CLI, Claude, Codex, Hermes, OpenClaw skill for AI-powered SEO. Write content with your own AI, publish through Distribb's backlink network. | ai-agent / backlinks / claude-code | https://github.com/Bomx/distribb-skill |
+| Cesarjoquin/Marketing-Skills | AI agent Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, ai agent, and growth engineering, ai agent | agent / ai / ai-agent | https://github.com/Cesarjoquin/Marketing-Skills |
+| agencia-conversion/agentic-seo-skills | Agentic SEO operating system as a Claude Code plugin: project Wiki, DataForSEO workflows, content briefs, technical SEO, and human-approval gates. | agentic-ai / agentic-seo / claude-code | https://github.com/agencia-conversion/agentic-seo-skills |
+| zubair-trabzada/ai-marketing-claude | AI Marketing Suite for Claude Code. 15 marketing skills with parallel subagents — audit any website, generate copy, email sequences, ad campaigns, content calendars, competitive intelligence, and client-ready PDF reports. | ai-marketing / claude / claude-code | https://github.com/zubair-trabzada/ai-marketing-claude |
+
+### GEO/AEO 通用工具
+
+| 项目 | 中文说明 | 可借鉴点 | 链接 |
+|------|----------|----------|------|
+| sparkyniner/Netryx-Astra-V2-Geolocation-Tool | The world's most sophisticated street level image geolocation software | 无 | https://github.com/sparkyniner/Netryx-Astra-V2-Geolocation-Tool |
+
