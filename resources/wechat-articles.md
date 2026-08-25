@@ -1276,3 +1276,57 @@
 |----------|--------|------------|--------------|
 | 安企CMS的 llms.txt 文件用谷歌浏览器打开是乱码解决方法! | 王杨发现 | 安企CMS的 llms.txt 文件用谷歌浏览器打开是乱码解决方法!如下,打开安企CMS原来的伪静态 | 发布日期 2026-08-15 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxpIjTLo2YfLoBBZPPqsNrH1HoFMr5ZtP1qXa8Fplpd9Q78Yj-PCJ33kPkI75OJjdC_4P050kQxeBqTw4n803mlyrHeCCluk46tPe2LA4XpGCS7aFdYXOFC-t5HfURCccOvZwcML1b6n6HL0LF-4Q6S7beWG3j1lSKltIF0XFawh3IBIpCS9lyuCo26vVy3NgFKzGHNjy38JziSa5PG9DjDvzHZXxeLdyg..&type=2&query=llms.txt %E5%BA%94%E7%94%A8&token=4A51906621F860E3C3C59AD9EF655CD4C4D210166A80B0EC |
 
+
+---
+
+## 2026-08-25 更新
+
+> 本期聚焦:8 月监管两令砸下(GEO 灰色捷径作废)、AI 可见度行业指数上线(18 个行业 120 品类)、五大 AI 引擎引用偏好拆解、豆包 GEO 案例矩阵。共收录 12 篇 2026-08 中下旬优质公众号文章,覆盖监管 / 平台 / 案例 / 内容资产 / 服务商选型等主线。
+
+### AI 可见度(2 篇)
+
+| 文章标题 | 公众号 | 一句话点评 | 推荐阅读理由 |
+|----------|--------|------------|--------------|
+| 平台大公开: AI 可见度 行业指数上线,首批18个行业120品类今日开放\|RockView行业指数 | RockView 韧界科技 | AI 可见度行业基准与品牌监测实践 | 发布日期 2026-08-20 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxOQJml35U9-TeCooiDFpO8umUQGLOj9aVqXa8Fplpd91tHdSTue-d1z3C-0zBBvtk44Tppr5RWspKlyxjUSidoAb0iaSc5lrNwVBCAvpo73Yiks5Ch6I8Linj7yK5thWzbiuVuRlW2YLqwbMcdwhtdVT1YL2Y2zwCv4QiYFMHRHwrXGUW1NXJxMYN9aQOcZJnI-qy2AiY_KvFoITTXGYjpQ_LeJW-Rhtg..&type=2&query=AI %E5%8F%AF%E8%A7%81%E5%BA%A6&token=8A6F950B1A3F0ACFCDC89719E5A4CAB5CEE456F26A8CE178 |
+| AI PR:以 AI 可见度 驱动GEO增长 | 壹龙-One Dragon | AI 可见度行业基准与品牌监测实践 | 发布日期 2026-08-20 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxOQJml35U9-TeCooiDFpO8umUQGLOj9aVqXa8Fplpd9kzKKdLuMOB_BfQvOyQxXQTldhJ8AJt6A4QsYzvFWFaeSbuI7HXLEpNfzEYrfhakyg3znuJu4zGae9pT4-YLNNZdWa7RbFUX87hvfeCAY4kL9tjr6Bb547Ht80N1PgamgTKyoZBq4_P7XzAXrNXTHkC0c_Vb0Ow3_1tnTVMscUdF5LU3lqtPw9g..&type=2&query=AI %E5%8F%AF%E8%A7%81%E5%BA%A6&token=8A6F950B1A3F0ACFCDC89719E5A4CAB5CEE456F26A8CE178 |
+
+### AI 引擎引用与内容资产(2 篇)
+
+| 文章标题 | 公众号 | 一句话点评 | 推荐阅读理由 |
+|----------|--------|------------|--------------|
+| 国内五大 AI 引擎 偏好 引用 什么? | 王朋友 | AI 引擎引用偏好与内容资产配置 | 发布日期 2026-08-20 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxOQJml35U9-41nGk9iRDUIumUQGLOj9aVqXa8Fplpd9x8sRrLiXrlTtt6RrpInzj774GT12CR4PsGarn1nwFqfa2x-bcA2CFrCyxxhdzB5ye0wamfWVBBJdv3JceVWrejlLS9WKuwT8CatSyGtrrWYAhazqKc3HqEfmenSB4ZpeM8BA1JHliP9WWbVmbHUeS0E1LZRt8JY9YU8Lmj4QaXCE8RsmObDbtQ..&type=2&query=AI %E5%BC%95%E6%93%8E%E5%BC%95%E7%94%A8&token=8A6FDD8BB690A560626438B64D40DBC162662DA56A8CE184 |
+| GEO 内容类型矩阵: AI 引擎 最爱 引用 的 5 类内容资产,你的预算该押在哪 | mtl课堂日记 | AI 引擎引用偏好与内容资产配置 | 发布日期 2026-08-17 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxOQJml35U9-41nGk9iRDUIumUQGLOj9aVqXa8Fplpd9nYDFtm9Pm1NHjXINF14S802n-O-Kws1ecVBGDk90FYFiHXZFe-eS0W5wBRRT7gwooUglSnS1xHZjqCxvu1Ry_KbxUwaruTc9cuiuatw_drjZH6iwpeR5nf7yJkvWwNm6euxCHCc9ywACL5YniOno9wdtnTPeH4MRFxAGKq2zvtYO8fIRwtipOg..&type=2&query=AI %E5%BC%95%E6%93%8E%E5%BC%95%E7%94%A8&token=8A6FDD8BB690A560626438B64D40DBC162662DA56A8CE184 |
+
+### GEO 实战案例(2 篇)
+
+| 文章标题 | 公众号 | 一句话点评 | 推荐阅读理由 |
+|----------|--------|------------|--------------|
+| GEO 案例 Day4\|全屋定制品牌如何让AI改口?更新百科+行业测评两步刷新推荐 | GEO生成式AI搜索引擎优化 | 具体行业 GEO 案例,带可复用方法论 | 发布日期 2026-08-23 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxOQJml35U9-cdeg6uLd8ssumUQGLOj9aVqXa8Fplpd999FPZg8EhcRLbiG5U8MKrOeRkylr1iZWB2_oNKyXP6tSTkJ8eKsN3W3Tw1AhGp2jf_0-jyqzJ2YdoKe5IA4GpxxZHcuhzg4yF05rzqZWraXML0YIAowirXtY6P3mkWLutf78EQ54gLbKETrneG7aDIhJXEy_P89chM__xJRDrEwCn9lOoZLP2Q..&type=2&query=GEO %E6%A1%88%E4%BE%8B&token=8A6FF063B791A661606638B54D31B13161B423506A8CE187 |
+| GEO 案例 Day3\|本地家政如何低成本抢占AI推荐位?结构化FAQ+高权重平台两步搞定 | GEO生成式AI搜索引擎优化 | 具体行业 GEO 案例,带可复用方法论 | 发布日期 2026-08-22 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxOQJml35U9-cdeg6uLd8ssumUQGLOj9aVqXa8Fplpd999FPZg8EhcRLbiG5U8MKrOeRkylr1iZWB2_oNKyXP6tSTkJ8eKsN3YJtpkce17KXe6oWsNB0aIynQ3QKAoPojAeWhh2pRWCFRggCYDzJQrY6HowEDZsMlt0pvCXDTi4rHRnzoLAhFb5dJpuFINeMkeeXfSEa7S71uyiWPCGrHe05eBgmN3LoYQ..&type=2&query=GEO %E6%A1%88%E4%BE%8B&token=8A6FF063B791A661606638B54D31B13161B423506A8CE187 |
+
+### GEO 服务商(2 篇)
+
+| 文章标题 | 公众号 | 一句话点评 | 推荐阅读理由 |
+|----------|--------|------------|--------------|
+| 上海 GEO 服务商 哪家靠谱? | 困困包甄选 | GEO 服务商选择避坑实操 | 发布日期 2026-08-24 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxOQJml35U9-8ZScAsqbcoMumUQGLOj9aVqXa8Fplpd9GMJNQZNmgv2-HU-bbdtQDVFjjMNLWPQTQ71pz_35Doz6ppSuPNo4AOpz4SgoDtUat04fwgg8kQxA8YXk-rRUR9lmSf9oNazlPqzAQxkMKOh0hBXAvaAX7LqsvJamay1iYjb47ZiIUl5r105zgz1kakndUkRFyJwUM8_XA4H29Opj32-j2KiwUw..&type=2&query=GEO %E6%9C%8D%E5%8A%A1%E5%95%86&token=8A7017EFD5F2C50303045BD72EB0E5CB031E49EB6A8CE18E |
+| GEO 服务商 怎么选避坑4招 | 企业营销获客 | GEO 服务商选择避坑实操 | 发布日期 2026-08-20 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxOQJml35U9-8ZScAsqbcoMumUQGLOj9aVqXa8Fplpd9fe-HKmZSlq8Q7-ah5k6Ho1OLdhl5xrtzfLYM1T5rwRKCLvcLqs7rZZa0DJnGMLmHw7jpzlfhokkPTJcWW63ACWqbr0Qkb45wmYAD4BuNA7qK1ndR0pPzurn-lEFyqTNENzpH2Ro4jwaKtC0tJvQ_FQInVMKMAKtWjhjJlwdD3XGrCDCayYmfpA..&type=2&query=GEO %E6%9C%8D%E5%8A%A1%E5%95%86&token=8A7017EFD5F2C50303045BD72EB0E5CB031E49EB6A8CE18E |
+
+### GEO 监管与执法(1 篇)
+
+| 文章标题 | 公众号 | 一句话点评 | 推荐阅读理由 |
+|----------|--------|------------|--------------|
+| 8月两道 监管 令砸下: GEO 行业“花钱买牌”“暗箱操作”两条灰色捷径彻底作废 | 品牌传播Growth Lab | 聚焦 GEO 合规、监管动态与刚性化要求 | 发布日期 2026-08-22 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxOQJml35U9-exWNozYiPFkumUQGLOj9aVqXa8Fplpd9KRPLHS0-u1Xu1bK7q0TQq_HGKe8KSnNPzMTO3ZdJKY6md1OnmwKudD3lX6z4LFpd7nIv_EaY-lErcFwUS9m1YX5P7JZwquqhcd9ce-C7keoTLesQBwe8fSN2v9GPcdmrUtqbqM-kgI2mbb-3zkB-9Qg3FZr_XKWUSqXj9fzxnSnm0CtGSSkZQQ..&type=2&query=GEO %E7%9B%91%E7%AE%A1&token=8A6F6A28A98EB97E7E7927AA54749B977FBC541C6A8CE172 |
+
+### 生成式引擎优化(1 篇)
+
+| 文章标题 | 公众号 | 一句话点评 | 推荐阅读理由 |
+|----------|--------|------------|--------------|
+| 活动预告\|GEO 生成式引擎优化 :零投流高获客活动来袭! | 贝德联讯U谷 | AI 引擎引用偏好与内容资产配置 | 发布日期 2026-08-20 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxOQJml35U9-HR-h1UtG4WUumUQGLOj9aVqXa8Fplpd9SM4BcG6s4xbJste0H_Rb-vCt2CM2k70R4GYznDv4eB1dyHpKJXq37LkVDOsFhHsETgY8F-_dEYKXJR8HdthVw-dxnsAFKX8WWFXoVmDV3l_oiHQcII5se-3gjZmrLbeoKeQ6GJ6Ttp8aKMcukkcJ1RXJpTHI1BOAcFKOAdz55eVhWLv6O878UA..&type=2&query=%E7%94%9F%E6%88%90%E5%BC%8F%E5%BC%95%E6%93%8E%E4%BC%98%E5%8C%96&token=8A6F56C38CAA9B5A5B5D02887185857B5C4A21786A8CE16F |
+
+### 豆包 GEO 平台(2 篇)
+
+| 文章标题 | 公众号 | 一句话点评 | 推荐阅读理由 |
+|----------|--------|------------|--------------|
+| 北京 豆包 GEO 优化公司2026技术发展与行业分析 | 匠子发现 | 聚焦特定 AI 平台 GEO 打法与服务商 | 发布日期 2026-08-20 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxOQJml35U9-SZsGtTyLnwgumUQGLOj9aVqXa8Fplpd9_wNfqNa3fucxoLk_vFaToFRrEJM1zorP513S-69ofu-hCT17T2L-ttAsKoZ1tIXIkC51M8C9QG9noJhLK8K_8i9pxHfGmleAsJl3QbsazflyyUFXOq84E-H1y5CUn4EAdPjzy76q5KnLUXcgbgYJjQ9xwovACQUOu2Zc3_Azezfm0CtGSSkZQQ..&type=2&query=%E8%B1%86%E5%8C%85 GEO&token=8A6F7F75D1F7C10405005CD12D3FC40506C5E4216A8CE175 |
+| 如何选择最适合您的 豆包 GEO 优化代运营服务? | 抖赢销咨询 | 聚焦特定 AI 平台 GEO 打法与服务商 | 发布日期 2026-08-14 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxOQJml35U9-SZsGtTyLnwgumUQGLOj9aVqXa8Fplpd9O8K70BK-5sbR_MgOidCmrZteV1aHS44SLN1fxbZr6TxRF_7L0gJhi22dXjRtDcE4cEoKw07bsPze6lSpOE1bY_jL4Z-lXPIV-057651aFGD100VatXPM8v59Vd7qQx2hNVmB2O_6D31HhdJAAt6V7JwBxC3AheAqQ5qhJXJxGBsCn9lOoZLP2Q..&type=2&query=%E8%B1%86%E5%8C%85 GEO&token=8A6F7F75D1F7C10405005CD12D3FC40506C5E4216A8CE175 |
+

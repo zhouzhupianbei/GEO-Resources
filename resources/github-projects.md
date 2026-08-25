@@ -1203,3 +1203,52 @@ GEO 的一个核心点,不只是"写",更是"结构化表达"。这类项目有�
 |------|----------|----------|------|
 | sparkyniner/Netryx-Astra-V2-Geolocation-Tool | The world's most sophisticated street level image geolocation software | 无 | https://github.com/sparkyniner/Netryx-Astra-V2-Geolocation-Tool |
 
+
+---
+
+## 2026-08-25 更新
+
+> 本期重点:Claude Code / Agent Skill 化加速(2.7w-3.4w⭐ 头部项目聚集)、中文 GEO 引用数据集开源、AEO 资源汇总、GEO 自演化代理框架(AgenticGEO)等。共收录 12 个近期高活跃项目,覆盖 GEO/AEO/llms.txt/Agent Skill 等多条赛道。
+
+### GEO Agent / 自演化框架(4 个)
+
+| 项目 | 中文说明 | 可借鉴点 | 链接 |
+|------|----------|----------|------|
+| yaojingang/GEOHub | GEOHub: open, evidence-bounded GEO and SEO agent skills for AI Search, with research-grounded discovery, diagnosis, cont | 无 | https://github.com/yaojingang/GEOHub |
+| AIcling/agentic_geo | Code for AgenticGEO: A Self-Evolving Agentic System for Generative Engine Optimization | 无 | https://github.com/AIcling/agentic_geo |
+| nowork-studio/notfair-plugin | Open-source SEO, GEO, and marketing skills for AI agents. | 无 | https://github.com/nowork-studio/notfair-plugin |
+| ViryaZheng/recomby-geo | GEO 领域 AI 员工开源方案 · Open-source GEO AI-employee solution (MIT). GEO Skills package + curated lists of agents and office C | 无 | https://github.com/ViryaZheng/recomby-geo |
+
+### SEO 审计 / Agent(1 个)
+
+| 项目 | 中文说明 | 可借鉴点 | 链接 |
+|------|----------|----------|------|
+| dannwaneri/seo-agent | Open-source SEO audit agent — real-browser checks, backlink scoring, and multi-engine AI citation tracking (Claude, Chat | 无 | https://github.com/dannwaneri/seo-agent |
+
+### AEO / Answer Engine 资源(1 个)
+
+| 项目 | 中文说明 | 可借鉴点 | 链接 |
+|------|----------|----------|------|
+| discoveredlabs/awesome-aeo-seo | A curated list of AEO and SEO resources for engineers and growth marketers: research, tooling, and implementation guides | 无 | https://github.com/discoveredlabs/awesome-aeo-seo |
+
+### Claude Code / Agent Skill 套件(3 个)
+
+| 项目 | 中文说明 | 可借鉴点 | 链接 |
+|------|----------|----------|------|
+| Yuzzyuk/marketing-os | An entire marketing department as one Claude skill. 14 modules: audits scored 0-100, an 18-tactic hook engine, copy grad | 无 | https://github.com/Yuzzyuk/marketing-os |
+| nexscope-ai/nexscope-ecommerce-skills | Ready-to-use AI agent skills for e-commerce intelligence. Product research, keyword optimization, competitor analysis, p | 无 | https://github.com/nexscope-ai/nexscope-ecommerce-skills |
+| alirezarezvani/claude-code-aso-skill | AEO Automation Framework for Claude Code One-click, beginner friendly automation for GitHub. Includes a dedicated fleet  | 无 | https://github.com/alirezarezvani/claude-code-aso-skill |
+
+### 中文 GEO 引用数据集(1 个)
+
+| 项目 | 中文说明 | 可借鉴点 | 链接 |
+|------|----------|----------|------|
+| WENDAOstudy/cn-geo-citation-dataset | Based on 4 major Chinese language model platforms, including 8 platform-end versions for web and mobile applications, 61 | 无 | https://github.com/WENDAOstudy/cn-geo-citation-dataset |
+
+### llms.txt 工程化(2 个)
+
+| 项目 | 中文说明 | 可借鉴点 | 链接 |
+|------|----------|----------|------|
+| tfmurad/astro-llms-md | Astro integration to generate llms.txt, llms-full.txt, and markdown files from your Astro site | 无 | https://github.com/tfmurad/astro-llms-md |
+| ItamarZand88/awesome-agent-conventions | A curated guide to convention files AI agents read, write, and act on: AGENTS.md, CLAUDE.md, SKILL.md, llms.txt, MCP con | 无 | https://github.com/ItamarZand88/awesome-agent-conventions |
+
