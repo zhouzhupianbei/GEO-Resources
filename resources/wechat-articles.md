@@ -1330,3 +1330,40 @@
 | 北京 豆包 GEO 优化公司2026技术发展与行业分析 | 匠子发现 | 聚焦特定 AI 平台 GEO 打法与服务商 | 发布日期 2026-08-20 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxOQJml35U9-SZsGtTyLnwgumUQGLOj9aVqXa8Fplpd9_wNfqNa3fucxoLk_vFaToFRrEJM1zorP513S-69ofu-hCT17T2L-ttAsKoZ1tIXIkC51M8C9QG9noJhLK8K_8i9pxHfGmleAsJl3QbsazflyyUFXOq84E-H1y5CUn4EAdPjzy76q5KnLUXcgbgYJjQ9xwovACQUOu2Zc3_Azezfm0CtGSSkZQQ..&type=2&query=%E8%B1%86%E5%8C%85 GEO&token=8A6F7F75D1F7C10405005CD12D3FC40506C5E4216A8CE175 |
 | 如何选择最适合您的 豆包 GEO 优化代运营服务? | 抖赢销咨询 | 聚焦特定 AI 平台 GEO 打法与服务商 | 发布日期 2026-08-14 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxOQJml35U9-SZsGtTyLnwgumUQGLOj9aVqXa8Fplpd9O8K70BK-5sbR_MgOidCmrZteV1aHS44SLN1fxbZr6TxRF_7L0gJhi22dXjRtDcE4cEoKw07bsPze6lSpOE1bY_jL4Z-lXPIV-057651aFGD100VatXPM8v59Vd7qQx2hNVmB2O_6D31HhdJAAt6V7JwBxC3AheAqQ5qhJXJxGBsCn9lOoZLP2Q..&type=2&query=%E8%B1%86%E5%8C%85 GEO&token=8A6F7F75D1F7C10405005CD12D3FC40506C5E4216A8CE175 |
 
+
+
+---
+
+## 2026-08-31 更新
+
+> 本期聚焦:豆包 GEO 平台合规再升级(2026-08-30 三禁三必须)、AI 可见度赛道进入价格战阶段、国内首个 AI 可见度向量引擎上线、GEO 监管回看(315 后白帽合规)、GEO 投资回报量化(免费诊断试点)。共收录 9 篇 2026-07 下旬至 8 月公众号文章,覆盖平台合规、AI 可见度、监管合规、投资回报、实战案例五条主线。
+
+### AI 可见度(3 篇)
+
+| 文章标题 | 公众号 | 一句话点评 | 推荐阅读理由 |
+|----------|--------|------------|--------------|
+| 生成式引擎优化 投资回报:免费诊断试点,量化AI搜索可见度 | 维桢智体 | AI 可见度基准与价格战信号 | 发布日期 2026-08-28 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxIEy8wvowI9f2xY5GgomPBlMVojE4NXL1qXa8Fplpd9DzCmPUrMkCsGiCfeKuah-UwoNFsL21dj0wEXqDAs5-Ot4IPkycZY9cnvNNiJgwHBT_i5OJ51zG6y8rCeTNuW8Ig4clzHhj14NsHQsr2Kv1PpfW53bUWkBMp-HLNweTsfHZP3sQtBMtAEu6JgpeDJqgzQZcqPxH8cKi79qluN-uvvzHZXxeLdyg..&type=2&query=%E7%94%9F%E6%88%90%E5%BC%8F%E5%BC%95%E6%93%8E%E4%BC%98%E5%8C%96&token=B5995B2223FC64E0C8C1928F241275C8C8FD0B8D6A947787 |
+| AI 可见度 赛道也打起价格战:3周两次降价,给品牌的3条应对清单 | GEO即欧社 | AI 可见度基准与价格战信号 | 发布日期 2026-08-26 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxIEy8wvowI9H-vA6MF0LQNlMVojE4NXL1qXa8Fplpd9gHQjk4JM-ira9vT_n9VEfDKZu2Agj8DPuzIyGrpcExho0Qc_T39qje-qxst93SoX7w7DsrhQAFlnikTw6l9SqIE1YAMsMtys0z75nXdrmT7fku6YoVdoX92lRQE1Gdu-Nck8nlF8VSMOSIKthWMD3-JJ8vZddV0YENN1QrMFWuECYioxHkzTmA..&type=2&query=AI %E5%8F%AF%E8%A7%81%E5%BA%A6&token=B599859B2CF26AEFC8CE938E25F45279C93463A56A94778D |
+| 国内首个 AI 可见度 向量引擎!终结盲目GEO优化,效果可测可证! | 商业壹线 | AI 可见度基准与价格战信号 | 发布日期 2026-08-26 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxIEy8wvowI9H-vA6MF0LQNlMVojE4NXL1qXa8Fplpd9EVJwPAGln4a_aULmJOJG8oGmuvykwZvfM9hj8KhqETe-0iq-j-Excr5maB8gH-y4aVju9mzZk6wJztgnw6R6-c7AeQiYKx5z_x_geGo6VHYTx4uitcuNAtIlpLUKIA1uM7Oxq2Z9yowWsjIduMtEB2S0GcjNhAvBaDHdHN7I7ALy08OLTBhW0A..&type=2&query=AI %E5%8F%AF%E8%A7%81%E5%BA%A6&token=B599859B2CF26AEFC8CE938E25F45279C93463A56A94778D |
+
+### 豆包 GEO 平台合规(2 篇)
+
+| 文章标题 | 公众号 | 一句话点评 | 推荐阅读理由 |
+|----------|--------|------------|--------------|
+| 豆包 GEO 招募城市合伙人:从市场需求到商业闭环的郑州极易欧科技合伙人模式布局与解读 | GEO代运营 | 聚焦豆包 GEO 合规红线与平台打法 | 发布日期 2026-08-22 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxIEy8wvowI9ipFHiPTQD_dlMVojE4NXL1qXa8Fplpd9WofF6SiHZ4-2HKFgIox8R6sYw8yilraPto-SvWYlpK-9RotAUvnSVK7gHZhKqLWkAdXQtTK2zw5eBQOqGCGWufiwDCvO7g5Gzc_YAmiBjf9PxvQEOC6tK7tvaotjoCfKdB9LNNrfNOFV6D0Z4GYzsvAAUaYTwT7abndSjUWyB4ZflztgI7RZ1g..&type=2&query=%E8%B1%86%E5%8C%85 GEO&token=B599999B9C43DB5F797F223F9414EAA079CA0C056A947790 |
+| 2026 豆包 GEO 全新合规红线/三禁三必须完整解读 | 青牛云冬哥 | 聚焦豆包 GEO 合规红线与平台打法 | 发布日期 2026-08-30 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxIEy8wvowI9ipFHiPTQD_dlMVojE4NXL1qXa8Fplpd9oyM0fY_k7J2kazYv1rU5TvEJnwm6frD1A9IOo_YWCCZchYkKW_0LLvyNVRgFvRBYNM0nvk_q3FoRqiS69DBh8mNnBALYs7M2Opjp9tSRCPDmA-xkYLGQ-15qWvz9cVwtVOoEImE4mc0yNAIO-mIfTGa9kLqqWu2rJsMSfI-Dq2GTJmCU1UgHwQ..&type=2&query=%E8%B1%86%E5%8C%85 GEO&token=B599999B9C43DB5F797F223F9414EAA079CA0C056A947790 |
+
+### GEO 监管与合规(3 篇)
+
+| 文章标题 | 公众号 | 一句话点评 | 推荐阅读理由 |
+|----------|--------|------------|--------------|
+| GEO 投毒AI被污染/315后 GEO 正向宣言:拥护 监管 ·倡议真商·打击黑产 | 云栖 GEO观察 | GEO 合规白帽与监管动态 | 发布日期 2026-03-16 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxIEy8wvowI9yRIyhTGs3W9lMVojE4NXL1qXa8Fplpd9BXilsGM6NpQ6rXow_VCcN7jNhQOJPOtd3zTp1chuUS57TzgKCxUIp_K0s5jKhr8pUuOqMYdbYO7xBsPGBNY-JZf-ac5ivVa-1N_AS5PQfp0ACB1Ffji3GFlUCGeagYXYDCwSdM86cq_KLZsUU7MWJw9HdtB0Y8yPTMv9pk9EfCWrCDCayYmfpA..&type=2&query=GEO %E7%9B%91%E7%AE%A1&token=B599302D06D841C4E2E5B8A40F9A093BE3DC55276A947780 |
+| 315之后 合规 GEO 优化的5个核心原则 | 阳哥GEO | GEO 合规白帽与监管动态 | 发布日期 2026-03-21 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxIEy8wvowI9zWQ6xQIZH-dlMVojE4NXL1qXa8Fplpd9d2KYu4EaQ4MTiStWfUxoxIBxQ6S0s0eK_fAROp1vwud-Zv5O6qLW2zXvTmKIacEOLDD72dzmkIfuavcMPACSDI4yDbRrVyYoZLsNxPDiW5tZN00Bq6sqJrFNte3SfT8wdUcxfvh8PXpW3yH3cCl49MdYCi9-W3owG62licePYi0tPujwwRB2Pw..&type=2&query=GEO %E5%90%88%E8%A7%84&token=B599452D5E81199CBABDE0FC5610506ABB0915496A947784 |
+| 315 后必看/ 合规 GEO 白帽指南:远离黑产陷阱,守住品牌安全底线 | 齐一AI智能云 | GEO 合规白帽与监管动态 | 发布日期 2026-03-17 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxIEy8wvowI9zWQ6xQIZH-dlMVojE4NXL1qXa8Fplpd9KuXAJOC5_QrcGK7adZMntWUC6vcA-zOO0_D3vXXGUw6GAl8avXIxFaHV-56vKIgvDbzj9TrQDuUCJfbtiDAYdJ5OdRgTcp-XqF2-oe9VX0WCicPyeni987OlavDS1j3cc38dmLyKqH8dVZTMvZp3gDtwwqANrLTOdmvkUp5ryNfI3OTRHYU2og..&type=2&query=GEO %E5%90%88%E8%A7%84&token=B599452D5E81199CBABDE0FC5610506ABB0915496A947784 |
+
+### GEO 综合(1 篇)
+
+| 文章标题 | 公众号 | 一句话点评 | 推荐阅读理由 |
+|----------|--------|------------|--------------|
+| 活动回顾/GEO 生成式引擎优化 :零投流高获客活动圆满落幕 | 贝德联讯U谷 | GEO 实战案例与策略 | 发布日期 2026-08-25 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxIEy8wvowI9f2xY5GgomPBlMVojE4NXL1qXa8Fplpd9YjmmQO2tUiubZAYBeTiVQ9362v-_kdL61ofVxRxg92iHpb5oVezewijxh9dHSutRpqQYHXTSYhj5aEiPoYiukG88yWtZTdtx6YhLEav7OgfUhBbLhhyzYQ31qVGT-xLUn_S6kImUWxf1p_ZV7sYahvxm9fWTs2RGblEcaPGZ6ZL1AfaFW2DefQ..&type=2&query=%E7%94%9F%E6%88%90%E5%BC%8F%E5%BC%95%E6%93%8E%E4%BC%98%E5%8C%96&token=B5995B2223FC64E0C8C1928F241275C8C8FD0B8D6A947787 |
+

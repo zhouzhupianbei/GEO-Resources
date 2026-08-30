@@ -75,6 +75,18 @@
 - 📚 补充 GitHub 项目 10 个:聚焦「Claude Code Skill 垂直平台原生适配 + Agent Convention 资产 + 协议层 manifest + 内容站 GraphRAG 基建」——mykpono/ultimate-seo-geo 与 tanujrajputdev/shopify-theme-audit-skill 把 SEO/GEO/AEO 打包成 Claude Code Skill 一键执行;gunheeaug/web-seo-aeo-geo-google-naver-skill 与 deepakness/google-ai-search-optimization 针对 Google / Naver / Google AI Overview 各自做平台原生适配;JasonColapietro/suede-creator-skills / zubair-trabzada/ai-proposal-claude / ItamarZand88/awesome-agent-conventions 把 GEO 工作流纳入 Agent 原生规范;aagedik/aigeoradar-aipm 提出 `.ai.json` 协议级 manifest 与 llms.txt 互补;Graphify-Labs/graphify(104k⭐)与 0xMassi/webclaw(2123⭐)用 GraphRAG / 本地爬虫撑起内容站 AI-ready 基建
 - 📚 补充微信公众号文章 12 篇:聚焦「本地化搜索升温 + 区域服务商市场分化 + 豆包 GEO 素材池规则 + llms.txt 标准规范 + GEO 商业可持续性反思」五股新叙事——「AI 身份证」「GEO 本地化搜索完整科普」两个新概念首次明确出现;浙江(颢翰科技)、山东(佰腾云智能)、无锡(网建微营销)三区域同时出现服务商优选指南;豆包 GEO 从「流量密码」演进到「70% 内容来自抖音素材池」的具体规则;llms.txt 进入「file 标准规范」普及阶段;首次出现对 GEO 长期商业价值的系统性反思文章
 
+### 2026-08-16
+- 📚 补充 GitHub 项目 12 个:聚焦 GEO Agent Skill 化与平台原生适配(backfill 自 git log 0e28889)
+- 📚 补充微信公众号文章 10 篇:聚焦 GEO 服务商选型与平台合规(backfill 自 git log 0e28889)
+
+### 2026-08-25
+- 📚 补充 GitHub 项目 12 个:聚焦 Claude Code Skill 套件(notfair-plugin / marketing-os)+ 中文 GEO 引用数据集 + AEO 资源汇总 + AgenticGEO 自演化框架
+- 📚 补充微信公众号文章 12 篇:覆盖 8 月监管两令、AI 可见度行业指数、五大 AI 引擎引用偏好、豆包 GEO 案例矩阵
+
+### 2026-08-31
+- 📚 补充 GitHub 项目 7 个:聚焦 GEO/AEO Agent Skill 化深化(luka2chat/geo-skills、199-biotechnologies/claude-skill-seo-geo-optimizer)+ AEO 监控自动化(AI-Captains-Academy/aeo-audit、alirezarezvani/aeo-box、DavLis-oss/intelligence-lab)+ Agent Harness 资源聚合(RyanAlberts/best-of-Agent-Harnesses 739⭐)+ Claude Code 营销 Skill(jaredrhod/ai-marketing-skills)
+- 📚 补充微信公众号文章 9 篇:聚焦豆包 GEO 平台合规再升级(2026-08-30 三禁三必须)、AI 可见度赛道价格战、国内首个 AI 可见度向量引擎上线、GEO 监管回看(315 后白帽合规)、GEO 投资回报量化(免费诊断试点)
+
 ## 2026-05
 
 ### 2026-05-19

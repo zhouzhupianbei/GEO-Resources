@@ -1252,3 +1252,33 @@ GEO 的一个核心点,不只是"写",更是"结构化表达"。这类项目有�
 | tfmurad/astro-llms-md | Astro integration to generate llms.txt, llms-full.txt, and markdown files from your Astro site | 无 | https://github.com/tfmurad/astro-llms-md |
 | ItamarZand88/awesome-agent-conventions | A curated guide to convention files AI agents read, write, and act on: AGENTS.md, CLAUDE.md, SKILL.md, llms.txt, MCP con | 无 | https://github.com/ItamarZand88/awesome-agent-conventions |
 
+
+
+---
+
+## 2026-08-31 更新
+
+> 本期重点:GEO/AEO Agent Skill 化深化(`geo-skills` / `claude-skill-seo-geo-optimizer` 等 Claude Code 一键审计工具涌现)、AEO 监控自动化(Intelligence Lab)、agent harnesses 资源聚合(739⭐、每周 rescored)。共收录 7 个近期高活跃项目,围绕 GEO 实战化、AEO 监控、Agent Skill 套件三条主线展开。
+
+### AEO / Answer Engine 工具(4 个)
+
+| 项目 | 中文说明 | 可借鉴点 | 链接 |
+|------|----------|----------|------|
+| luka2chat/geo-skills | Production-grade GEO best practices for AI agents — everything you need to optimize content for AI search engines and LLM-based answer engines | 无 | https://github.com/luka2chat/geo-skills |
+| AI-Captains-Academy/aeo-audit | AEO Audit Rig — Answer Engine Optimization audit template for Claude Code | 无 | https://github.com/AI-Captains-Academy/aeo-audit |
+| alirezarezvani/aeo-box | Your Full Agentic Fraemwork for "Answer Engine Optimization" . Get listed when ChatGPT, Claude, Perplexity, Gemini, Mistral, Manus & Co. answer. | 无 | https://github.com/alirezarezvani/aeo-box |
+| DavLis-oss/intelligence-lab | Official Intelligence Lab of AI Audit Scan. Automated AEO & LLM Visibility monitoring. Real-time tracking of SearchGPT, Perplexity, and Gemini indexin... | 无 | https://github.com/DavLis-oss/intelligence-lab |
+
+### Claude Code / Agent Skill 化 GEO 工具(2 个)
+
+| 项目 | 中文说明 | 可借鉴点 | 链接 |
+|------|----------|----------|------|
+| 199-biotechnologies/claude-skill-seo-geo-optimizer | Production-ready Claude skill for comprehensive SEO/GEO optimization. Analyzes content for traditional search engines + AI platforms (ChatGPT, Perplex... | 无 | https://github.com/199-biotechnologies/claude-skill-seo-geo-optimizer |
+| jaredrhod/ai-marketing-skills | The marketing fundamentals that make AI actually make you money, written in my own voice, as a ready-to-install Claude skill or drop-in files for your... | 无 | https://github.com/jaredrhod/ai-marketing-skills |
+
+### Agent Harness / llms.txt 资源聚合(1 个)
+
+| 项目 | 中文说明 | 可借鉴点 | 链接 |
+|------|----------|----------|------|
+| RyanAlberts/best-of-Agent-Harnesses | 🏆 Curated, ranked list of AI agent harnesses (100+) — plus an MCP server, llms.txt & JSON so agents can recommend them too. Rescored weekly. | 无 | https://github.com/RyanAlberts/best-of-Agent-Harnesses |
+
