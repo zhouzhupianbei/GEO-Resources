@@ -1367,3 +1367,36 @@
 |----------|--------|------------|--------------|
 | 活动回顾/GEO 生成式引擎优化 :零投流高获客活动圆满落幕 | 贝德联讯U谷 | GEO 实战案例与策略 | 发布日期 2026-08-25 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgSxIEy8wvowI9f2xY5GgomPBlMVojE4NXL1qXa8Fplpd9YjmmQO2tUiubZAYBeTiVQ9362v-_kdL61ofVxRxg92iHpb5oVezewijxh9dHSutRpqQYHXTSYhj5aEiPoYiukG88yWtZTdtx6YhLEav7OgfUhBbLhhyzYQ31qVGT-xLUn_S6kImUWxf1p_ZV7sYahvxm9fWTs2RGblEcaPGZ6ZL1AfaFW2DefQ..&type=2&query=%E7%94%9F%E6%88%90%E5%BC%8F%E5%BC%95%E6%93%8E%E4%BC%98%E5%8C%96&token=B5995B2223FC64E0C8C1928F241275C8C8FD0B8D6A947787 |
 
+---
+
+## 2026-09-04 更新
+
+> 本期聚焦:监管体系新发布要点 + 豆包 GEO 跨行业落地(教培招生、地理信息)+ AI 可见度诊断实战 + GEO 综合认知科普。共收录 7 篇 2026-08 下旬至 9 月初的公众号文章,覆盖监管合规、AI 可见度、平台落地、综合认知四条主线。
+
+### 豆包 GEO 平台合规(2 篇)
+
+| 文章标题 | 公众号 | 一句话点评 | 推荐阅读理由 |
+|----------|--------|------------|--------------|
+| 教培即将大洗牌!不懂 豆包 GEO 招生,机构会直接失去曝光机会 | 幼教同仁帮 | 豆包 GEO 跨行业落地案例(教培/地理信息) | 发布日期 2026-09-01 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2pdPLZ6kPlGUHesA4uuKQ-LzRbLtA4MDVqXa8Fplpd9hdakZQWF_67girYlQTpOsuPuJJmkDfCOEiM0RowBtQnFwd-BIOxdjExtpuncg68OrTU9wD6u2QFkVog20VEetiVBjcY9HvsQov4Uf8NkZEouxDl2j6HryWd5YEXutOHzG7ThyPfZlXYgHDArIyvNLNq6l9XVsuuayyHhFPMuh832CsG6-xMgzQ..&type=2&query=%E8%B1%86%E5%8C%85 GEO&token=D433C747B1C8FE39393F62A15E1212A83965AD6B6A99BDA7 |
+| 深度解析:杭州 豆包 GEO 公司相关地理信息行业实践 | 匠子发现 | 豆包 GEO 跨行业落地案例(教培/地理信息) | 发布日期 2026-09-01 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2pdPLZ6kPlGUHesA4uuKQ-LzRbLtA4MDVqXa8Fplpd9dUTmNuucsKIMP0MPDV4P1ycZR8-UklMHPexfd_q0x-WPhkxRIBr1VTQ6oZSnsr6msj38ms72xXRfVpLPTpyu7P-nPfnp9BtNv6159SHWrvjhtBdrk5vlhjDiKcLfM1hVkixNw4HFhPYuYBeXxqRl_wZJFQ-JzY8S7leyIUFvzxvI3OTRHYU2og..&type=2&query=%E8%B1%86%E5%8C%85 GEO&token=D433C747B1C8FE39393F62A15E1212A83965AD6B6A99BDA7 |
+
+### GEO 监管与合规(1 篇)
+
+| 文章标题 | 公众号 | 一句话点评 | 推荐阅读理由 |
+|----------|--------|------------|--------------|
+| GEO 监管 体系新发布要点解析 | 长沙广袤德馨科技信息有限公司 | 行业 GEO 监管与平台合规动向 | 发布日期 2026-09-03 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2pdPLZ6kPlGpf5wQQOlMAyLzRbLtA4MDVqXa8Fplpd9LBBqWwK-N7jB0g03VpGYXpcXF5S-rljn3A2zF-SI6qHcZwHQsobLmWxXjvi0iSuoC_R8xJHr6me88DXj72oV1P23CKJg6IglkkX4cP74vVq2_BHLCfJPKCENiHf8UZ7vQ1d2JrmiqxGfyww2BLfHerPqO6fShHVo8Tg3SK0_eZiAFV_3u-a3OQ..&type=2&query=GEO %E7%9B%91%E7%AE%A1&token=D433EE09334B7CBABCBDE623DD301C73BC660AB26A99BDAE |
+
+### AI 可见度与诊断(1 篇)
+
+| 文章标题 | 公众号 | 一句话点评 | 推荐阅读理由 |
+|----------|--------|------------|--------------|
+| AI 可见度 诊断结果都有哪些?——实战拆解 AI 全景诊断报告 | Ai搜索优化系统-全国 | AI 可见度诊断实战拆解 | 发布日期 2026-08-30 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2pdPLZ6kPlGh-HZxkTmu9KLzRbLtA4MDVqXa8Fplpd9JaVL7PdqfCA_-zhTbfFQxSPqSJu4sf3CBYal9CJeSA_3fTEcqFQHcU77kUQpJSOm8bDs-XORRT6aBgrFmjZN_qJPQU9XRkkqHzH3T6Evhna5b1hCnWQ_8ElFWbNgSiKkosRUc2Ar04QOnC4Kb3eowbCYbtL44fxpXi-6figveTeFW6cwuUnkdA..&type=2&query=AI %E5%8F%AF%E8%A7%81%E5%BA%A6&token=D433B5B2C5BD8B4D4C4B16D529B608454D17C5386A99BDA4 |
+
+### GEO 综合(3 篇)
+
+| 文章标题 | 公众号 | 一句话点评 | 推荐阅读理由 |
+|----------|--------|------------|--------------|
+| GEO 生成式引擎优化 ｜让 AI 替你的品牌说话 | 地信引擎 | 行业 GEO 监管与平台合规动向 | 发布日期 2026-08-28 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2pdPLZ6kPlGoC-DrsjidimLzRbLtA4MDVqXa8Fplpd9g5HbarsP5XdJcO-SWVVZeNtnsJJQ5tzI0iSl_LMfPwgkE6fs-ZWEJv1DHAvbixaUnQTec-lBQN0qoIGacTpvVpozb64kph3gv0xX_xo9_wx4JhZ-NrvfKqORr5wUOuZVLIXwX52b--2WCSv5aUd7zHchdA1Ikl1lvlXkYyl5MxI6Ebq8fk9diw..&type=2&query=%E7%94%9F%E6%88%90%E5%BC%8F%E5%BC%95%E6%93%8E%E4%BC%98%E5%8C%96&token=D433925FC8B0873E3F4665D85AD78AD0405BE5E16A99BD9E |
+| 什么是 生成式引擎优化 | 团团赚A126 | GEO 入门科普与基础认知 | 发布日期 2026-08-31 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2pdPLZ6kPlGoC-DrsjidimLzRbLtA4MDVqXa8Fplpd9fweAYeb8wYd-D3L28j1XOCIUkzXvtuagQXofrJyjYm9n5-nBld0-t8t0zMstyBXEk2b95_02_ZfrAPJQmjXrE0LOzKq46KutcKcnwPAkJQTtCbhQOAPmjv1NUxkNcCQCMGO8z_fH9WnQctz-jJzhjZqByhP9OpilPVC22zlUXkHwdVqCwyPdzA..&type=2&query=%E7%94%9F%E6%88%90%E5%BC%8F%E5%BC%95%E6%93%8E%E4%BC%98%E5%8C%96&token=D433925FC8B0873E3F4665D85AD78AD0405BE5E16A99BD9E |
+| GEO 工具 越智能, GEO 系统性学习越重要 | 网站建设和seo优化 | GEO 工具学习路径与方法论 | 发布日期 2026-08-30 | 链接:https://weixin.sogou.com/link?url=dn9a_-gY295K0Rci_xozVXfdMkSQTLW6cwJThYulHEtVjXrGTiVgS2pdPLZ6kPlGbAGGTp4AjqyLzRbLtA4MDVqXa8Fplpd9ZRy-l4LGmbYbs_svrAHPe5F7RCCzxwCMCKap-nYAiXKf7Rp5TYaok-BPILUpR3PtOw336IHlhbgtWYHWrDeAAlTIl6vtEkVYOZ4gus2IUQ9FwIWEbbygU8BflXeJ92ps5Fxsz-pwCqvUjnriLbutBK-w9ZXRhSyb0aomYbKvoyM5eBgmN3LoYQ..&type=2&query=GEO %E5%B7%A5%E5%85%B7&token=D433A30AA9D2E520222478BA47EAF69122C56F9C6A99BDA1 |
+

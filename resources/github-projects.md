@@ -1282,3 +1282,17 @@ GEO 的一个核心点,不只是"写",更是"结构化表达"。这类项目有�
 |------|----------|----------|------|
 | RyanAlberts/best-of-Agent-Harnesses | 🏆 Curated, ranked list of AI agent harnesses (100+) — plus an MCP server, llms.txt & JSON so agents can recommend them too. Rescored weekly. | 无 | https://github.com/RyanAlberts/best-of-Agent-Harnesses |
 
+---
+
+## 2026-09-04 更新
+
+> 本期重点:Claude Code Skill 化 GEO 工具持续爆发(Ryze/leopard627/AKCodez 三个项目在 8 月底集中 release,体现「agentic SEO 全自动审计 + 真实数据接入」成熟路径)、Naver AEO 等跨语种 GEO 平台开始被 Skill 化覆盖。共收录 3 个近期高活跃项目,围绕 Claude Code Agent Skill 化 GEO 一条主线展开。
+
+### Claude Code / Agent Skill 化 GEO 工具(3 个)
+
+| 项目 | 中文说明 | 可借鉴点 | 链接 |
+|------|----------|----------|------|
+| Ryze-AI-Adgent/open-seo-mcp-skills | Open-source SEO + GEO skills for Claude — keyword research, rank tracking, site audits, backlinks, competitor gaps, AI visibility. Runs on real Search Console / GA4 / ads data via MCP. | DataForSEO 真实搜索数据接入 + MCP 服务端 + Claude Skill 化打包,体现「真查询替代启发式」完整闭环 | https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills |
+| leopard627/fire-your-seo-agency | Fire your SEO·GEO agency 🔥 A Claude Code skill that audits and optimizes SEO·AEO·GEO·LLMO·NEO(Naver) by itself. | 覆盖韩语 NEO(Naver) 平台的 AEO 一键审计,跨语种 GEO Skill 化方案 | https://github.com/leopard627/fire-your-seo-agency |
+| AKCodez/seo-god | Turn Claude Code into an agentic SEO operator for your own site — audit, measure, daily loop, AI visibility, scheduled runs. Free path, no paid keys. | 零成本路径(无 paid key)的 Claude Code Agentic SEO 自动化运营,适合中小站点试水 | https://github.com/AKCodez/seo-god |
+

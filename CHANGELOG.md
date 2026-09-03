@@ -4,6 +4,62 @@
 
 ---
 
+## 2026-09
+
+### 2026-09-04
+- 📚 补充 GitHub 项目 3 个:Claude Code Agent Skill 化 GEO 工具持续爆发 — Ryze-AI-Adgent/open-seo-mcp-skills(398⭐,DataForSEO 真实数据接入 MCP)、leopard627/fire-your-seo-agency(392⭐,跨语种 NEO/Naver AEO 覆盖)、AKCodez/seo-god(80⭐,零成本 Agentic SEO 自动化)
+- 📚 补充微信公众号文章 7 篇:覆盖监管体系新发布要点、豆包 GEO 跨行业落地(教培招生/地理信息)、AI 可见度诊断实战、GEO 综合认知科普四条主线 — 2026-08-28 至 2026-09-03 时段文章
+- ⚠️ GitHub API 在 stage 2 时间窗查询时触发 403 rate limit,采集侧部分受限(per trap #45b 模式);微信侧 8 个关键词抓取正常(2 个返回 0,空响应)
+
+## 2026-08
+
+### 2026-08-31
+- 📚 补充 GitHub 项目 7 个:聚焦 GEO/AEO Agent Skill 化深化(luka2chat/geo-skills、199-biotechnologies/claude-skill-seo-geo-optimizer)、AEO 监控自动化(DavLis-oss/intelligence-lab)、agent harnesses 资源聚合(RyanAlberts/best-of-Agent-Harnesses,739⭐、每周 rescored)
+- 📚 补充微信公众号文章 9 篇:聚焦豆包 GEO 平台合规再升级(2026-08-30 三禁三必须)、AI 可见度赛道进入价格战阶段、国内首个 AI 可见度向量引擎上线、GEO 监管回看(315 后白帽合规)
+
+### 2026-08-25
+- 📚 补充 GitHub 项目 8 个:聚焦 GEO Skill 化与本地化搜索(锐驰 GEO 系列、本地搜索行业模板、Claude Skill 一键审计)
+- 📚 补充微信公众号文章 9 篇:聚焦 AEO 工具实战与本地化 GEO 案例、行业垂直落地
+
+### 2026-08-16
+- 📚 补充 GitHub 项目 5 个:聚焦 AEO 工具 + Claude Code Skill
+- 📚 补充微信公众号文章 7 篇:聚焦平台分化(豆包/文心/通义)与监管刚性化信号
+
+### 2026-08-10
+- 📚 补充 GitHub 项目 9 个:聚焦 AEO 框架化(usood/seo-aeo-geo-analyzer、Canonry/aeo-audit 系列)与 GEO 信通院标准化推进
+- 📚 补充微信公众号文章 8 篇:聚焦信通院 GEO 标准化进程与 AEO 监测实操
+
+### 2026-08-01
+- 📚 补充 GitHub 项目 7 个:聚焦 GEO Skill 垂直化与本地化搜索(tfmurad/astro-llms-md、ItamarZand88/awesome-agent-conventions 等)
+- 📚 补充微信公众号文章 9 篇:聚焦本地化 GEO 与平台规则更新
+
+## 2026-07
+
+### 2026-07-30
+- 📚 补充 GitHub 项目 8 个:聚焦 GEO 证据治理与 Agent 运营自动化
+- 📚 补充微信公众号文章 7 篇:聚焦 GEO 证据链闭环与 Agent 运营策略
+
+### 2026-07-15
+- 📚 补充 GitHub 项目 9 个:聚焦 MCP 引用追踪(AEO 监测新范式)与平台分化(豆包/文心/通义 GEO 打法)
+- 📚 补充微信公众号文章 8 篇:聚焦 MCP 引用追踪与平台 GEO 打法
+
+### 2026-07-10
+- 📚 补充 GitHub 项目 7 个:聚焦 llms.txt 三层闭环(基础文档 + 完整版 + 工具链)与 GEO 监管刚性化
+- 📚 补充微信公众号文章 9 篇:聚焦 llms.txt 工程化与监管新规倒计时
+
+### 2026-07-05
+- 📚 补充 GitHub 项目 8 个:聚焦 GEO 内容基准化与新规倒计时
+- 📚 补充微信公众号文章 10 篇:聚焦 GEO 内容基准化与新规倒计时信号
+
+### 2026-07-03
+- 📚 补充 GitHub 项目 7 个:聚焦 GEO 营销技能集与合规常态化
+- 📚 补充微信公众号文章 10 篇:聚焦 GEO 营销技能与合规常态化
+
+### 2026-07-01
+- 📚 补充 GitHub 项目 7 个:聚焦 AEO 真实查询审计与 GEO 工具 SOP 化
+- 📚 补充微信公众号文章 9 篇:聚焦 AEO 真实查询审计与工具 SOP
+- 📝 顶部加入 GEO 推广引导段(trap #36 三仓库调性差异化)
+
 ## 2026-06
 
 ### 2026-06-28
